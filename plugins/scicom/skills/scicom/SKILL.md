@@ -23,7 +23,7 @@ Defaults when there is no house style:
 
 1. **Clarify the job.** Identify:
    - format and channel;
-   - audience;
+   - audience, and their level (see `references/writing-and-style.md`);
    - goal: what should the audience do, think or feel afterwards?;
    - length and deadline;
    - messenger: the institute, the researcher, or both;
@@ -105,6 +105,8 @@ Then offer your accurate version as the recommendation. The final choice is thei
 ## Routing table
 
 Load only what the task needs. A quick social post needs the writing and social-media files. A press release needs press-and-media, writing and the review checklist.
+
+**Domain add-ons:** if a domain add-on is installed and the topic matches, load it too. One example is `scicom-quantum` for quantum science and technology. An add-on supplies subject knowledge; this skill's workflow and rules still apply.
 
 For every format, also use its template in `references/templates.md`. Where there is one, use the worked example in `references/examples.md` too: press release, review of a hyped draft, grant post, policy brief.
 

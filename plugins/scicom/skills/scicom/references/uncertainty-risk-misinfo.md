@@ -19,6 +19,11 @@
 - Where consensus exists, say so, and say how many lines of evidence agree.
 - If you use probability words ("likely"), add the number: "likely (about 70%)". People read these words very differently.
 
+**Three kinds of uncertainty readers recognise.** Say which one applies, and be concrete:
+- **Process:** we are still finding out (more experiments needed, a new method, theory not yet tested). Frame it as an open frontier, not a failure.
+- **Context:** it may not hold outside these conditions. Name the conditions: "on a seven-qubit chip near absolute zero" says more than "further research is needed".
+- **Impact:** we don't yet know what it means for society. Separate what the result makes possible in principle from what it delivers in practice.
+
 **Evidence:** in experiments, giving numeric ranges lowered trust only slightly, while vague verbal uncertainty lowered it more (van der Bles et al. 2020).
 
 ## Risk and numbers (FDA evidence-based guide; Science Media Centre guidelines)
@@ -49,6 +54,11 @@ Hype is exaggeration that misleads about how significant, certain, ready or bene
 - Hype words: see the list in `press-and-media.md`.
 
 **Fix:** state what was shown, under which conditions, and what remains to be done. Where possible, let an independent expert put it in context.
+
+**Also:**
+- **Your own sources can be inflated.** Researchers sometimes use hype strategically. In focus groups, quantum physicists acknowledged doing so to secure funding (Soto-Sanfiel et al. 2025). Calibrate their claims too.
+- **Name the hype** when others have overstated a result: "You may have seen headlines claiming X. Here is what the study showed."
+- **Don't overcorrect into dismissiveness.** If a result is genuinely significant, say so clearly and explain why.
 
 ## Responding to misinformation
 

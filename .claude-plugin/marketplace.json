@@ -9,6 +9,11 @@
       "name": "scicom",
       "source": "./plugins/scicom",
       "description": "Plan, write and review science communication for universities and research institutes: press releases, news items, social media, talks, policy briefs, communication plans and more."
+    },
+    {
+      "name": "scicom-quantum",
+      "source": "./plugins/scicom-quantum",
+      "description": "Quantum add-on for scicom: misleading analogies and better framings, subfield framings, quantum claim checks and the quantum hype ecosystem."
     }
   ]
 }

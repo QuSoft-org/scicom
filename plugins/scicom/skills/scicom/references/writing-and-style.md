@@ -16,6 +16,30 @@
 - **And, but, therefore:** "[context] and [context], but [problem], therefore [what we did or found]". Use it to test any pitch, abstract or opening.
 - **"So what?" test:** ask it after each paragraph. If there is no answer for the reader, cut the paragraph or connect it.
 
+## Audience levels and layered writing
+
+| Level | Reader | Write |
+|---|---|---|
+| 1 | General public: school-level science | concrete, warm, one idea at a time; wonder is welcome |
+| 2 | Tech-literate: comfortable with logic, data, probability | mechanism over metaphor, still plain |
+| 3 | Scientist from another field | what is new, what is hard, how it connects to their field |
+| 4 | Specialist in the field | significance, context, open questions; little hand-holding |
+| S | Decision-makers: policy, industry, funders | stakes, options, timelines, decisions |
+
+- **Mixed channels** (website, LinkedIn, newsletters) reach several levels at once, and knowledge of a field is often polarised: many readers know almost nothing, a few know a lot. Write the headline and first two paragraphs for Level 1, then go deeper for readers who continue.
+- **Adjust the depth, never the respect.**
+
+## Six story types
+
+Pick the one that matches what the work actually contributes. Don't force drama onto a solid incremental result.
+
+- **The quest:** people have tried to do X for years; this found a way.
+- **The surprise:** everyone assumed X; this shows otherwise.
+- **The bridge:** it connects two ideas that seemed unrelated.
+- **The threshold:** it pushes past a limit that seemed firm.
+- **The tool:** it gives researchers a new way to do X, which matters because…
+- **The milestone:** one step closer to X, and here is where things stand. Useful for decision-makers.
+
 ## Sentences
 
 - **Length:** average 20 words or fewer; vary the length; one idea per sentence.
@@ -56,10 +80,12 @@
 
 ## Metaphors and analogies
 
-- Choose something the audience knows, and say where the comparison breaks down ("unlike real coins…").
-- One analogy per idea; don't mix them.
-- Avoid mystifying clichés ("spooky", "weird", "magic", "mind-bending"). They make science sound unknowable rather than understandable.
-- Metaphors carry values. Check that yours do not reinforce stereotypes.
+- **Precise first, then vivid,** never the other way round. A direct, concrete explanation often does more than a metaphor.
+- **Use analogies mainly as guardrails** against misconceptions. Choose something the audience knows, and say where the comparison breaks down ("unlike real coins…"). If the breakdown is interesting, it can be the hook.
+- **One analogy per idea;** don't mix them.
+- **Don't use mystique instead of explanation:** "spooky", "weird", "magic", "mind-bending". In a representative Dutch experiment on quantum technology, framing it as mysterious had no effect on engagement, while explaining the physics raised interest (Meinsma et al. 2026).
+- **Feeling less sure is fine.** A good explanation can leave readers feeling less sure while understanding more. Aim for understanding, not for readers feeling clever.
+- **Metaphors carry values.** Check that yours do not reinforce stereotypes.
 
 ## Headlines and titles
 

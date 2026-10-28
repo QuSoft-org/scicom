@@ -61,6 +61,11 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] Platform conventions followed (characters, hooks, hashtags, links last).
 - [ ] Two or three headline or hook options offered where useful.
 
+## 11. Dialogue
+- [ ] It acknowledges what the audience may already think or feel about the topic.
+- [ ] It invites questions or a response, where the format allows.
+- [ ] It neither overstates nor understates: a genuinely significant result is called significant.
+
 ## Final tests
 
 - Would the researcher sign off on every sentence?

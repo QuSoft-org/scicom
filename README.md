@@ -35,10 +35,18 @@ claude plugin marketplace add QuSoft-org/scicom
 claude plugin install scicom@qusoft
 ```
 
+### Quantum add-on
+
+For quantum science and technology, also install the add-on. It adds subject knowledge, such as which analogies mislead and how to check quantum claims; scicom still does the rest.
+
+```
+/plugin install scicom-quantum@qusoft
+```
+
 ## Update
 
 - In Claude Code: run `/plugin marketplace update qusoft`.
-- In a terminal: run `claude plugin update scicom@qusoft`.
+- In a terminal: run `claude plugin update scicom@qusoft` (and `claude plugin update scicom-quantum@qusoft`).
 - Automatically: in `/plugin`, go to Marketplaces, select `qusoft`, and select **Enable auto-update**.
 
 ## Use
