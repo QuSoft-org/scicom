@@ -60,6 +60,12 @@ Just ask. For example:
 
 You can also call the skill directly with `/scicom:scicom`.
 
+## Automated use (no person in the loop)
+
+In pipelines, scheduled jobs or headless runs, the skill can run in automated mode. It then never asks questions. It closes gaps by leaving unverified facts out (never by guessing), and adds a review report with a status (`ready`, `needs_review` or `needs_input`), or nothing at all.
+
+Turn it on in the request, for example `scicom: mode=automated, checks=hidden`, or in the house-style file. Details are in `references/automation.md`.
+
 ## House style
 
 If your project contains a file called `scicom-house-style.md`, the skill follows it: names, boilerplate, tone, spelling, contacts and approval rules. Ask "set up our house style" and it will interview you and create the file.

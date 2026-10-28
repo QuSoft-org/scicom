@@ -19,6 +19,20 @@ Defaults when there is no house style:
 - British English with EU conventions (see `references/writing-and-style.md`).
 - Organisation names, boilerplate and contact details left as `[CHECK: …]` placeholders.
 
+## Interactive or automated mode
+
+- **Interactive** (default): a person reads the output. Ask questions where needed, mark unresolved facts `[CHECK: …]` in the draft, and add notes.
+- **Automated:** no person can answer, for example in a pipeline, a scheduled job or a headless run. Never ask or wait. Load `references/automation.md` and follow it. Its rules take precedence over the questions in step 1, the notes in step 6 and the quote placeholders.
+
+Use automated mode when the request or the house style says `mode: automated`, or when there is clearly no way to ask anyone.
+
+**Markers are a separate setting:**
+- `checks: inline`: markers in the text (the interactive default);
+- `checks: list`: clean text, with unresolved items listed after it (the automated default);
+- `checks: hidden`: clean text only.
+
+Hiding the markers never permits guessing. Close every gap by leaving the fact out or writing around it, never by inventing it.
+
 ## Workflow
 
 1. **Clarify the job.** Identify:
@@ -42,7 +56,12 @@ Defaults when there is no house style:
    - stage and realistic next steps. Never invent timelines to applications;
    - people (names, roles, affiliations), partners, funders and grant numbers, DOI or link.
 
-   Take facts from the source or the user. You may add well-established background knowledge for context, marked `[CHECK]` so the researcher can verify it. Never add findings, numbers or names of your own. For quotes, follow the quote rule under "Working safely with AI-drafted text". Where something is unknown, write `[CHECK: …]` instead of guessing.
+   Take facts from the source or the user. You may add well-established background knowledge for context, marked `[CHECK]` so the researcher can verify it. Never add findings, numbers or names of your own. For quotes, follow the quote rule under "Working safely with AI-drafted text". Where something is unknown, first try to resolve it:
+   - from the source itself: papers usually give authors, affiliations, funders, journal and numbers;
+   - from the house-style file;
+   - if you have tools for it, from a reliable lookup such as the DOI record or the journal's page.
+
+   Mark `[CHECK: …]` only what is still unresolved, or handle it as the `checks` setting says. Never guess.
 
 3. **Decide the message.** Write the main message as one sentence a non-specialist would understand, plus at most three supporting points. If the user needs help finding the message, use the Message Box: issue, problem, so what, solutions, benefits. For plans and campaigns, follow `references/strategy-and-stakeholders.md`.
 
@@ -124,6 +143,7 @@ For every format, also use its template in `references/templates.md`. Where ther
 | Uncertainty, risk and numbers, hype, misinformation, trust | `references/uncertainty-risk-misinfo.md` |
 | Ethics, integrity, consent, embargoes, patents, AI use, researcher safety | `references/ethics-integrity-ai.md` |
 | Final check of any draft | `references/review-checklist.md` |
+| Running without a person: pipelines, scheduled jobs, headless runs | `references/automation.md` |
 | Fill-in templates; worked examples | `references/templates.md`, `references/examples.md` |
 | Dutch or EU context: media, funders, policy bodies, safety support | `references/context-netherlands-eu.md` |
 | Creating a house style | `references/house-style-setup.md` |

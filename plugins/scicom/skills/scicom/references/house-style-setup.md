@@ -46,6 +46,11 @@ A house style file makes every later draft use the organisation's own names, ton
 18. Which topics are sensitive and need escalation, and to whom? (Examples: security-sensitive research, patents, controversies, crises.)
 19. Is there a policy on disclosing AI use in communication texts?
 
+### Round 5: automation (only if relevant)
+
+20. Will the skill run without a person, for example in a pipeline or scheduled job? Which mode, and how should unresolved facts be shown? (Default: `mode: interactive`, `checks: inline`. For pipelines: `mode: automated`, `checks: list` or `hidden`, `report: text` or `json`. See `automation.md`.)
+21. Which formats may be published without human approval, if any? (Default: none. Safest: posts about already published papers.)
+
 ## Template
 
 ```markdown
@@ -91,4 +96,11 @@ Last updated: <date>, by <name>
 - Accessibility:
 - Sensitive topics and escalation:
 - AI-use disclosure:
+
+## Automation
+- mode: interactive   # or automated
+- checks: inline      # inline, list or hidden
+- report: text        # text or json (used when checks is list)
+- variants: 0         # alternative headlines or hooks in automated runs
+- Formats that may be published without human approval: none
 ```

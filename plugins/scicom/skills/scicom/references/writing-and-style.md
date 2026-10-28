@@ -84,7 +84,7 @@ Pick the one that matches what the work actually contributes. Don't force drama 
 - **Use analogies mainly as guardrails** against misconceptions. Choose something the audience knows, and say where the comparison breaks down ("unlike real coins…"). If the breakdown is interesting, it can be the hook.
 - **One analogy per idea;** don't mix them.
 - **Don't use mystique instead of explanation:** "spooky", "weird", "magic", "mind-bending". In a representative Dutch experiment on quantum technology, framing it as mysterious had no effect on engagement, while explaining the physics raised interest (Meinsma et al. 2026).
-- **Feeling less sure is fine.** A good explanation can leave readers feeling less sure while understanding more. Aim for understanding, not for readers feeling clever.
+- **Feeling less sure is fine.** A good explanation can leave readers feeling less sure while understanding more. Aim for understanding, not for readers feeling clever. In a Dutch experiment on quantum news (1,167 adults), explanations raised actual understanding but lowered perceived understanding, and metaphorical explanations did no better than plain ones (Meinsma, Reijnierse & Cramer 2026).
 - **Metaphors carry values.** Check that yours do not reinforce stereotypes.
 
 ## Headlines and titles

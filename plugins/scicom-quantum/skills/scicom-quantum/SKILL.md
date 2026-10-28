@@ -44,7 +44,7 @@ If scicom is not installed, still apply its core rules:
   - In an experiment with 637 Dutch adults, enigmatic framing did not affect engagement, while explaining the physics raised general interest (Meinsma et al. 2026).
 - **What follows:** mystique neither helps nor harms engagement, but it explains nothing, so never use it instead of an explanation.
 - **Balanced frames:** in the same experiment, presenting both a benefit and a risk lowered how much people *felt* they knew. That is no reason to drop risks; accuracy matters more than the feeling of knowing.
-- **Unverified (†):** Meinsma's 2026 thesis reportedly finds that metaphors add little to comprehension, and that good explanations raise understanding while lowering confidence. Check the thesis before citing this.
+- **Metaphors:** in an experiment with 1,167 Dutch adults reading a news article about a quantum computer, explanations of superposition or entanglement raised actual understanding, but lowered how well readers *felt* they understood the article. Metaphorical explanations offered no benefit over plain ones (Meinsma, Reijnierse & Cramer 2026). So explain directly, use analogies mainly to head off misconceptions, and don't worry if readers feel the topic is harder than they thought.
 
 ## Look beyond quantum computing
 
@@ -86,10 +86,11 @@ Use established Dutch terms in running text: verstrengeling (entanglement), supe
 
 ## Sources
 
-Findings marked † were taken from QuSoft's earlier quantum-scicomm skill and have not been checked against the full text.
+All findings above were checked against the published abstracts in October 2026.
 
 - MIT Initiative on the Digital Economy (2025). *Quantum Index Report 2025*. arXiv:2506.04259
-- Meinsma, A. L. (2026). *In a State of Superposition: Exploring (In)Effective Public Communication About Quantum Technology*. PhD thesis, Leiden University: https://hdl.handle.net/1887/4288270 †
+- Meinsma, A. L. (2026). *In a State of Superposition: Exploring (In)Effective Public Communication About Quantum Technology*. PhD thesis, Leiden University: https://hdl.handle.net/1887/4288270
+- Meinsma, A. L., Reijnierse, W. G. & Cramer, J. (2026). Like a coin spinning in the air: the effect of (non-)metaphorical explanations on comprehension and attitudes towards quantum technology. *Metaphor and the Social World*: https://doi.org/10.1075/msw.25018.mei
 - Meinsma, A. L. et al. (2023). *Quantum Science and Technology*: https://doi.org/10.1088/2058-9565/acc968
 - Meinsma, A. L., Rothe, T., Reijnierse, W. G., Smeets, I. & Cramer, J. (2025). Quantum in the media: a content analysis of Dutch newspapers. *Science Communication*: https://doi.org/10.1177/10755470251318300
 - Meinsma, A. L., Albers, C. J., Vermaas, P. E., Smeets, I. & Cramer, J. (2026). The effect of frames on engagement with quantum technology. *EPJ Quantum Technology*: https://doi.org/10.1140/epjqt/s40507-026-00549-0

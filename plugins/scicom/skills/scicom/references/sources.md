@@ -143,4 +143,5 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Meinsma, A. L., Rothe, T., Reijnierse, W. G., Smeets, I. & Cramer, J. (2025). *Science Communication*: https://doi.org/10.1177/10755470251318300
 - Meinsma, A. L., Albers, C. J., Vermaas, P. E., Smeets, I. & Cramer, J. (2026). *EPJ Quantum Technology*: https://doi.org/10.1140/epjqt/s40507-026-00549-0
 - Meinsma, A. L. (2026). *In a State of Superposition*. PhD thesis, Leiden University: https://hdl.handle.net/1887/4288270
+- Meinsma, A. L., Reijnierse, W. G. & Cramer, J. (2026). Like a coin spinning in the air. *Metaphor and the Social World*: https://doi.org/10.1075/msw.25018.mei
 - MIT Initiative on the Digital Economy (2025). *Quantum Index Report 2025*: arXiv:2506.04259
