@@ -23,7 +23,7 @@
 
 ## Risk and numbers (FDA evidence-based guide; Science Media Centre guidelines)
 
-- **Absolute before relative:** "risk rises from 2 in 1,000 to 3 in 1,000", not just "50% higher risk".
+- **Absolute before relative:** "risk rises from 2 in 1 000 to 3 in 1 000", not just "50% higher risk".
 - **Natural frequencies with the same denominator:** "3 in 100 versus 8 in 100", not "3% versus 1 in 12".
 - Give the **baseline** and the **time frame**.
 - **Round sensibly:** "about 40%", not "39.7%".
@@ -46,7 +46,7 @@ Hype is exaggeration that misleads about how significant, certain, ready or bene
 - "First" or "breakthrough" without the context of earlier work.
 - Lab or simulation results presented as real-world performance.
 - A single study presented as settled.
-- Words such as revolutionary, game-changer, holy grail, cure, solve, paves the way.
+- Hype words: see the list in `press-and-media.md`.
 
 **Fix:** state what was shown, under which conditions, and what remains to be done. Where possible, let an independent expert put it in context.
 
@@ -75,7 +75,7 @@ Keep it short and plain. Give an alternative explanation that fills the gap the 
 
 ## Trust: what recent data say
 
-- **68 countries, 71,922 people (Cologna et al. 2025):**
+- **68 countries, 71 922 people (Cologna et al. 2025):**
   - In most countries, most people trust scientists.
   - 83% agree that scientists should communicate about science with the general public.
   - About half (52%) want scientists to be more involved in policymaking.

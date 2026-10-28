@@ -4,10 +4,14 @@ A house style file makes every later draft use the organisation's own names, ton
 
 ## How to run the setup
 
-1. **Start from existing material.** Ask for whatever already exists: a recent press release, the "about us" text, the brand or style guide, the website newsroom, social media handles. Fill in as much as you can from that before asking anything.
+1. **Start from existing material.**
+   - In your first reply, ask for whatever already exists: a recent press release, the "about us" text, the brand or style guide, the website newsroom, social media handles.
+   - Fill in what you can from it, then ask only what is still missing.
+   - If they have nothing to hand, start Round 1 straight away.
+   - Also offer a quick version: the five questions that matter most (names, boilerplate, English variant, tone, approvals), with the rest left as `[TODO]`.
 2. **Ask in short rounds.** Use the four rounds below, five or six questions at a time, never all at once. Suggest a default in brackets so the user can simply say "yes". Accept "skip" and "don't know"; leave those fields as `[TODO]`.
 3. **Show the draft.** Write the file using the template at the end, show it, and ask for corrections.
-4. **Save it.** Save it as `scicom-house-style.md` in the project folder the user works from. Tell the user they can edit it by hand at any time.
+4. **Save it.** Save it as `scicom-house-style.md` in the project folder the user works from. Tell the user they can edit it by hand at any time. If you cannot save files, give the full file content for the user to save.
 
 ## Guiding questions
 

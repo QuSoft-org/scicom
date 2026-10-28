@@ -26,7 +26,7 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] No extrapolation beyond what the results show; timelines only if the researchers give and justify them.
 
 ## 4. Claims and hype
-- [ ] Scanned for hype words (breakthrough, first, unprecedented, revolutionary, game-changer, transform, solve, cure, proves, paves the way, could lead to). Each one is justified or removed.
+- [ ] Scanned for hype words, using the list in `press-and-media.md`. Each one is justified or removed.
 - [ ] Headline and lede are no stronger than the paper's own conclusions.
 - [ ] Hope is kept apart from findings.
 

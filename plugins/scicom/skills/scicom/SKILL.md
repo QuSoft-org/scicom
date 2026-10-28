@@ -13,7 +13,7 @@ Accuracy and research integrity come before promotion. Overstating the work dama
 
 Before drafting, look for `scicom-house-style.md` in the working directory or project. If it exists, read it and apply it: it overrides the defaults in this skill.
 
-If there is no house style and the user writes for an organisation, offer once to create one using `references/house-style-setup.md`. Don't block the current task on it.
+If there is no house style and the user writes for an organisation, offer once per conversation to create one using `references/house-style-setup.md`. Don't block the current task on it.
 
 Defaults when there is no house style:
 - British English with EU conventions (see `references/writing-and-style.md`).
@@ -29,26 +29,28 @@ Defaults when there is no house style:
    - messenger: the institute, the researcher, or both;
    - source material.
 
-   If you can tell what the main finding and the goal are, draft straight away. Put `[CHECK: …]` placeholders where facts are missing, and ask your questions (at most three) after the draft. Ask before drafting only when you cannot tell what the main finding or the goal is.
+   Load the reference files for the format now (routing table below). Then the news test, calibration rules and templates shape what you look for.
+
+   If you can tell what the main finding and the goal are, draft straight away. Put `[CHECK: …]` placeholders where facts are missing, and ask your questions after the draft: at most three questions, though `[CHECK]` markers are not limited. Ask first, giving a short outline instead of a draft, when you cannot tell the main finding or goal, or when more than about half of the draft would be placeholders.
 
 2. **Get the science right.** Before writing, build a short fact sheet from the source material:
    - the finding in one plain sentence;
    - the type of evidence: peer-reviewed paper or preprint; theory, simulation, lab experiment, observational study, field study, trial or prototype;
    - scale: sample size, number of devices or samples, duration, whatever is relevant;
-   - what is new compared with earlier work, according to the authors, and how it compares with recent competing work. Check every "first" or "better than" claim;
+   - what is new compared with earlier work, according to the authors, and how it compares with recent competing work. Check every "first" or "better than" claim. If you cannot, mark it `[CHECK]` and phrase it cautiously, or drop the comparison;
    - limitations and conditions: lab conditions, model system, animals or cells, small sample, not yet replicated;
    - stage and realistic next steps. Never invent timelines to applications;
    - people (names, roles, affiliations), partners, funders and grant numbers, DOI or link.
 
-   Take facts from the source or the user. You may add well-established background knowledge for context, marked `[CHECK]` so the researcher can verify it. Never add findings, numbers, names or quotes of your own. Where something is unknown, write `[CHECK: …]` instead of guessing.
+   Take facts from the source or the user. You may add well-established background knowledge for context, marked `[CHECK]` so the researcher can verify it. Never add findings, numbers or names of your own. For quotes, follow the quote rule under "Working safely with AI-drafted text". Where something is unknown, write `[CHECK: …]` instead of guessing.
 
 3. **Decide the message.** Write the main message as one sentence a non-specialist would understand, plus at most three supporting points. If the user needs help finding the message, use the Message Box: issue, problem, so what, solutions, benefits. For plans and campaigns, follow `references/strategy-and-stakeholders.md`.
 
-4. **Draft in the right format.** Load the reference file for the format (routing table below) and follow its structure and length.
+4. **Draft in the right format.** Follow the structure and length in the format file, and the matching template in `references/templates.md` where there is one.
 
 5. **Review.** Run `references/review-checklist.md`. Fix what fails rather than just reporting it.
 
-6. **Deliver.** Give the draft first. Then, briefly:
+6. **Deliver.** Give the draft first. Then add short notes, scaled to the deliverable: two or three bullets for a social post, the full list below for a press release, brief or plan:
    - assumptions you made;
    - `[CHECK]` items and questions for the researcher;
    - who should approve it (the researcher always checks facts and quotes);
@@ -56,7 +58,7 @@ Defaults when there is no house style:
    - visual suggestions, with alt text;
    - channel and timing advice, when useful.
 
-When reviewing someone else's draft, start with the three to five changes that matter most, accuracy and hype first, each with a one-line reason so the author learns the pattern. Then give a revised version that keeps the author's voice and structure where they work, then minor notes.
+When reviewing someone else's draft, start with the three to five changes that matter most, accuracy and hype first, each with a one-line reason so the author learns the pattern. Then give a revised version that keeps the author's voice and structure where they work, then minor notes. If the draft is only a stub, revise it, say what is missing, and offer to expand it once the facts arrive.
 
 ## Ten principles
 
@@ -104,6 +106,8 @@ Then offer your accurate version as the recommendation. The final choice is thei
 
 Load only what the task needs. A quick social post needs the writing and social-media files. A press release needs press-and-media, writing and the review checklist.
 
+For every format, also use its template in `references/templates.md`. Where there is one, use the worked example in `references/examples.md` too: press release, review of a hyped draft, grant post, policy brief.
+
 | Task | Load |
 |---|---|
 | Communication plan, campaign, stakeholder analysis, audience choice, objectives, evaluation | `references/strategy-and-stakeholders.md` |
@@ -138,7 +142,10 @@ Build the fact sheet and the message once and reuse them, so every format says t
 
 ## Working safely with AI-drafted text
 
-- **Approval-ready quotes.** If asked to "add a quote", draft it visibly as a suggestion: `[DRAFT QUOTE for <name> to approve or rewrite]`. Never present a drafted quote as something a person said.
+- **The quote rule.**
+  - If no real quote is supplied, insert a placeholder: `[QUOTE: <name> on <topic>, to be supplied and approved]`.
+  - Draft suggested wording only when the user asks for it, marked `[DRAFT QUOTE for <name> to approve or rewrite]`.
+  - Never present drafted words as something a person said.
 - **Mark the unverified.** Mark every unverified fact `[CHECK]`, and never claim you checked something you did not.
 - **Protect material.** Treat unpublished, embargoed and confidential material carefully: don't share it beyond the task.
 - **Images.** Never present AI-generated images as real results or real lab scenes; label illustrative AI imagery.

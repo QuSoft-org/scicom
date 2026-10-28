@@ -26,7 +26,7 @@
 
 | Platform | Main audiences | What works | Length and format |
 |---|---|---|---|
-| LinkedIn | industry, funders, policy, alumni, prospective staff and PhD candidates | first-person posts by researchers; lessons and implications; document or carousel posts | about 150–300 words; the first two lines decide; image or PDF carousel |
+| LinkedIn | industry, funders, policy, alumni, prospective staff and PhD candidates | first-person posts by researchers; lessons and implications; document or carousel posts | about 80–250 words; the first two lines decide; image or PDF carousel |
 | Bluesky, Mastodon, X | researchers, science journalists, some policy people | threads with one point per post; figures; joining conversations | 300 characters on Bluesky, 500 by default on Mastodon, 280 on free X; 3–8 posts; the first post must stand alone |
 | Instagram | students, prospective students, the public | behind the scenes; carousels with one point per slide; Reels | 5–10 slides; caption of about 150 words at most; alt text |
 | TikTok, Reels, YouTube Shorts | younger audiences, the public | a face talking to camera; a hook within 1–2 seconds; one question answered; captions; real settings. About 60 seconds of lecture-style explaining can do well | 15–90 seconds, vertical, captions burned in |
@@ -47,6 +47,14 @@ Who appears on camera matters: representation affects engagement and whether vie
 - Vacancies with the human side.
 - Milestones framed by what they enable.
 - Explaining news in your field of expertise. Stay within it.
+
+## Grant, award and milestone posts
+
+- **Lead with what the money or role makes possible,** and why it matters. Then who, how much and from whom.
+- **No "happy to share" or "proud to announce".**
+- **Check the announcement date first:** has the funder announced the results publicly? Many funders set a date before which recipients may not post.
+- **Name the funder and programme correctly,** tag them, and follow their visibility rules for logos.
+- **End with a useful action,** such as a vacancy or a link to the news item.
 
 ## One paper, many posts
 

@@ -16,7 +16,11 @@ Pielke describes four idealised roles for experts in policy:
 2. Is the uncertainty low?
 
 - **Both yes:** Pielke calls this "tornado politics". Everyone wants to survive the tornado, and the only question is whether to stay or go. The facts settle it, so answering questions as an arbiter is enough.
-- **Either answer no:** "abortion politics". Values conflict, science cannot settle the matter, and evidence is easily used as a proxy in a fight about values. Act as an honest broker, or as an openly declared advocate.
+- **Values conflict:** Pielke calls this "abortion politics". Science cannot settle the matter, and evidence is easily used as a proxy in a fight about values. Act as an honest broker, or as an openly declared advocate.
+- **Shared goals, but high uncertainty** (common for technology risks and timing questions): the facts alone cannot settle it either.
+  - Offer options with their consequences, as an honest broker.
+  - If the policymaker explicitly asks for advice, give a clearly labelled recommendation of robust actions: steps that make sense across the plausible range of outcomes.
+  - Keep evidence and judgement visibly apart.
 
 **Further rules:**
 - **Avoid stealth advocacy:** claiming to present "just the science" while steering towards a preferred policy.
@@ -39,7 +43,9 @@ Pielke describes four idealised roles for experts in policy:
 - **Be patient and persistent.** Influence is rarely quick or linear, and engagement costs time and can cost reputation.
 - **Pick your role** (see above) and stay consistent.
 
-## Policy brief (2–4 pages, about 1,500 words at most)
+## Policy brief (2–4 pages)
+
+Budget about 400–450 words per page with one visual, so a two-page brief runs roughly 800–900 words.
 
 1. **Title:** the key finding or implication.
 2. **Key messages:** three to five bullets at the top.
@@ -50,6 +56,12 @@ Pielke describes four idealised roles for experts in policy:
 7. **Sources, authors, contact details and date.**
 
 Share a draft with intended users, co-produce it where possible, and time it to the policy agenda.
+
+- **The position comes from the experts.** Draft the structure and the questions; never invent the group's assessment. If a starting position helps, mark it `[DRAFT POSITION for the authors to confirm or replace]`.
+- **Ask early:**
+  - which decision the brief feeds, by when, and for which systems or people;
+  - whether it is confidential;
+  - which language it should be in (Dutch ministries usually expect Dutch).
 
 ## Other policy formats
 

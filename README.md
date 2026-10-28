@@ -19,7 +19,7 @@ A Claude Code plugin with one skill, **scicom**. It helps communication staff an
 
 This repository is private. Before installing you need two things:
 - access to `QuSoft-org/scicom` on GitHub (ask a QuSoft-org owner);
-- to be signed in to GitHub on your computer. The simplest way is to install GitHub's tool (`brew install gh`) and run `gh auth login`.
+- to be signed in to GitHub on your computer. The simplest way is to install GitHub's tool (`brew install gh`), then run `gh auth login` and `gh auth setup-git`.
 
 Then, in Claude Code, type:
 
@@ -34,6 +34,12 @@ Or run these in a terminal:
 claude plugin marketplace add QuSoft-org/scicom
 claude plugin install scicom@qusoft
 ```
+
+## Update
+
+- In Claude Code: run `/plugin marketplace update qusoft`.
+- In a terminal: run `claude plugin update scicom@qusoft`.
+- Automatically: in `/plugin`, go to Marketplaces, select `qusoft`, and select **Enable auto-update**.
 
 ## Use
 

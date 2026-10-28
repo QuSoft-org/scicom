@@ -43,7 +43,7 @@ EMBARGOED UNTIL [hh:mm time zone, day month year]
 
 [How they did it: method in plain words, with one concrete detail.]
 
-"[Approved quote from the lead researcher: meaning or motivation, not a repeat of facts]," says [name, role, institution].
+‘[Approved quote from the lead researcher: meaning or motivation, not a repeat of facts. If none is supplied: [QUOTE: <name> on <topic>, to be supplied and approved]]’, says [name, role, institution].
 
 [Implications and realistic next steps.]
 

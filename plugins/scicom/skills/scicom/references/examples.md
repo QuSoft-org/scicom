@@ -41,13 +41,13 @@ All examples are **fictional**: invented studies, people and institutions, made 
 
 **Review, the three changes that matter most:**
 1. "Makes you" and "prove" claim causation, but the study is observational. Write "is linked to".
-2. No study type or size given. Add "in a study of 1,200 secondary-school students in three countries" [CHECK].
+2. No study type or size given. Add "in a study of 1 200 secondary-school students in three countries" [CHECK].
 3. The quote says "every school should start later". That advice goes beyond the evidence. Ask the researcher to reword it, or add context from an independent expert.
 
 **Revised headline:** "More sleep linked to higher maths scores in secondary-school students".
 
 **Revised lede:**
-> Secondary-school students who slept more than eight hours a night scored higher on maths tests than those who slept less, a study of 1,200 students [CHECK] found. The study shows a link, not that sleep causes the higher scores: other factors, such as family routines, may play a role.
+> Secondary-school students who slept more than eight hours a night scored higher on maths tests than those who slept less, a study of 1 200 students [CHECK] found. The study shows a link, not that sleep causes the higher scores: other factors, such as family routines, may play a role.
 
 ## 3. A grant announcement on LinkedIn
 
@@ -55,9 +55,9 @@ All examples are **fictional**: invented studies, people and institutions, made 
 > Happy to share that I received a €1.5M grant from [funder]!! So grateful to my amazing team 🙏 #grant #research
 
 **After, in the researcher's voice:**
-> Every year, bridges across Europe need inspections that close roads for days. With a new €1.5 million grant from [funder] [CHECK], my team will spend five years developing sensors that let a bridge report its own cracks, without closing the road.
+> Every year, bridges across Europe need inspections that close roads for days [CHECK]. With a new €1.5 million grant from [funder] [CHECK], my team will spend five years [CHECK] developing sensors that let a bridge report its own cracks, without closing the road.
 >
-> Our first step: testing the sensors on a decommissioned bridge near [city] next spring.
+> Our first step: [CHECK: the researcher's own first step, e.g. testing the sensors on a decommissioned bridge].
 >
 > Thanks to [co-applicants, tagged] and to [funder, tagged].
 >

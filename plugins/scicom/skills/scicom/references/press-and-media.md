@@ -33,11 +33,11 @@ If fewer than three apply, write a news item and social posts instead. Over-rele
    - subject: people, animals, cells, materials, devices, models, data.
 2. **Headline:** the finding in plain words with an active verb, about 12 words at most. No question, no pun that hides the meaning, no hype.
 3. **Subhead:** one sentence on why it matters, or key context.
-4. **Embargo line:** `EMBARGOED UNTIL 16:00 CET, 4 March 2027`, matching the journal's embargo exactly.
-5. **Lede** (35–40 words at most): who found what, and why it matters.
+4. **Embargo line,** placed at the very top, above the labels and headline: `EMBARGOED UNTIL 16:00 CET, 4 March 2027`, matching the journal's embargo exactly.
+5. **Lede** (about 35 words at most): who found what, and why it matters.
 6. **Context:** the problem, and what was known before.
 7. **How they did it:** the method in plain words, with one concrete, vivid detail.
-8. **Quote from the lead researcher:** meaning, motivation or significance, not a repeat of the facts. It must be real and approved.
+8. **Quote from the lead researcher:** meaning, motivation or significance, not a repeat of the facts. It must be real and approved. If none is supplied, use a `[QUOTE: …]` placeholder (see the quote rule in `SKILL.md`).
 9. **Implications and next steps:** realistic, with anything speculative marked as such.
 10. **Limitations:** conditions, stage, and what the work does not show.
 11. **Optional second quote** from a co-author, partner or independent expert who agreed to it. Independent voices make a story more credible, and journalists rarely add them themselves.
@@ -67,6 +67,12 @@ If fewer than three apply, write a news item and social posts instead. Over-rele
 - When releases exaggerated advice, causation or animal-to-human relevance, the news usually did too. When releases were accurate, the news mostly was as well.
 - Caveats, and claims aligned with the evidence, did not reduce news uptake.
 - Only about 7% of UK and Dutch health stories added a quote from an independent expert. Journalists mostly use what the release gives them.
+
+**Health and medical research needs extra care:**
+- Never suggest a treatment or cure from studies in cells, animals or early human trials. Name the stage in the headline or lede.
+- Avoid false hope for patients and families: say what it does not mean yet, and how far off any treatment is, if the researchers say so.
+- Use the press-release labels, and consider asking a patient organisation or independent clinician for context.
+- Never give medical advice. Where relevant, point readers to their doctor.
 
 ## Approval and embargoes
 
