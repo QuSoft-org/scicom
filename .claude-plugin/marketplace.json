@@ -1,0 +1,14 @@
+{
+  "name": "qusoft",
+  "description": "Claude Code plugins from QuSoft (Amsterdam).",
+  "owner": {
+    "name": "QuSoft"
+  },
+  "plugins": [
+    {
+      "name": "scicom",
+      "source": "./plugins/scicom",
+      "description": "Plan, write and review science communication for universities and research institutes: press releases, news items, social media, talks, policy briefs, communication plans and more."
+    }
+  ]
+}

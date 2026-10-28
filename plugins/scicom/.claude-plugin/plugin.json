@@ -1,0 +1,11 @@
+{
+  "name": "scicom",
+  "description": "Plan, write and review science communication for universities and research institutes: press releases, news items, social media, talks, policy briefs, communication plans and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "QuSoft"
+  },
+  "homepage": "https://github.com/QuSoft-org/scicom",
+  "repository": "https://github.com/QuSoft-org/scicom",
+  "keywords": ["science communication", "press release", "research", "university", "outreach", "policy brief"]
+}
