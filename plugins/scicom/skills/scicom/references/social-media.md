@@ -21,6 +21,8 @@
 - **No "Happy to share…".** Start with what the reader gets.
 - **Respond:** reply to questions, thank people, and correct errors openly.
 - **Researchers' own accounts** often outperform institutional ones. Support researchers with templates and images, and let institutional accounts amplify them.
+- **Institutional role:** researchers posting as staff follow the institution's and funder's guidelines. On politically sensitive topics, involve the communications office.
+- **Breaking news:** check scheduled posts, and make sure someone can pause them.
 
 ## Platform notes
 
@@ -85,6 +87,7 @@ For EU-funded work, follow the grant agreement's visibility rules: the EU emblem
 
 - Visible researchers increasingly face hostile comments, harassment and threats, especially on contested topics. Women and early-career researchers are targeted more often (Mede 2026).
 - **Before posting on a sensitive topic:** agree who monitors and responds, prepare a short factual reply, and decide when to ignore, mute, block or report.
+- Publish house rules for comments, use keyword filters, and answer genuine questions.
 - Don't argue with trolls. When correcting misinformation, write for the people reading along, not for the attacker (see `uncertainty-risk-misinfo.md`).
 - Keep private details (home address, private phone) off public profiles.
 - Report threats to the institution's security or HR team. In the Netherlands, also use WetenschapVeilig.
@@ -95,6 +98,7 @@ Match the metric to the objective:
 - impressions: awareness;
 - comments and shares: engagement;
 - clicks: interest;
+- shares by journalists, policymakers and peers, and pickups in news or policy documents: influence;
 - applications or registrations: behaviour;
 - quality of conversation: listening.
 

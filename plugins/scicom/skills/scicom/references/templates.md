@@ -53,6 +53,8 @@ EMBARGOED UNTIL [hh:mm time zone, day month year]
 
 [Credits: collaborators, institutions, funders and the required acknowledgement.]
 
+Competing interests: [none / spin-off shares, patents, industry funding]
+
 Publication: [authors], '[title]', [journal], [date]. DOI: [doi]
 
 Media contact: [name, phone, email] · Researcher available: [dates, languages]
@@ -81,6 +83,17 @@ Subject: [the finding in 8–10 words]
 [Your name and contact.]
 ```
 
+## Expert availability
+
+```
+Subject: Experts available on [topic in the news]
+[One paragraph: the news event and why these experts can help.]
+[For each expert: name, role, the angle they can speak to, direct contact, availability and languages.]
+[Any relevant interests, disclosed.]
+```
+
+Before sending, check that each expert is available, can speak plainly and has no undisclosed conflict of interest.
+
 ## Media advisory
 
 ```
@@ -102,8 +115,9 @@ Hi [name],
 [Why this fits what they cover: one sentence.]
 [What was found and why their readers will care: two sentences.]
 [Why now: publication date or embargo, a news hook.]
+[Main limitation in one phrase, e.g. "lab only so far".]
 [What you offer: interview, data, visuals, lab visit, exclusive?]
-[Link. No attachments.]
+[Link to the paper; researcher's direct contact. No attachments.]
 [Name, role, phone]
 ```
 
@@ -113,12 +127,15 @@ Hi [name],
 Outlet / journalist / audience:
 Angle and other sources:
 Format (live / recorded; studio / phone / video), length, deadline:
-Main message (one sentence):
+Main message (one sentence; also in 30 seconds):
+Broadcast soundbite (5–10 seconds):
 Supporting points (two):
 Example or analogy:
 One memorable number:
 Hard questions and answers (limitations, timelines, money, risks, "what does it mean for me?"):
+Relationships to disclose (industry, spin-offs, boards); independent experts to suggest:
 Things I will not speculate about:
+Quote and fact check agreed? (always ask to check own quotes; the rest for factual accuracy only):
 Practical: location, connection, clothing, press office contact:
 ```
 
@@ -203,6 +220,8 @@ What we know: [facts only]
 What we are doing: [actions]
 Who is affected and our concern for them: [empathy]
 What people should do: [if relevant]
+What we don't know yet: [open questions]
+What we have changed or will change: [if relevant]
 When we will update next: [time]
 Contact: [spokesperson]
 ```

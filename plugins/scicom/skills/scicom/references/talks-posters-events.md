@@ -4,13 +4,13 @@
 
 - **Start from the audience:** what do they know, what do they need, and how much time is there?
 - **One main message,** said in the first minute and again in the last.
-- **Story arc:** the question → why it matters → what we did → what we found → what it means.
+- **Story arc:** open with the result, a puzzle or an early failure, not the paper's order. Then why it matters, what we did, and what it means.
 - **Slides in assertion–evidence style:** a full-sentence headline stating the point, plus a visual that supports it.
   - Few words, one idea per slide, readable from the back of the room.
   - No dense bullet lists.
 - **Timing:** start from roughly one slide per minute. Rehearse aloud with a timer, and leave time for questions.
 - **Engage:** ask a question, show an object, give a demonstration, tell a story.
-- **Questions and answers:** repeat the question, answer briefly, and admit what you don't know. Then bridge back to the message.
+- **Questions and answers:** repeat the question, answer briefly, and admit what you don't know. Then bridge back to the message. If a questioner turns disruptive, offer to continue afterwards. If someone is angry or grieving, listen and acknowledge before explaining.
 - **Online:**
   - camera at eye level, good light and sound, and look into the lens;
   - shorter segments;
@@ -43,13 +43,16 @@ Formats: science cafés, festivals, open days, science slams, public lectures, m
 
 - **Interaction over lecturing:** hands-on demonstrations, objects, questions, polls.
 - **Connect** to people's interests and daily lives, and invite questions from the start.
+- **Know who comes:** café and lecture audiences already like science. Set goals to match, and partner with schools or community groups to reach beyond them.
+- **To hear views,** use small-group formats (World Café, citizen panels), not open-mic Q&A.
 - **Role models:** visible and diverse. Let PhD candidates and technicians present too.
 - **Practicalities:**
   - accessibility: venue, captions, quiet spaces;
-  - language and timing;
+  - language, timing and the calendar (holidays, religious days);
+  - no all-male panels;
   - safety;
   - notices about photography and consent.
-- **Evaluate simply:** a three-question survey, a show of hands, observation.
+- **Evaluate simply:** a short QR survey, including "Did the researchers seem open to your views?", a show of hands, observation. It measures experience, not impact.
 
 ## Schools and young audiences
 

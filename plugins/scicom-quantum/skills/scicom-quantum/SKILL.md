@@ -59,7 +59,7 @@ Coverage concentrates on quantum computers (Meinsma et al. 2023). Quantum sensin
 - **Sensing:** perhaps the nearest-term application (navigation, imaging, materials research). Check the claim for the specific sensor.
 - **NISQ-era results** (today's noisy, intermediate-scale machines): frame them within the limits of the hardware. Avoid both "advantage is here" and "NISQ is useless".
 - **Quantum software and information theory:** the layer between hardware and applications. It finds clever ways to use strange physics.
-- **Post-quantum cryptography:** classical encryption that resists quantum attacks, already standardised and being rolled out. "Harvest now, decrypt later" makes it urgent for long-lived secrets.
+- **Post-quantum cryptography:** classical encryption that resists quantum attacks, already standardised and being rolled out. "Harvest now, decrypt later" makes it urgent for long-lived secrets. Never raise that threat without the response: migration to post-quantum cryptography exists, and organisations can start with an inventory of what they encrypt.
 
 ## Quantum claim checks (in addition to scicom's checklist)
 

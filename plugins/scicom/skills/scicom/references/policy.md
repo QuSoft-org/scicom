@@ -36,8 +36,10 @@ Pielke describes four idealised roles for experts in policy:
   - who decides, when, and in which venue: ministry, parliament, agency, municipality, EU;
   - what is on their agenda;
   - windows of opportunity open and close.
-- **Frame evidence around policymakers' goals and problems,** not around your field's questions. Use stories backed by evidence. Policymakers, like everyone, rely on shortcuts: beliefs, emotions, trusted sources.
+- **Frame evidence around policymakers' goals and problems,** not around your field's questions. Show what is within their power. Use stories backed by evidence. Policymakers, like everyone, rely on shortcuts: beliefs, emotions, trusted sources.
 - **Build relationships before you need them.** Be available, responsive and reliable. Work with intermediaries: advisory bodies, civil servants, learned societies, NGOs.
+- **Who to approach:** check first with the institution's public affairs office. Aim for advisers and civil servants (in the Netherlands, beleidsmedewerkers and fractiemedewerkers) rather than the most senior person. Regional and local processes are easier to reach.
+- **Who you write for:** elected officials think about constituents; civil servants may draft the rules. Break the data down to their region or remit, and bring options rather than only problems.
 - **Be timely:** contribute while the decision is still being shaped.
 - **Be clear about uncertainty,** and about what the evidence cannot tell you.
 - **Be patient and persistent.** Influence is rarely quick or linear, and engagement costs time and can cost reputation.
@@ -51,11 +53,11 @@ Budget about 400–450 words per page with one visual, so a two-page brief runs 
 2. **Key messages:** three to five bullets at the top.
 3. **The issue:** why it matters now, and for whom.
 4. **What the evidence shows:** plain language, one or two visuals, and how certain it is.
-5. **Options** (honest broker) or **recommendations** (advocate), each with consequences, costs and trade-offs.
+5. **Options** (honest broker) or **recommendations** (advocate), each with consequences, costs and trade-offs. Make recommendations precise and feasible.
 6. **Implications and next steps.**
 7. **Sources, authors, contact details and date.**
 
-Share a draft with intended users, co-produce it where possible, and time it to the policy agenda.
+Share a draft with intended users, co-produce it where possible, and time it to the policy agenda. Consider a public version.
 
 - **The position comes from the experts.** Draft the structure and the questions; never invent the group's assessment. If a starting position helps, mark it `[DRAFT POSITION for the authors to confirm or replace]`.
 - **Ask early:**
@@ -69,7 +71,8 @@ Share a draft with intended users, co-produce it where possible, and time it to 
 - **Five-minute verbal briefing:** start with the bottom line; three points; one memorable number; offer follow-up; leave the one-pager behind.
 - **Consultation response:** answer the questions actually asked, give evidence with references, and declare interests.
 - **Parliamentary hearing or round table:**
-  - a short written statement in advance;
+  - ask the organisers the purpose and who else speaks;
+  - a short written statement in advance, with a summary on top;
   - a three-minute opening;
   - direct answers without jargon;
   - an offer to follow up in writing.

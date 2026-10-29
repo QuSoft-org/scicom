@@ -6,7 +6,7 @@
 - **What** is uncertain: a fact, a number or estimate, or the science itself (competing explanations).
 - **How much:** a range or probability, wherever possible.
 - **Why:** measurement limits, small samples, model assumptions, missing data, disagreement.
-- **In what form:** numbers (ranges), words (used carefully), or visuals (error bars, fan charts).
+- **In what form:** numbers (ranges), words (used carefully), or visuals (ranges, intervals, fan charts).
 - **How good** the underlying evidence is.
 
 **Principles** (Uncertainty Handbook; Sense about Science):
@@ -14,9 +14,10 @@
 - Lead with what is known and agreed, then say what is uncertain.
 - Give ranges ("between 3 and 5 hours, most likely 4") rather than vague words ("may", "possibly").
 - Name the kind of uncertainty: not yet known; natural variability; model assumptions; disagreement among experts.
+- When experts disagree, say why: different data, different methods, a question still open. Otherwise lay readers conclude the experts are incompetent. Disagree without questioning motives.
 - Say what would change the conclusion, and what new data are coming.
 - Uncertainty is not a reason for inaction when the risks are clear. Explain what is robust enough to act on.
-- Where consensus exists, say so, and say how many lines of evidence agree.
+- Where consensus exists, say so with a figure and a named source (preferably national or European bodies), and say how many lines of evidence agree. Never inflate it. With sceptical or polarised audiences, explain the evidence first rather than leading with "scientists agree".
 - If you use probability words ("likely"), add the number: "likely (about 70%)". People read these words very differently.
 
 **Three kinds of uncertainty readers recognise.** Say which one applies, and be concrete:
@@ -35,6 +36,8 @@
 - **Comparisons:** use familiar ones, but don't trivialise.
 - **Visuals:** icon arrays or simple bar charts.
 - **Hazard versus risk:** separate what could cause harm from how likely and how serious the harm is.
+- **Threat plus response:** pair every threat with a response that works and a step people can take. A threat alone gets played down.
+- **Perceived risk:** unfamiliar, invisible or involuntary risks feel worse. Address the concern; don't dismiss it.
 - **Scope:** say whom and what conditions the numbers apply to.
 - **Translate statistics:** statistical significance is not importance; correlation is not causation; one study is not a consensus.
 - **Very large or very small numbers** (common in physics and computer science):
@@ -70,7 +73,7 @@ Hype is exaggeration that misleads about how significant, certain, ready or bene
 3. **Fallacy.** Explain why it is wrong: the trick used, or the missing piece.
 4. **Fact.** Repeat the correct fact.
 
-Keep it short and plain. Give an alternative explanation that fills the gap the myth leaves, add a visual, use trusted messengers, and never ridicule.
+Keep it short and plain. Give an alternative explanation that fills the gap the myth leaves, add a visual, use trusted messengers, and never ridicule or label people ("deniers", "anti-science").
 
 **Prebunk** (Practical Guide to Prebunking, 2022):
 - Warn people in advance about manipulation techniques, and show a weakened example.

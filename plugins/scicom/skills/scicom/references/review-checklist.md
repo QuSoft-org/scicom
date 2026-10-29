@@ -7,12 +7,12 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 ## 1. Message
 - [ ] One main message, stated in the first two or three sentences (or the first screen, slide or seconds).
 - [ ] The reader knows why it matters to them.
-- [ ] A clear next step or call to action, where relevant: read, attend, apply, contact, consider.
+- [ ] A clear next step or call to action, where relevant: read, attend, apply, contact, consider. Say how easy it is (time, place, what is needed).
 
 ## 2. Audience and readability
 - [ ] Written for the stated audience, not for peers.
 - [ ] Sentences average 20 words or fewer; active voice; few nominalisations.
-- [ ] Every technical term is necessary and explained once, with an example; at most one or two acronyms.
+- [ ] Every technical term is necessary and explained once, with an example. For lay readers, at most about one unfamiliar term per 50 words, and one or two acronyms.
 - [ ] No word with a different public meaning is left unexplained (theory, uncertainty, error, significant).
 - [ ] Headings and headline say what happens; the text can be scanned.
 
@@ -33,7 +33,7 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 ## 5. Uncertainty and limitations
 - [ ] Main limitations and conditions are mentioned in plain words.
 - [ ] Uncertainty shown concretely (ranges, confidence, what remains unknown) rather than through vague hedging.
-- [ ] If there is debate or contrary evidence, it is acknowledged.
+- [ ] If there is debate or contrary evidence, it is acknowledged, with the reason experts disagree.
 
 ## 6. Numbers and risk
 - [ ] Few numbers, each with context.
@@ -53,6 +53,7 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] Consent for people in photos or video (parents for minors); image credits and licences.
 - [ ] No disclosure that could harm a patent application; sensitive or dual-use details checked.
 - [ ] Confidential or personal data removed.
+- [ ] Competing interests declared; anyone criticised by name had a chance to respond.
 - [ ] AI use disclosed if required.
 - [ ] Quotes approved by the people quoted; drafted quotes clearly marked as drafts.
 
@@ -62,7 +63,8 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] Two or three headline or hook options offered where useful.
 
 ## 11. Dialogue
-- [ ] It acknowledges what the audience may already think or feel about the topic.
+- [ ] It acknowledges what the audience may already think or feel about the topic, and when a fact is hard to believe.
+- [ ] No labels such as "denier" or "anti-science", and no war frames.
 - [ ] It invites questions or a response, where the format allows.
 - [ ] It neither overstates nor understates: a genuinely significant result is called significant.
 

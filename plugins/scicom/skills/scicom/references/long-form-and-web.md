@@ -9,10 +9,15 @@
   2. Two or three strong pieces of evidence.
   3. The strongest counter-argument, and your answer to it.
   4. A concrete call to action or recommendation.
-- **Length and style:** 600–800 words, depending on the outlet. Plain language, one or two numbers, one personal or concrete example.
+- **Length and style:** 600–800 words, depending on the outlet. Plain language, one or two numbers, one personal or concrete example. First person where it fits.
 - **Byline:** name, role, institution. Disclose relevant interests and funding.
-- **Pitching:** offer to one outlet at a time (most want exclusivity), with a short summary. Follow up once.
-- **Institution's name:** check with the press office before using it.
+- **Pitching:** offer to one outlet at a time (most want exclusivity), with a short summary. Follow up once. Have drafts ready before the hook arrives, and paste the text into the email body.
+- **Press office:** tell them early, and check before using the institution's name.
+- **Criticising a named person or organisation:** give them a chance to respond, and check with the press office or legal team.
+
+## Letters to the editor
+
+Reply within a day or two, in under about 150 words. Name the article and date, make one point, and give your role.
 
 ## Blogs and explainers
 
@@ -56,7 +61,7 @@
 
 ## Bios (The Online Scientist)
 
-- **Order:** start with what you study and why it matters, then role and affiliation, two or three highlights, and a human touch if it fits.
+- **Order:** start with what you study and why it matters, then role and affiliation, two or three highlights, and a human touch if it fits, such as why they do the work.
 - **Versions:** a short one (about 50 words) and a long one (about 150 words).
 - **Person:** third person on institutional pages, first person on LinkedIn.
 

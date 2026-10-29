@@ -11,7 +11,7 @@
 ## Structures
 
 - **Inverted pyramid** (news): the most important information first. Each paragraph matters less than the one before, so readers can stop anywhere.
-- **Feature:** a scene or person → the nut graf (what this is about and why now) → a body alternating story and explanation → a kicker that echoes the opening or looks ahead.
+- **Feature:** a scene or person → the nut graf (what this is about, the wider pattern, and why now) → a body alternating story and explanation → a kicker that echoes the opening or looks ahead.
 - **Explainer:** question → short answer → how we know → what is uncertain → what's next.
 - **And, but, therefore:** "[context] and [context], but [problem], therefore [what we did or found]". Use it to test any pitch, abstract or opening.
 - **"So what?" test:** ask it after each paragraph. If there is no answer for the reader, cut the paragraph or connect it.
@@ -40,6 +40,8 @@ Pick the one that matches what the work actually contributes. Don't force drama 
 - **The tool:** it gives researchers a new way to do X, which matters because…
 - **The milestone:** one step closer to X, and here is where things stand. Useful for decision-makers.
 
+**Basic research:** don't lean on "curiosity-driven research leads to unforeseen breakthroughs". Lead with the question, the people, their enjoyment of the work, and what it makes possible at its current stage.
+
 ## Sentences
 
 - **Length:** average 20 words or fewer; vary the length; one idea per sentence.
@@ -58,8 +60,9 @@ Pick the one that matches what the work actually contributes. Don't force drama 
 ## Words
 
 - **Everyday words:** "use", not "utilise"; "help", not "facilitate"; "show", not "demonstrate".
-- **Jargon:** cut it, replace it with an everyday word, or keep it and explain it once with an example. Test drafts on a non-expert, or with a jargon checker such as the De-Jargonizer.
+- **Jargon:** cut it, replace it with an everyday word, or keep it and explain it once with an example. Test drafts on a non-expert, or with a jargon checker such as the De-Jargonizer. Headline test: would readers understand the word in a headline ("DNA" yes, "RNA" no)? Plain words make researchers look more competent, not less.
 - **Acronyms:** avoid them. If one is needed, spell it out at first mention, and use no more than one or two per text.
+- **Loaded words:** don't adopt one side's euphemisms, use "war on science" or battle frames, or tie a topic to an unrelated contested issue.
 - **Words the public reads differently** (based on Somerville & Hassol 2011, plus common cases):
 
 | Scientists say | The public may hear | Try instead |

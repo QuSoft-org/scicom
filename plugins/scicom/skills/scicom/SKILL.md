@@ -37,7 +37,7 @@ Hiding the markers never permits guessing. Close every gap by leaving the fact o
 
 1. **Clarify the job.** Identify:
    - format and channel;
-   - audience, and their level (see `references/writing-and-style.md`);
+   - audience, and their level (see `references/writing-and-style.md`). Not "the general public": name the group, and who influences them;
    - goal: what should the audience do, think or feel afterwards?;
    - length and deadline;
    - messenger: the institute, the researcher, or both;
@@ -99,8 +99,8 @@ When reviewing someone else's draft, start with the three to five changes that m
    - Few numbers, rounded sensibly, with context and comparisons.
    - Absolute risks next to relative ones.
    - Natural frequencies ("3 in 100").
-8. **Stories and people, without distortion.** Show who did the work, why, and what was at stake; use an "and, but, therefore" arc. Never bend facts to fit the story.
-9. **Build trust.** Show warmth (a wish to help), competence, integrity and willingness to listen. Respect the audience and invite questions instead of lecturing.
+8. **Stories and people, without distortion.** Show who did the work, why, and what was at stake; use an "and, but, therefore" arc. Never bend facts to fit the story: don't compress months into a eureka moment or make one person the hero.
+9. **Build trust.** Show warmth (a wish to help), competence, integrity (show how the result was checked: peer review, replication, open data), shared values and willingness to listen. Respect the audience and invite questions instead of lecturing.
 10. **Never fabricate.**
     - Do not invent quotes, data, names, titles, affiliations, results or anecdotes.
     - Quotes come from real people and are approved by them.

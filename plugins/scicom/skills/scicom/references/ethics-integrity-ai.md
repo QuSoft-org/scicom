@@ -11,7 +11,7 @@ Based on the *Guidelines for Good Research Communication* (Wissenschaft im Dialo
 - **Independence:** communication goals must not shape results or how they are presented.
 - **Correct errors** promptly and visibly.
 - **Credit** co-authors, collaborators, technical staff and earlier work.
-- **Expertise:** researchers speaking in public should stay within their field, and say when they are giving a personal view.
+- **Expertise:** researchers speaking in public should stay within their field, and say whether they are giving a professional judgement, a personal view or the institution's position.
 
 ## When promotion and the public interest conflict
 
@@ -31,7 +31,8 @@ A practical test: would you be comfortable if an independent expert and a journa
 - **Embargoes:** respect journal embargoes and conference rules. Don't publicise unpublished results without the researchers' agreement.
 - **Patents:** any public disclosure before a patent application is filed can destroy patentability. That includes a talk, a post, a press release or a preprint. Check with the technology transfer office first.
 - **Knowledge security:** for sensitive or dual-use research (some areas of quantum technology, AI, semiconductors, biotechnology), check with the research security officer before publishing technical details or partner information.
-- **Industry agreements:** check what may be said, and when.
+- **Industry agreements:** check what may be said, and when. Name industry partners plus one safeguard (who controls publication, whether data are open), and never claim more independence than that.
+- **Animal research:** name the species and the ethical approval, mention the 3Rs (replace, reduce, refine), and follow the institution's openness policy.
 
 ## Using AI in communication work
 
@@ -50,5 +51,5 @@ Based on the EU *Living guidelines on the responsible use of generative AI in re
 Visibility brings risk. Researchers who appear in the media, especially on contested topics, report hostile reactions, harassment and threats. Women and early-career researchers are hit more often (Mede 2026).
 
 - **Prepare:** discuss the sensitivity of the topic beforehand; let the press office handle media requests; keep private details private; agree in advance how to respond to abuse.
-- **Respond:** don't engage with abuse; document it with screenshots; report it to the institution; contact the police for threats. In the Netherlands, WetenschapVeilig (wetenschapveilig.nl) connects researchers with support from their institution.
+- **Respond:** don't engage with abuse; document it with screenshots; report it to the institution; contact the police for threats. For legal threats over public statements, involve the legal office at once. In the Netherlands, WetenschapVeilig (wetenschapveilig.nl) connects researchers with support from their institution.
 - **Support:** institutions should stand by their researchers, publicly where appropriate.

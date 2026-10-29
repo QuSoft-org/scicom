@@ -10,21 +10,22 @@
   - avoid rainbow and jet maps;
   - don't rely on red–green contrast;
   - check the figure in greyscale.
-- **Uncertainty:** show it where it matters (error bars, ranges) and explain it in the caption.
-- **Captions** say what to notice, not just what is plotted.
+- **Uncertainty:** show ranges or distributions (interval or dot plots) rather than bars with error bars, and explain them in the caption.
+- **Axes:** never truncate or stretch an axis to change how big a difference looks. Bar charts start at zero.
+- **Captions** say what to notice, not just what is plotted, and explain conventions such as false colour and significance stars.
 
 ## Photos and images (after the Climate Visuals principles)
 
-- **Real people over stock:** researchers at work, real labs, real equipment.
+- **Real people over stock:** researchers at work, real labs, real equipment. For recruitment, show researchers working together.
 - **New visuals over clichés:** glowing blue spheres, streams of binary code, light bulbs, test tubes for fields that don't use them.
 - **Show what is being done,** not only the problem.
-- **Show diversity** of people and roles, including technicians and early-career researchers.
+- **Show the diversity that really exists,** in people and roles, including technicians and early-career researchers. Never stage it.
 - **Match image and message:** the picture must be accurate for the story. Don't illustrate a physics story with a medical lab.
 - **Captions** say who, what and where, plus credit and licence.
 
 ## Rights and consent
 
-Use the house style's credit format, for example "Photo: Name / Institution". Check licences for stock and openly licensed images, and get consent from identifiable people (parents for minors). See `ethics-integrity-ai.md`.
+Use the house style's credit format, for example "Photo: Name / Institution". Check licences for stock and openly licensed images, and get consent from identifiable people (parents for minors). Journal figures may belong to the publisher: check the licence. Have the researcher check commissioned artwork for accuracy. See `ethics-integrity-ai.md`.
 
 ## Alt text
 

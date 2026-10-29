@@ -17,6 +17,7 @@
   - repeat the key point;
   - read it aloud and time it.
 - **Two-column script:** what we see on the left (shots, graphics, on-screen text), what we hear on the right (voice, sound, music). Template in `templates.md`.
+- **Researchers on camera or in podcasts:** give them talking points and questions, not a verbatim script. Over-scripted delivery seems less authentic. Keep the full script for voice-over.
 - **Show, don't tell:** lab footage, hands at work, before and after, simple animation for what cannot be seen.
 - **Always add captions.** Much social video is watched without sound. Keep on-screen text short.
 - **End card:** names, affiliations, funder, link.
