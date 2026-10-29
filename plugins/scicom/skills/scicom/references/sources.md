@@ -24,12 +24,14 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Science Media Centre (2015). *Top tips for media work*; and *10 best practice guidelines for reporting science and health stories* (2012).
 - Union of Concerned Scientists (2011). *A Scientist's Guide to Talking with the Media: desk reference*.
 - Knight Science Journalism Program, MIT (2020). *KSJ Science Editing Handbook*: ksjhandbook.org
+- Borel, B. et al. (2018). *The State of Fact-Checking in Science Journalism*. Knight Science Journalism Program, MIT.
+- Science Media Centre New Zealand (2014). *Desk guide for covering science*.
 - QUEST project (2022). Toolkits and *12 quality indicators for science communication*: questproject.eu
 
 **Writing and style**
 - PLAIN (2011). *Federal Plain Language Guidelines*.
 - European Commission (2011). *How to write clearly*.
-- European Commission, DG Translation (2025). *English Style Guide*; *Clear English tips for translators*.
+- European Commission, DG Translation. *English Style Guide*, 8th edition (2016, last updated August 2026); Earls, S. (ed.) (2014). *Clear English: Tips for Translators*.
 - European Court of Auditors (2016). *Misused English words and expressions in EU publications* (J. Gardner).
 - CDC (2019). *Clear Communication Index: user guide*.
 - GOV.UK. *Style guide* and *Content design* guidance.
@@ -48,7 +50,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 **Strategy and evaluation**
 - UK Government Communication Service (2020). *Guide to campaign planning: OASIS*; (2024). *GCS Evaluation Cycle*.
 - Hovland, I. (2005). *Successful Communication: A Toolkit for Researchers and Civil Society Organisations*. ODI.
-- Behavioural Insights Team (2014). *EAST: Four simple ways to apply behavioural insights*.
+- Behavioural Insights Team (2014; revised edition 2024). *EAST: Four simple ways to apply behavioural insights*.
 
 **EU projects and Dutch context**
 - European Commission (2014). *Communicating EU Research and Innovation: A guide for project participants*; (2018). *Social media guide for EU funded R&I projects*.
@@ -96,6 +98,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 
 **Strategy and institutional communication**
 - Dudo, A. & Besley, J. C. (2016). *PLOS ONE*: https://doi.org/10.1371/journal.pone.0148867
+- Michie, S., van Stralen, M. M. & West, R. (2011). The behaviour change wheel. *Implementation Science* 6: 42: https://doi.org/10.1186/1748-5908-6-42
 - Entradas, M. et al. (2020). *PLOS ONE*: https://doi.org/10.1371/journal.pone.0235191
 - Weingart, P. & Joubert, M. (2019). *JCOM*: https://doi.org/10.22323/2.18030401
 

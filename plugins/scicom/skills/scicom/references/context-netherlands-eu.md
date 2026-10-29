@@ -27,7 +27,7 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 | NWO | Dutch Research Council; national funder |
 | KNAW | Royal Netherlands Academy of Arts and Sciences |
 | Rathenau Instituut | research on science, technology and society; trust monitor; advises parliament |
-| NEWS | National Centre of Expertise on Science and Society: knowledge, training and networks for science communication |
+| NEWS | National Centre of Expertise on Science and Society: advice, shared knowledge, connections to experts and input to training. It does not fund projects or run public activities `[CHECK current services]` |
 | Universities of the Netherlands (UNL) | association of Dutch universities, formerly VSNU |
 | SciComNL | network of Dutch science communication professionals |
 | WetenschapVeilig | platform where researchers facing threats or harassment get support through their institution |
@@ -46,6 +46,8 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 ## EU funding: communication obligations
 
 - **Horizon Europe and ERC grants** require visibility of EU funding in communication and dissemination. Use the EU emblem with the funding statement, plus the funder's logo where required (for example the ERC logo), and the standard disclaimer from the grant agreement where applicable. Rules differ by programme and change over time, so check the current grant agreement and the funder's guidance.
+- **Tell the project officer** before major results, events and releases `[CHECK the grant agreement]`. Paid offers to "feature your project" are not endorsed by the Commission.
+- **Wording:** "funded by the EU", not "by Europe"; "non-EU countries", not "third countries".
 - **Three activities in EU projects:** communication (wide audiences, about the project), dissemination (results to those who can use them) and exploitation (putting results to use).
 - **European channels:** AlphaGalileo for European science journalists; CORDIS, the EU's results portal, where projects can share news and results; plus EurekAlert! internationally.
 

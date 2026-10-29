@@ -29,7 +29,7 @@ A house style file makes every later draft use the organisation's own names, ton
 7. What should the tone be, in three words? (Default: clear, curious, modest.) May texts use "we" for the organisation?
 8. Are there words or phrases to avoid (such as "breakthrough"), or preferred terms for the field?
 9. How should academic titles and names be written? (Default: full name and role on first mention, surname after, and no "Dr" or "Prof." in running text except in quote attributions.)
-10. Any conventions for numbers, dates and units? (Default: those of the EC English Style Guide.)
+10. Any conventions for numbers, dates and units? (Default: those of the EC English Style Guide. For thousands, choose 15 000 or 15,000.)
 
 ### Round 3: audiences, channels and process
 

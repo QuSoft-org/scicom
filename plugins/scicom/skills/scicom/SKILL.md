@@ -50,7 +50,7 @@ Hiding the markers never permits guessing. Close every gap by leaving the fact o
 2. **Get the science right.** Before writing, build a short fact sheet from the source material:
    - the finding in one plain sentence;
    - the type of evidence: peer-reviewed paper or preprint; theory, simulation, lab experiment, observational study, field study, trial or prototype;
-   - scale: sample size, number of devices or samples, duration, whatever is relevant;
+   - scale: sample size, number of devices or samples, duration, whatever is relevant, and how the sample was chosen (all devices or the best one, all runs or selected ones);
    - what is new compared with earlier work, according to the authors, and how it compares with recent competing work. Check every "first" or "better than" claim. If you cannot, mark it `[CHECK]` and phrase it cautiously, or drop the comparison;
    - limitations and conditions: lab conditions, model system, animals or cells, small sample, not yet replicated;
    - stage and realistic next steps. Never invent timelines to applications;
@@ -63,7 +63,7 @@ Hiding the markers never permits guessing. Close every gap by leaving the fact o
 
    Mark `[CHECK: …]` only what is still unresolved, or handle it as the `checks` setting says. Never guess.
 
-3. **Decide the message.** Write the main message as one sentence a non-specialist would understand, plus at most three supporting points. If the user needs help finding the message, use the Message Box: issue, problem, so what, solutions, benefits. For plans and campaigns, follow `references/strategy-and-stakeholders.md`.
+3. **Decide the message.** Write the main message as one sentence a non-specialist would understand, plus at most three supporting points. If the user needs help finding the message, use the Message Box for a named audience: issue, problem, so what, solutions, benefits. For plans and campaigns, follow `references/strategy-and-stakeholders.md`.
 
 4. **Draft in the right format.** Follow the structure and length in the format file, and the matching template in `references/templates.md` where there is one.
 
@@ -93,7 +93,7 @@ When reviewing someone else's draft, start with the three to five changes that m
    - State the study type and stage.
    - Don't write "breakthrough", "first", "revolutionary" or "could transform" unless the source supports it and an independent expert would agree.
 
-   Much exaggeration in the news already appears in the press release, and accurate, caveated releases do not get less coverage.
+   Much exaggeration in the news starts in the press release. In UK health research, accurate releases with caveats got no less coverage.
 6. **Be open about uncertainty.** Say what is known, what is not, and how sure the researchers are. Give ranges. Numeric ranges cost little trust; vague hedging and false certainty cost more.
 7. **Numbers people can use.**
    - Few numbers, rounded sensibly, with context and comparisons.
@@ -116,7 +116,7 @@ Researchers and managers often ask for more punch. Give it, but not through hype
 - **Write strong verbs and a sharp headline** instead of superlatives.
 
 Keep the calibration: study type, stage, conditions. If the user still wants words like "breakthrough", explain briefly why you left them out:
-- accurate releases get no less coverage;
+- in studies of health news, caveats did not cost coverage;
 - overclaiming costs trust once others check.
 
 Then offer your accurate version as the recommendation. The final choice is theirs. Flag the risk in the notes, and never write anything false.
@@ -127,7 +127,7 @@ Load only what the task needs. A quick social post needs the writing and social-
 
 **Domain add-ons:** if a domain add-on is installed and the topic matches, load it too. One example is `scicom-quantum` for quantum science and technology. An add-on supplies subject knowledge; this skill's workflow and rules still apply.
 
-For every format, also use its template in `references/templates.md`. Where there is one, use the worked example in `references/examples.md` too: press release, review of a hyped draft, grant post, policy brief.
+For every format, also use its template in `references/templates.md`. Where there is one, use the worked example in `references/examples.md` too: press release opening and thread, review of a hyped draft, grant post, policy brief.
 
 | Task | Load |
 |---|---|

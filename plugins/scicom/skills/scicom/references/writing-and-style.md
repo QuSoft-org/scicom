@@ -60,8 +60,10 @@ Pick the one that matches what the work actually contributes. Don't force drama 
 ## Words
 
 - **Everyday words:** "use", not "utilise"; "help", not "facilitate"; "show", not "demonstrate".
-- **Jargon:** cut it, replace it with an everyday word, or keep it and explain it once with an example. Test drafts on a non-expert, or with a jargon checker such as the De-Jargonizer. Headline test: would readers understand the word in a headline ("DNA" yes, "RNA" no)? Plain words make researchers look more competent, not less.
-- **Acronyms:** avoid them. If one is needed, spell it out at first mention, and use no more than one or two per text.
+- **One term for one thing:** don't vary synonyms ("qubit", "quantum bit", "the bit"). Readers assume a new word means a new thing.
+- **Show, don't announce:** cut "interestingly", "remarkably", "very", "we are delighted to announce"; give the detail instead.
+- **Jargon:** cut it, replace it with an everyday word, or keep it and explain it once with an example. Test drafts on a non-expert: ask them to say in their own words what it means ("Is it clear?" gets a misleading yes). A jargon checker such as the De-Jargonizer helps, but misses everyday words used technically ("fatigue" in materials science). Headline test: would readers understand the word in a headline ("DNA" yes, "RNA" no)? Plain words make researchers look more competent, not less.
+- **Acronyms:** avoid them; a generic name ("the detector", "the consortium") often works. If one is needed, spell it out at first mention, in lower case unless it is a proper name: quantum key distribution (QKD). Use no more than one or two per text, and don't define PhD or DNA.
 - **Loaded words:** don't adopt one side's euphemisms, use "war on science" or battle frames, or tie a topic to an unrelated contested issue.
 - **Words the public reads differently** (based on Somerville & Hassol 2011, plus common cases):
 
@@ -122,40 +124,54 @@ Common traps, based on the European Court of Auditors list of misused English, t
 | high school (hogeschool) | university of applied sciences | university of applied sciences |
 | since two years | for two years | for two years |
 | according to me | I think | in my view, I think |
+| valorisation (valorisatie) | knowledge transfer | knowledge transfer, putting research to use |
+| instances (instanties) | authorities | authorities, bodies, organisations |
+| so-called (zogenaamd) | known as (neutral) | known as, or nothing: in English it signals scepticism |
+| globally (globaal) | roughly | roughly, overall |
+| citizens (burgers) | people | people, the public, residents |
+| informatics (informatica) | computer science | computer science |
 
 Also watch for:
 - very long sentences with the verb at the end;
+- "allows to" (write "allows us to"), "informations" and "researches" ("information", "studies"), "in case of" meaning "if";
 - an over-formal tone;
 - Title Case Headlines. British style uses sentence case.
 
 ## Conventions (default: British English, EU style)
 
 Follow the house style first. Otherwise use the European Commission English Style Guide:
-- **Spelling:** British, with -ise (organise, realise).
+- **Spelling:** British, with -ise (organise, realise), but keep an organisation's own spelling (World Health Organization). Also analyse, sulfur, and program for software.
 - **Headlines and headings:** sentence case, no full stop, no colon at the end.
+- **Commas:** no serial comma before the final "and" or "or", unless needed to avoid ambiguity.
+- **Dashes:** spaced en dashes ( – ), no em dashes.
+- **Capitals:** when in doubt, lower case: policies and programmes (except brand names such as Horizon Europe), roles outside a full title, internet, web, seasons. No capital after a colon.
 - **Numbers:**
   - one to nine in words, 10 and above in figures; when both occur together, use figures ("9 to 11");
-  - thousands separated by a (hard) space: 15 000;
+  - always figures with units, decimals and percentages, and for all numbers on the web and social media;
+  - don't start a sentence with a figure: spell it out or rephrase;
+  - thousands: 15 000 with a hard space in documents, or 15,000 in web and promotional text, as the house style says;
   - 2.5 million; a decimal point, not a comma.
 - **Percentages and money:**
   - 25% (closed up), but "twenty per cent" when spelled out;
-  - EUR 2 400 or €2 400; €2.4 m.
+  - €2 400 and €2.4 million in releases and on the web; EUR 2 400 in legal or formal documents.
 - **Dates and times:**
   - 28 October 2026 (no ordinal, no comma);
   - 24-hour clock, 09:30 and 14:00, in formal texts.
-- **Quotation marks:** curly single quotes for quotations, double quotes for quotes within quotes.
+- **Quotation marks:** curly single quotes for quotations, double quotes for quotes within quotes. Journal titles in italics (*Nature Physics*); article titles in single quotes.
+- **Names:** in news, full name and role at first mention, then surname alone, no Dr, unless the house style says otherwise.
 - **Units:** SI, with a space between number and unit (5 kg, 20 °C).
 
 ## Web readability (content design)
 
 - Front-load: key information in the first two lines and in the headings.
-- A descriptive heading every three to five paragraphs.
+- A heading every three to five paragraphs, stating the point or the reader's question.
 - Paragraphs of one to three sentences; lists for steps and options.
 - Link text that says where it goes ("read the paper", not "click here").
 
 ## Inclusive language and representation
 
-- Gender-neutral terms: chair, staff, they.
+- Gender-neutral terms: chair, staff, they; human-made, not man-made.
+- Respectful terms: older people, not "the elderly"; people with a condition, not "suffering from" it.
 - No "layman"; no "simply" or "obviously".
 - Person-first language where people prefer it.
 - Don't assume a male, Western or able-bodied default.

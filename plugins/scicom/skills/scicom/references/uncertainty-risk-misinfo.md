@@ -12,13 +12,14 @@
 **Principles** (Uncertainty Handbook; Sense about Science):
 - Uncertainty is normal in science. Say so up front, without apologising.
 - Lead with what is known and agreed, then say what is uncertain.
-- Give ranges ("between 3 and 5 hours, most likely 4") rather than vague words ("may", "possibly").
+- Where there is a number, give a range ("between 3 and 5 hours, most likely 4") rather than vague words ("may", "possibly"). For causal claims from correlational evidence, "may" is the right word (see the calibration table in `press-and-media.md`).
 - Name the kind of uncertainty: not yet known; natural variability; model assumptions; disagreement among experts.
 - When experts disagree, say why: different data, different methods, a question still open. Otherwise lay readers conclude the experts are incompetent. Disagree without questioning motives.
 - Say what would change the conclusion, and what new data are coming.
 - Uncertainty is not a reason for inaction when the risks are clear. Explain what is robust enough to act on.
 - Where consensus exists, say so with a figure and a named source (preferably national or European bodies), and say how many lines of evidence agree. Never inflate it. With sceptical or polarised audiences, explain the evidence first rather than leading with "scientists agree".
 - If you use probability words ("likely"), add the number: "likely (about 70%)". People read these words very differently.
+- Match the verb to the evidence in both directions: "the evidence shows" for settled findings, not "scientists believe"; don't shrink a main cause to "plays a role".
 
 **Three kinds of uncertainty readers recognise.** Say which one applies, and be concrete:
 - **Process:** we are still finding out (more experiments needed, a new method, theory not yet tested). Frame it as an open frontier, not a failure.
@@ -33,12 +34,15 @@
 - **Natural frequencies with the same denominator:** "3 in 100 versus 8 in 100", not "3% versus 1 in 12".
 - Give the **baseline** and the **time frame**.
 - **Round sensibly:** "about 40%", not "39.7%".
+- **Do the arithmetic:** give the difference, ratio or converted unit, not two numbers to compare.
+- **No bare adjectives:** never "high", "low" or "large" without a number and a comparison.
+- **Percentages:** "percentage points" for differences between percentages; "15 times", not "1,400%"; the median when outliers skew the mean.
 - **Comparisons:** use familiar ones, but don't trivialise.
 - **Visuals:** icon arrays or simple bar charts.
 - **Hazard versus risk:** separate what could cause harm from how likely and how serious the harm is.
 - **Threat plus response:** pair every threat with a response that works and a step people can take. A threat alone gets played down.
 - **Perceived risk:** unfamiliar, invisible or involuntary risks feel worse. Address the concern; don't dismiss it.
-- **Scope:** say whom and what conditions the numbers apply to.
+- **Scope:** say whom and what conditions the numbers apply to, and what each percentage is out of (per person, per run, per year).
 - **Translate statistics:** statistical significance is not importance; correlation is not causation; one study is not a consensus.
 - **Very large or very small numbers** (common in physics and computer science):
   - use comparisons of scale, and check them;
@@ -60,7 +64,7 @@ Hype is exaggeration that misleads about how significant, certain, ready or bene
 
 **Also:**
 - **Your own sources can be inflated.** Researchers sometimes use hype strategically. In focus groups, quantum physicists acknowledged doing so to secure funding (Soto-Sanfiel et al. 2025). Calibrate their claims too.
-- **Name the hype** when others have overstated a result: "You may have seen headlines claiming X. Here is what the study showed."
+- **Name the hype** when others have overstated a result: "You may have seen headlines claiming X. Here is what the study showed." Quote the outlet's wording once, then say specifically what is accurate (which task, which conditions).
 - **Don't overcorrect into dismissiveness.** If a result is genuinely significant, say so clearly and explain why.
 
 ## Responding to misinformation
@@ -74,6 +78,8 @@ Hype is exaggeration that misleads about how significant, certain, ready or bene
 4. **Fact.** Repeat the correct fact.
 
 Keep it short and plain. Give an alternative explanation that fills the gap the myth leaves, add a visual, use trusted messengers, and never ridicule or label people ("deniers", "anti-science").
+
+Don't make a graphic of the myth; if you must, put the correction inside the image. Never post the myth as a bare question.
 
 **Prebunk** (Practical Guide to Prebunking, 2022):
 - Warn people in advance about manipulation techniques, and show a weakened example.

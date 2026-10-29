@@ -9,6 +9,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
    - Examples: "physics master's students apply to our PhD programme"; "ministry officials use our evidence when drafting the strategy"; "local residents come to the open day and ask questions".
    - Broader aims count too: seeing science as legitimate, accepting new findings, supporting research funding.
    - Include what you are willing to change yourself: listening, adapting plans or research questions.
+   - First ask what blocks the behaviour: capability, opportunity or motivation. If it is opportunity (time, access, cost, process), better text won't fix it: suggest changing the process.
 3. **Communication objectives:** the beliefs, feelings and frames that make that behaviour more likely. Pick one to three where the audience has a real gap. For trust, name the missing dimension.
 
 | Objective | The audience believes or feels… | What to put in the text |
@@ -20,7 +21,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
 | Shared values | you are like them, or respect their differences | messengers, photos and places the audience recognises; common ground first |
 | Competence | you know what you are doing | plain words, one meaningful number, credible partners |
 | Risks and benefits | the trade-offs are clear and fair | a specific benefit (for whom, when, how sure); who bears the risks; with any threat, a fix that works |
-| Norms | people like them do this | a real share of a group they identify with |
+| Norms | people like them do this | a real share of a group they identify with; never stress how common the unwanted behaviour is |
 | Self-efficacy | they can do it | the step, how long it takes, someone similar doing it; never overstate how easy it is |
 | Emotions and frames | the honest feeling and a fitting interpretation | the researcher's own feeling, in the first person; enjoyment and humour are fine; no engineered fear or shame. Name the frame (social progress, economic opportunity, ethics, public accountability) and why it fits their values |
 
@@ -104,7 +105,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
   4. Choose priority audiences.
   5. For each output, decide goal, audience, message and medium.
   6. Set up the basics: slide, poster and visual templates; a simple website; social accounts; boilerplate.
-  7. Build a network of partner press offices and journalists, and appoint spokespeople.
+  7. Agree with the central press office first: which stories go through it, and who approves; keep your own channels for the rest. Build a network of partner press offices and journalists, and appoint spokespeople.
   8. Consider a professional communication adviser.
 - **EU-funded projects:**
   - Keep three activities apart: communication (wide audiences, about the project), dissemination (results to those who can use them) and exploitation (putting results to use).
@@ -114,22 +115,23 @@ Use this file for communication plans (for a paper, project, grant, event or new
 ## Do less, better
 
 - Choose a few channels you can keep up rather than trying to be everywhere. Open a new site or account only if someone can post at least weekly for its whole life.
-- Avoid visibility for its own sake. Competitive institutional PR can erode trust when promotion overrides accuracy (Weingart & Joubert 2019; Entradas et al. 2020).
+- Avoid visibility for its own sake. Competing for visibility can turn communication into marketing that drifts from accuracy (Entradas et al. 2020).
 - Not every paper needs a press release; see the test in `press-and-media.md`.
 
 ## Evaluation
 
 - **Levels** (GCS Evaluation Cycle):
-  - inputs;
-  - outputs: what we produced;
-  - outtakes: what people noticed and understood;
-  - outcomes: what changed in attitudes or behaviour;
-  - impact: long-term change.
-- **Indicators:** pick one to three per objective. Measure a baseline where you can, and combine numbers with quotes and observations.
-  - Outputs and outtakes: reach, engagement, accuracy of coverage (not just volume).
-  - Outcomes: applications, enquiries, partnerships, citations in policy documents.
+  - inputs: what we put in, including releases, posts and staff time;
+  - outputs: reach and exposure (coverage, audience reached, attendees);
+  - outtakes: what people think, feel or intend (engagement, recall, understanding, sentiment, stated intention);
+  - outcomes: what people do (applications, sign-ups, enquiries, policy citations);
+  - impact: contribution to the organisational goal.
+- **Objectives and indicators:** each objective has a baseline, a target and a date, and aims at an outcome, not an output: "applications from 40 to 60 by the 2027 deadline", not "10 posts". Use communication objectives, not the research objectives restated. Choose one to three indicators per objective before launch, and combine numbers with quotes and observations.
+  - Outputs: reach and accuracy of coverage, not just volume.
+  - Outtakes: engagement, understanding, sentiment.
+  - Outcomes: behaviour, such as applications, enquiries, partnerships, citations in policy documents.
 - **No advertising-value equivalents.**
 - **Events:** a three-question survey (what did you learn, how did it feel, would you come back?), observation, and follow-up. Check delivery first: did the Q&A actually happen?
-- **Don't overclaim:** a survey after an event shows experience, not attitude change. That needs two measurements against an objective.
-- **Grant proposals:** name the metrics and an audience survey; never write just "we will post on social media".
+- **Don't overclaim:** a survey after an event shows experience, not attitude change. That needs two measurements against an objective. Before crediting a rise to the campaign, compare it with the trend and other causes.
+- **Grant proposals:** name the metrics and an audience survey; never write just "we will post on social media". Budget communication explicitly, and reserve a share for evaluation `[CHECK funder rules]`.
 - **Close the loop:** write down what worked, and stop what didn't.

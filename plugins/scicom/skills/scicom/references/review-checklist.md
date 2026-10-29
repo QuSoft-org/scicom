@@ -2,17 +2,17 @@
 
 Run this before delivering any draft, and when reviewing someone else's. Fix failures rather than just listing them. When reporting a review, start with the most important issues: accuracy, hype, then message.
 
-Adapted from the CDC Clear Communication Index, the QUEST quality indicators and checklists, the Science Media Centre guidelines for reporting science, and the UK press-release labelling system.
+Adapted from the CDC Clear Communication Index, the QUEST quality indicators and checklists, the Science Media Centre guidelines for reporting science, and the AMS/SMC press-release labelling system.
 
 ## 1. Message
 - [ ] One main message, stated in the first two or three sentences (or the first screen, slide or seconds).
 - [ ] The reader knows why it matters to them.
-- [ ] A clear next step or call to action, where relevant: read, attend, apply, contact, consider. Say how easy it is (time, place, what is needed).
+- [ ] A clear next step or call to action, where relevant: read, attend, apply, contact, consider. Say how easy it is (time, place, what is needed). For invitations: one specific action, from a named person.
 
 ## 2. Audience and readability
 - [ ] Written for the stated audience, not for peers.
 - [ ] Sentences average 20 words or fewer; active voice; few nominalisations.
-- [ ] Every technical term is necessary and explained once, with an example. For lay readers, at most about one unfamiliar term per 50 words, and one or two acronyms.
+- [ ] Every technical term is necessary and explained once, with an example. For lay readers, at most one unfamiliar word in 50, counting repeats (Rakedzon et al. 2017), and one or two acronyms.
 - [ ] No word with a different public meaning is left unexplained (theory, uncertainty, error, significant).
 - [ ] Headings and headline say what happens; the text can be scanned.
 
@@ -26,7 +26,7 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] No extrapolation beyond what the results show; timelines only if the researchers give and justify them.
 
 ## 4. Claims and hype
-- [ ] Scanned for hype words, using the list in `press-and-media.md`. Each one is justified or removed.
+- [ ] Scanned for hype words, including inside quotes, using the list in `press-and-media.md`. Each one is justified or removed.
 - [ ] Headline and lede are no stronger than the paper's own conclusions.
 - [ ] Hope is kept apart from findings.
 
@@ -71,6 +71,6 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 ## Final tests
 
 - Would the researcher sign off on every sentence?
-- Would a sceptical science journalist trust it?
+- Would a sceptical science journalist trust it? Funding and interests match the paper's declarations; the journal is not predatory.
 - Would a 15-year-old get the gist?
 - Would it still be accurate if someone read only the headline and first sentence?

@@ -53,7 +53,7 @@ Budget about 400–450 words per page with one visual, so a two-page brief runs 
 2. **Key messages:** three to five bullets at the top.
 3. **The issue:** why it matters now, and for whom.
 4. **What the evidence shows:** plain language, one or two visuals, and how certain it is.
-5. **Options** (honest broker) or **recommendations** (advocate), each with consequences, costs and trade-offs. Make recommendations precise and feasible.
+5. **Options** (honest broker) or **recommendations** (advocate), each with consequences, costs and trade-offs. State the criteria used to compare them. Make recommendations precise and feasible.
 6. **Implications and next steps.**
 7. **Sources, authors, contact details and date.**
 

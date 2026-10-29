@@ -3,7 +3,7 @@
 ## Op-eds (Goh & Bourne 2020; Dean 2009)
 
 - **Argue, don't announce:** an op-ed argues, a press release informs. You need one argument you can state in a single sentence.
-- **Hook it to the news:** link it to something happening now.
+- **Hook it to the news:** link it to something happening now. Write within your expertise.
 - **Structure:**
   1. The argument in the first two or three paragraphs.
   2. Two or three strong pieces of evidence.
@@ -11,7 +11,7 @@
   4. A concrete call to action or recommendation.
 - **Length and style:** 600–800 words, depending on the outlet. Plain language, one or two numbers, one personal or concrete example. First person where it fits.
 - **Byline:** name, role, institution. Disclose relevant interests and funding.
-- **Pitching:** offer to one outlet at a time (most want exclusivity), with a short summary. Follow up once. Have drafts ready before the hook arrives, and paste the text into the email body.
+- **Pitching:** offer to one outlet at a time (most want exclusivity), with a short summary. Follow up once; if a timely piece gets no answer in a few days, tell the outlet you are moving on, then pitch the next. Publish untaken pieces on your own channels. Have drafts ready before the hook arrives, and paste the text into the email body.
 - **Press office:** tell them early, and check before using the institution's name.
 - **Criticising a named person or organisation:** give them a chance to respond, and check with the press office or legal team.
 

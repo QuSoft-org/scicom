@@ -20,6 +20,7 @@
 - **New visuals over clichés:** glowing blue spheres, streams of binary code, light bulbs, test tubes for fields that don't use them.
 - **Show what is being done,** not only the problem.
 - **Show the diversity that really exists,** in people and roles, including technicians and early-career researchers. Never stage it.
+- **Check the details:** people use equipment correctly and wear the right protective gear. Label technical images (detector displays, microscopy) in plain language: outlets run them unchanged.
 - **Match image and message:** the picture must be accurate for the story. Don't illustrate a physics story with a medical lab.
 - **Captions** say who, what and where, plus credit and licence.
 

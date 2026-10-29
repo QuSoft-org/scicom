@@ -20,6 +20,7 @@ Visuals available (credit, licence):
 ## Message Box (COMPASS)
 
 ```
+Audience (one box per audience):
 Issue (the broad topic):
 Problem (the specific problem or question):
 So what (why the audience should care):
@@ -27,6 +28,8 @@ Solutions (what the research offers or suggests):
 Benefits (what improves if it works):
 Main message in one sentence:
 ```
+
+The so what changes with the audience. Solutions must be something this audience can act on; if the only solution is "more research", rework the box.
 
 ## Press release
 
@@ -55,7 +58,7 @@ EMBARGOED UNTIL [hh:mm time zone, day month year]
 
 Competing interests: [none / spin-off shares, patents, industry funding]
 
-Publication: [authors], '[title]', [journal], [date]. DOI: [doi]
+Publication: [authors], '[title]', *[journal]*, [date]. DOI: [doi]
 
 Media contact: [name, phone, email] · Researcher available: [dates, languages]
 Images: [link] · Caption, credit, licence, alt text
@@ -136,6 +139,7 @@ Hard questions and answers (limitations, timelines, money, risks, "what does it 
 Relationships to disclose (industry, spin-offs, boards); independent experts to suggest:
 Things I will not speculate about:
 Quote and fact check agreed? (always ask to check own quotes; the rest for factual accuracy only):
+Fact sheet sent to producer (radio/TV)? Fallback if they won't share text:
 Practical: location, connection, clothing, press office contact:
 ```
 
@@ -176,9 +180,9 @@ Practical: location, connection, clothing, press office contact:
 ## Communication plan (OASIS)
 
 ```
-Objectives: organisational goal → behavioural goal (who should do what) → communication objectives
+Objectives: organisational goal → behavioural goal (who should do what) → communication objectives, each with a baseline, target and date
 Audience insight: who, what they know and believe, where they get information, barriers, trusted messengers
-Strategy and ideas: main message (Message Box), messengers, channels, formats, timing
+Strategy and ideas: main message (Message Box), messengers, partners and multipliers, channels, formats, timing
 Implementation: timeline, owners, approvals, budget, risks and mitigations
 Scoring: indicators per objective (outputs, outtakes, outcomes), baseline, when to measure
 ```
