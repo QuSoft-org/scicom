@@ -14,7 +14,7 @@
 
 ## Is it news? Test before writing a press release
 
-First, it must be **credible**: peer-reviewed, or clearly marked as a preprint. Then count how many apply:
+First, it must be **credible**: peer-reviewed, or with its status clearly labelled (preprint; conference abstract or talk). For an abstract-only result, a pitch or news item usually fits better than a release. Then count how many apply:
 - **New:** a real step, not an incremental one.
 - **Significant:** for the field, or for people's lives.
 - **Relevant** to the outlet's audience.

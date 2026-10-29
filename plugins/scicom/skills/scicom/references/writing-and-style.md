@@ -158,7 +158,7 @@ Follow the house style first. Otherwise use the European Commission English Styl
   - 28 October 2026 (no ordinal, no comma);
   - 24-hour clock, 09:30 and 14:00, in formal texts.
 - **Quotation marks:** curly single quotes for quotations, double quotes for quotes within quotes. Journal titles in italics (*Nature Physics*); article titles in single quotes.
-- **Names:** in news, full name and role at first mention, then surname alone, no Dr, unless the house style says otherwise.
+- **Names:** in news, full name and role at first mention, then surname alone; no Dr or Prof. in running text (only in quote attributions, if the house style wants it), unless the house style says otherwise.
 - **Units:** SI, with a space between number and unit (5 kg, 20 °C).
 
 ## Web readability (content design)

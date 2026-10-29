@@ -40,9 +40,9 @@ EMBARGOED UNTIL [hh:mm time zone, day month year]
 [Headline: finding in plain words, active verb, about 12 words at most]
 [Subhead: why it matters / key context]
 
-[City], [date] – [Lede: who found what, and why it matters, in 35–40 words at most.]
+[City], [date] – [Lede: who found what, and why it matters, in about 35 words at most.]
 
-[Context: the problem, and what was known before.]
+[Context: the problem, what was known before, and whether this confirms or contradicts earlier work.]
 
 [How they did it: method in plain words, with one concrete detail.]
 
@@ -52,7 +52,7 @@ EMBARGOED UNTIL [hh:mm time zone, day month year]
 
 [Limitations and conditions.]
 
-[Optional: second approved quote from a partner or independent expert.]
+[Optional: second approved quote from a co-author or partner, labelled as such. Independent experts journalists can call go in the notes to editors.]
 
 [Credits: collaborators, institutions, funders and the required acknowledgement.]
 
