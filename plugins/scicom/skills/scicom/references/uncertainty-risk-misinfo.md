@@ -45,7 +45,7 @@
 - **Threat plus response:** pair every threat with a response that works and a step people can take. A threat alone gets played down.
 - **Perceived risk:** unfamiliar, invisible or involuntary risks feel worse. Address the concern; don't dismiss it.
 - **Scope:** say whom and what conditions the numbers apply to, and what each percentage is out of (per person, per run, per year).
-- **Rankings and indices:** report the band, not the exact rank; don't make news of small rank changes; say who built the index and what goes into it.
+- **Rankings and indices:** report the band ("in the top 100"), not the exact rank; say who built the index and what goes into it. Don't make news of small rank changes: if asked anyway, write a short website item, not a release.
 - **Translate statistics:** statistical significance is not importance; correlation is not causation; one study is not a consensus.
 - **Very large or very small numbers** (common in physics and computer science):
   - use comparisons of scale, and check them;

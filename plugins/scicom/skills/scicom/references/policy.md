@@ -22,7 +22,7 @@ Pielke describes four idealised roles for experts in policy:
 
 **Further rules:**
 - **Avoid stealth advocacy:** claiming to present "just the science" while steering towards a preferred policy. It is often unwitting. Warning sign: a disagreement about values presented as if the facts will settle it.
-- **Say which role you are playing.** You can argue for a goal and still set out the options for reaching it; you cannot narrow and widen the same choice. In close, trusted engagement the roles blur, so label each statement as evidence or as your judgement.
+- **Say which role you are playing.** You can argue for a goal and still set out the options for reaching it. Recommending one option while openly comparing the others is advocacy, and fine when labelled. What you cannot do is claim to widen a choice while narrowing it. In close, trusted engagement the roles blur, so label each statement as evidence or as your judgement.
 - **Honest brokering often works best as a group effort:** panels, committees, multidisciplinary teams.
 - **Advocacy is legitimate:** Pielke himself calls open advocacy legitimate; his target is hidden advocacy. Don't use "advocate" to dismiss people; judge evidence on its merits (Rosenberg 2007).
 - **Role check** before a policy contact or public statement (after Pielke and the Swiss Academies' 2025 roles guide):
@@ -70,7 +70,7 @@ A one-pager gives talking points and one figure; a full review of options can ru
    - State the criteria used to compare them; by default cost, feasibility, effectiveness, side effects and equity.
    - Make recommendations precise and feasible: who does what, by when. If the evidence can't separate the options, say so.
 6. **Implications and next steps.** Don't default to "more research is needed".
-7. **Sources, authors, contact details and date** ("based on evidence available on…"), whether it was peer reviewed, and a statement of interests.
+7. **Sources, authors, contact details and date** ("based on evidence available on…"), whether it was peer reviewed, and a statement of interests. If an author has a commercial stake in a recommendation, declare it next to that recommendation and ask an independent reviewer to check it.
 
 State the main caveat once up front, and keep it wherever the claim recurs.
 
@@ -95,7 +95,7 @@ State the main caveat once up front, and keep it wherever the claim recurs.
   - a three-minute opening;
   - direct answers without jargon;
   - an offer to follow up in writing.
-- **Expert panels and advisory reports:** keep evidence and judgement apart, and show uncertainty. Show majority and minority positions with their reasons; don't blend them into a vague middle. Name the assumptions and values that went in. In the public version, say why the other options were not chosen.
+- **Expert panels and advisory reports:** keep evidence and judgement apart, and show uncertainty. Show majority and minority positions with their reasons; don't blend them into a vague middle. Name the assumptions and values that went in. In the public version, say why the other options were not chosen. Members giving interviews speak in a personal capacity, say so, and keep deliberations confidential unless the panel agreed otherwise.
 
 ## EU science-for-policy notes (JRC *Science for Policy Handbook*; SAPEA 2019)
 

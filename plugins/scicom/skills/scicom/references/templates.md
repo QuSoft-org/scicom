@@ -35,7 +35,7 @@ The so what changes with the audience. Solutions must be something this audience
 
 ```
 [LABELS: peer-reviewed | experiment | devices]
-EMBARGOED UNTIL [hh:mm time zone, day month year]
+EMBARGOED UNTIL [hh:mm time zone, day month year]   (already published: no embargo line; say "published in [month]", not "new")
 
 [Headline: finding in plain words, active verb, about 12 words at most]
 [Subhead: why it matters / key context]

@@ -141,7 +141,7 @@ A template is in `templates.md`.
 - Find out: outlet, audience, angle, other sources, format (live or recorded; studio, phone or video), length and deadline.
 - **Spokesperson:** the one who explains well and has time, not necessarily the most senior.
 - **Unexpected call:** ask the outlet, angle and deadline, and agree a time to call back, even in ten minutes. Note two or three key points first.
-- **Disclose relationships:** list the researcher's industry partners, spin-offs and board roles, and mention them proactively. Suggest independent experts, including likely critics.
+- **Disclose relationships:** list the researcher's industry partners, spin-offs, board roles and advisory committee seats, and mention them proactively. Suggest independent experts, including likely critics.
 - **False balance:** prepare one line on where the weight of evidence lies and how large any dissent is.
 - **Policy questions:** decide beforehand how to answer "What should the government do?": the options and trade-offs, or a personal view labelled as such (see `policy.md`).
 - Prepare one main message, two supporting points, one concrete example or analogy, and one memorable number.
