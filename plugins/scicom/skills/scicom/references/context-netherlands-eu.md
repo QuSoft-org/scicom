@@ -27,6 +27,8 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 | NWO | Dutch Research Council; national funder |
 | KNAW | Royal Netherlands Academy of Arts and Sciences |
 | Rathenau Instituut | research on science, technology and society; trust monitor; advises parliament |
+| AWTI | Advisory Council for Science, Technology and Innovation; advises government and parliament |
+| Gezondheidsraad | Health Council; advises on health, food and environment |
 | NEWS | National Centre of Expertise on Science and Society: advice, shared knowledge, connections to experts and input to training. It does not fund projects or run public activities `[CHECK current services]` |
 | Universities of the Netherlands (UNL) | association of Dutch universities, formerly VSNU |
 | SciComNL | network of Dutch science communication professionals |
@@ -38,10 +40,15 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 
 - **Ministries:** the ministry responsible for science and higher education, and other ministries by topic. Civil servants prepare policy and are often the best first contact.
 - **Tweede Kamer** (House of Representatives):
-  - committees hold round-table meetings with invited experts and accept written position papers;
+  - committees hold round-table meetings (rondetafelgesprekken) with invited experts and accept written position papers;
+  - follow committee agendas, Kamervragen and motions to spot openings;
+  - write to the committee staff (griffie) as well as fractiemedewerkers;
+  - send position papers early, and answer the committee's questions point by point;
+  - watch an earlier rondetafelgesprek on Debat Direct before speaking;
   - be short, factual and clear about uncertainty;
   - say which role you take (see `policy.md`).
-- **Advisory bodies:** Rathenau Instituut, KNAW and other councils. Municipalities and provinces matter for local issues.
+- **Advisory bodies:** Rathenau Instituut, KNAW, AWTI, Gezondheidsraad and other councils. Municipalities and provinces matter for local issues.
+- **Consultations:** internetconsultatie.nl for Dutch draft laws; the European Commission's "Have your say" portal for EU initiatives.
 
 ## EU funding: communication obligations
 

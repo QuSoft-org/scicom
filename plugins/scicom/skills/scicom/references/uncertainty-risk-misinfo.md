@@ -5,7 +5,7 @@
 **Be clear about five things** (after van der Bles et al. 2019):
 - **What** is uncertain: a fact, a number or estimate, or the science itself (competing explanations).
 - **How much:** a range or probability, wherever possible.
-- **Why:** measurement limits, small samples, model assumptions, missing data, disagreement.
+- **Why:** measurement limits, small samples, model assumptions, missing data, disagreement; and whether more research would narrow it (missing data, small samples) or not (natural variability, chance).
 - **In what form:** numbers (ranges), words (used carefully), or visuals (ranges, intervals, fan charts).
 - **How good** the underlying evidence is.
 
@@ -16,9 +16,11 @@
 - Name the kind of uncertainty: not yet known; natural variability; model assumptions; disagreement among experts.
 - When experts disagree, say why: different data, different methods, a question still open. Otherwise lay readers conclude the experts are incompetent. Disagree without questioning motives.
 - Say what would change the conclusion, and what new data are coming.
-- Uncertainty is not a reason for inaction when the risks are clear. Explain what is robust enough to act on.
+- Uncertainty is not a reason for inaction when the risks are clear. Explain what is robust enough to act on. In policy advice, the threshold for acting is the decision-maker's (see `policy.md`).
 - Where consensus exists, say so with a figure and a named source (preferably national or European bodies), and say how many lines of evidence agree. Never inflate it. With sceptical or polarised audiences, explain the evidence first rather than leading with "scientists agree".
-- If you use probability words ("likely"), add the number: "likely (about 70%)". People read these words very differently.
+- If you use probability words ("likely"), add the number first: "about 70% (likely)". People read these words very differently. In briefs and reports, give both how likely the outcome is and how confident the experts are (amount of evidence, level of agreement).
+- If the probability can't be estimated, say so and why; don't write "unlikely" or "possible".
+- **Models and scenarios:** name the one or two assumptions the result depends on most, and give the range.
 - Match the verb to the evidence in both directions: "the evidence shows" for settled findings, not "scientists believe"; don't shrink a main cause to "plays a role".
 
 **Three kinds of uncertainty readers recognise.** Say which one applies, and be concrete:
@@ -43,6 +45,7 @@
 - **Threat plus response:** pair every threat with a response that works and a step people can take. A threat alone gets played down.
 - **Perceived risk:** unfamiliar, invisible or involuntary risks feel worse. Address the concern; don't dismiss it.
 - **Scope:** say whom and what conditions the numbers apply to, and what each percentage is out of (per person, per run, per year).
+- **Rankings and indices:** report the band, not the exact rank; don't make news of small rank changes; say who built the index and what goes into it.
 - **Translate statistics:** statistical significance is not importance; correlation is not causation; one study is not a consensus.
 - **Very large or very small numbers** (common in physics and computer science):
   - use comparisons of scale, and check them;
@@ -89,6 +92,8 @@ Don't make a graphic of the myth; if you must, put the correction inside the ima
 **Conspiracy theories** (Conspiracy Theory Handbook 2020):
 - Committed believers are rarely persuaded; speak to the undecided audience.
 - Show empathy, respect people's wish to think critically, and explain how science corrects itself. Don't mock.
+
+**When the dispute is really about values or costs,** winning the uncertainty argument changes little: name the trade-off and the options (see `policy.md`).
 
 **Online:** reply for the people reading along, link to sources, and don't let trolls set the agenda (safety advice is in `social-media.md`).
 

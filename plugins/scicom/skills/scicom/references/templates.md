@@ -196,13 +196,13 @@ Scoring: indicators per objective (outputs, outtakes, outcomes), baseline, when 
 ## Policy brief
 
 ```
-Title: key finding or implication
-Key messages: 3–5 bullets
+Title: key finding or implication (at most 10 words)
+Key messages: at most 3 findings, plus one line per option (at most 3), with the uncertainty that matters
 The issue: why now, for whom
-What the evidence shows: plain language, one visual, level of certainty
-Options (with consequences and trade-offs) OR recommendations
+What the evidence shows: weight of evidence, plain language, one visual, level of certainty, counterarguments
+Options (consequences, trade-offs, compared with the status quo) OR recommendations (who, what, by when)
 Implications and next steps
-Authors, contact, date, sources
+Authors, contact, date ("evidence available on…"), peer reviewed or not, interests, sources
 ```
 
 ## Lay summary (150–250 words)

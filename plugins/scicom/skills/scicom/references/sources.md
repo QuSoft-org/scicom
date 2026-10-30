@@ -95,6 +95,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 **Policy**
 - Oliver, K. & Cairney, P. (2019). *Palgrave Communications*: https://doi.org/10.1057/s41599-019-0232-y
 - Cairney, P. & Kwiatkowski, R. (2017). *Palgrave Communications*: https://doi.org/10.1057/s41599-017-0046-8
+- Rosenberg, A. A. (2007). Review of Pielke, *The Honest Broker*. *Nature* 448: 867.
 
 **Strategy and institutional communication**
 - Dudo, A. & Besley, J. C. (2016). *PLOS ONE*: https://doi.org/10.1371/journal.pone.0148867

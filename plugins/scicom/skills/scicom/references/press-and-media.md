@@ -110,8 +110,8 @@ In your delivery notes (not for distribution), add a **source map**: each number
   - avoid holidays, and avoid clashing with your own other big news;
   - make sure the researcher is reachable when the embargo lifts;
   - promote conference papers about a week before the meeting;
-  - when your topic breaks in the news, offer expertise within about a day;
-  - a paper that came out weeks ago gets a news item, not a release.
+  - when your topic breaks in the news, offer expertise within about a day, with a few short points, the context (compared with last time? a trend? causes?) and how sure the estimate is;
+  - a paper that came out weeks ago gets a news item, not a release, unless it can be tied to a policy moment (a vote, a consultation deadline) with an angle the researcher agrees to.
 - **Sending:** paste the release into the email body; subject line = headline; recipients in BCC.
 - **Follow-up:** don't chase a mass release; follow up only with something new for that journalist. (A personal pitch gets one follow-up; see below.) Track coverage and log the results.
 
@@ -143,6 +143,7 @@ A template is in `templates.md`.
 - **Unexpected call:** ask the outlet, angle and deadline, and agree a time to call back, even in ten minutes. Note two or three key points first.
 - **Disclose relationships:** list the researcher's industry partners, spin-offs and board roles, and mention them proactively. Suggest independent experts, including likely critics.
 - **False balance:** prepare one line on where the weight of evidence lies and how large any dissent is.
+- **Policy questions:** decide beforehand how to answer "What should the government do?": the options and trade-offs, or a personal view labelled as such (see `policy.md`).
 - Prepare one main message, two supporting points, one concrete example or analogy, and one memorable number.
 - Prepare for the hard questions: limitations, applications and timelines, money, risks, controversy, and "what does this mean for me?". Also: how does this compare with other studies? Is it strong enough to change anything now? For "Can you rule it out?" or "Is it safe?", give the strongest honest statement ("the evidence gives us high confidence that…"), not a refusal.
 - Practise aloud, with a fluent speaker if the interview is not in their first language. Answers of two or three sentences (20–30 seconds) that make sense on their own, because the question may be cut. For recorded radio and TV, prepare 5–10-second soundbites that contain the question.

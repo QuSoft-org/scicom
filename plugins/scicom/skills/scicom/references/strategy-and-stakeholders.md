@@ -129,7 +129,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
 - **Objectives and indicators:** each objective has a baseline, a target and a date, and aims at an outcome, not an output: "applications from 40 to 60 by the 2027 deadline", not "10 posts". Use communication objectives, not the research objectives restated. Choose one to three indicators per objective before launch, and combine numbers with quotes and observations.
   - Outputs: reach and accuracy of coverage, not just volume.
   - Outtakes: engagement, understanding, sentiment.
-  - Outcomes: behaviour, such as applications, enquiries, partnerships, citations in policy documents.
+  - Outcomes: behaviour, such as applications, enquiries, partnerships, citations in policy documents. For policy work, also log requests for meetings or advice, consultation invitations, Kamervragen and unprompted approaches, with dates. Use often shows only later.
 - **No advertising-value equivalents.**
 - **Events:** a three-question survey (what did you learn, how did it feel, would you come back?), observation, and follow-up. Check delivery first: did the Q&A actually happen?
 - **Don't overclaim:** a survey after an event shows experience, not attitude change. That needs two measurements against an objective. Before crediting a rise to the campaign, compare it with the trend and other causes.

@@ -44,6 +44,7 @@ Use the house style's credit format, for example "Photo: Name / Institution". Ch
 
 - **Write the script before designing:** headline, three to five steps, one takeaway.
 - **One idea per panel,** consistent icons, and a source line.
+- Readable in about two minutes; test it on one non-expert.
 
 ## AI-generated images
 

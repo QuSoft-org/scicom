@@ -5,7 +5,7 @@
 Based on the *Guidelines for Good Research Communication* (Wissenschaft im Dialog, 2025), the *Netherlands Code of Conduct for Research Integrity* (2018) and the *European Code of Conduct for Research Integrity* (ALLEA, 2023):
 
 - **Honesty and accuracy:** present results as they are, with their limitations, without exaggeration.
-- **Transparency:** name sources, funders, partners and relevant interests. Be clear about what kind of text it is: institutional communication is not independent journalism.
+- **Transparency:** name sources, funders, partners and relevant interests. Declare more than money: patent and spin-off stakes, board roles, earlier public positions. Interests don't disqualify you; hiding them does. Be clear about what kind of text it is: institutional communication is not independent journalism.
 - **Separate** facts, interpretation and opinion, and mark speculation as speculation.
 - **Respect audiences:** be understandable and don't manipulate.
 - **Independence:** communication goals must not shape results or how they are presented.
@@ -32,6 +32,7 @@ A practical test: would you be comfortable if an independent expert and a journa
 - **Patents:** any public disclosure before a patent application is filed can destroy patentability. That includes a talk, a post, a press release or a preprint. Check with the technology transfer office first.
 - **Knowledge security:** for sensitive or dual-use research (some areas of quantum technology, AI, semiconductors, biotechnology), check with the research security officer before publishing technical details or partner information.
 - **Industry agreements:** check what may be said, and when. Name industry partners plus one safeguard (who controls publication, whether data are open), and never claim more independence than that.
+- **Fronting a campaign:** fronting an outside organisation's release or campaign is advocacy: fine if declared. Check who funds it first (EU Transparency Register).
 - **Animal research:** name the species and the ethical approval, mention the 3Rs (replace, reduce, refine), and follow the institution's openness policy.
 
 ## Using AI in communication work

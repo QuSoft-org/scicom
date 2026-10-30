@@ -160,7 +160,7 @@ When asked to "communicate this paper", propose a small package matched to the g
 - a newsletter paragraph;
 - one slide for talks.
 
-Build the fact sheet and the message once and reuse them, so every format says the same thing.
+Build the fact sheet and the message once and reuse them, so every format rests on the same facts. Angles may differ by audience, but never contradict.
 
 ## Working safely with AI-drafted text
 
