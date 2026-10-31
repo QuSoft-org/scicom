@@ -21,7 +21,7 @@ A practical test: would you be comfortable if an independent expert and a journa
 
 ## Consent, privacy and rights
 
-- **People in photos and video:** get consent from identifiable people, in writing for published material. Minors need consent from parents or guardians. Respect withdrawal of consent. GDPR applies in the EU.
+- **People in photos and video:** get consent from identifiable people, in writing for published material. Minors need consent from parents or guardians. Tell people where the material will appear and for how long. Respect withdrawal of consent. GDPR applies in the EU.
 - **Research participants:** never identify them without explicit consent.
 - **Images and music:** check licences and credit creators. Use the institution's image bank or properly attributed openly licensed images.
 - **Quotes:** approved by the person quoted. When editing a quote, never change its meaning.
@@ -40,8 +40,8 @@ A practical test: would you be comfortable if an independent expert and a journa
 Based on the EU *Living guidelines on the responsible use of generative AI in research* (second version 2025, third version May 2026):
 
 - **People stay responsible** for everything that is published. AI output is a draft.
-- **Verify** every fact, number, name and reference against the source.
-- **Never fabricate quotes,** and never attribute AI-written words to a person without their approval. The Digital News Report 2026 records that a former editor-in-chief of the Dutch newspaper NRC was suspended after publishing AI-fabricated quotes.
+- **Verify** every fact, number, name and reference against the source. Never write from an AI summary of a paper; work from the paper itself.
+- **Never fabricate quotes,** and never attribute AI-written words to a person without their approval. The Digital News Report 2026 records that publisher Mediahuis suspended a former NRC editor-in-chief over AI-fabricated quotes in his newsletter.
 - **Protect material:** don't put confidential, unpublished, embargoed or personal data into AI tools that are not approved for it.
 - **Be transparent** about substantial AI use where the institution's policy, the funder or the outlet requires it, or where audiences would expect it.
 - **AI images:** label them, and never use them to depict real experiments, data, people or events.

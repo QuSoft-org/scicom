@@ -24,7 +24,7 @@ Pielke describes four idealised roles for experts in policy:
 - **Avoid stealth advocacy:** claiming to present "just the science" while steering towards a preferred policy. It is often unwitting. Warning sign: a disagreement about values presented as if the facts will settle it.
 - **Say which role you are playing.** You can argue for a goal and still set out the options for reaching it. Recommending one option while openly comparing the others is advocacy, and fine when labelled. What you cannot do is claim to widen a choice while narrowing it. In close, trusted engagement the roles blur, so label each statement as evidence or as your judgement.
 - **Honest brokering often works best as a group effort:** panels, committees, multidisciplinary teams.
-- **Advocacy is legitimate:** Pielke himself calls open advocacy legitimate; his target is hidden advocacy. Don't use "advocate" to dismiss people; judge evidence on its merits (Rosenberg 2007).
+- **Advocacy is legitimate:** Pielke himself calls open advocacy legitimate; his target is hidden advocacy. Don't use "advocate" to dismiss people; judge evidence on its merits (Rosenberg 2007). About half the public accepts scientists advocating specific policies, while a quarter objects (Cologna et al. 2025), so label it.
 - **Role check** before a policy contact or public statement (after Pielke and the Swiss Academies' 2025 roles guide):
   - Which role am I taking?
   - Who mandated or funded me, and must I say so?

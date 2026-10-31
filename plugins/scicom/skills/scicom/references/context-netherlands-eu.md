@@ -6,7 +6,9 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 
 - **Language.** National and regional Dutch media mostly work in Dutch. An English-only release limits Dutch coverage, so offer a Dutch version or a Dutch-speaking spokesperson. International and EU audiences need English.
 - **News habits** (Reuters Institute Digital News Report 2026):
-  - TV news is still level with online video, which is unusual internationally.
+  - TV news still reaches more people each week than online news video, which is unusual internationally.
+  - Interest in news has fallen, and about a third avoid it at times: lead with relevance to daily life.
+  - Dutch news creators are a small channel (9% weekly); young Dutch audiences meet news through newsrooms' social formats (NOS Stories, NU.nl).
   - Top platforms for news: Facebook 27%, WhatsApp 24%, Instagram 20%, YouTube 20%, TikTok 9%, LinkedIn 7%.
   - Overall trust in news is 49%, well above the global average of 37%.
 - **Most trusted news brands** (share who trust them, DNR 2026):
@@ -18,7 +20,7 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 - **Informed and trusting:**
   - Dutch respondents are among the best informed in the EU about science and technology (Special Eurobarometer 557, 2025).
   - Trust in science is high, about 7.5 out of 10, but more polarised than in 2021 (Rathenau Instituut 2025).
-- **Generative AI in Dutch newsrooms:** media groups are experimenting with it. One former editor-in-chief was suspended over AI-fabricated quotes (DNR 2026), which is one more reason never to fabricate quotes.
+- **Generative AI in Dutch newsrooms:** media groups are experimenting with it. For the NRC case of AI-fabricated quotes, see `ethics-integrity-ai.md`.
 
 ## Organisations worth knowing
 
@@ -53,7 +55,7 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 ## EU funding: communication obligations
 
 - **Horizon Europe and ERC grants** require visibility of EU funding in communication and dissemination. Use the EU emblem with the funding statement, plus the funder's logo where required (for example the ERC logo), and the standard disclaimer from the grant agreement where applicable. Rules differ by programme and change over time, so check the current grant agreement and the funder's guidance.
-- **Tell the project officer** before major results, events and releases `[CHECK the grant agreement]`. Paid offers to "feature your project" are not endorsed by the Commission.
+- **Tell the project officer** before major results, events and releases `[CHECK the grant agreement]`. Agree with partners what stays confidential before anyone posts. Paid offers to "feature your project" are not endorsed by the Commission.
 - **Wording:** "funded by the EU", not "by Europe"; "non-EU countries", not "third countries".
 - **Three activities in EU projects:** communication (wide audiences, about the project), dissemination (results to those who can use them) and exploitation (putting results to use).
 - **European channels:** AlphaGalileo for European science journalists; CORDIS, the EU's results portal, where projects can share news and results; plus EurekAlert! internationally.

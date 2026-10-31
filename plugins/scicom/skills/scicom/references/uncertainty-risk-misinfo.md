@@ -111,7 +111,7 @@ Put the correction right next to the myth and make it at least as prominent: in 
   - In most countries, most people trust scientists.
   - 83% agree that scientists should communicate about science with the general public.
   - About half (52%) want scientists to be more involved in policymaking.
-  - Trust varies, partly with political orientation.
+  - In some European and North American countries, right-leaning people trust scientists less; in most countries there is no link.
 - **EU (Special Eurobarometer 557, 2025):**
   - 83% see the overall influence of science and technology as positive.
   - 58% want to learn more about scientific developments.
@@ -121,5 +121,5 @@ Put the correction right next to the myth and make it at least as prominent: in 
 
 **Implications:**
 - Openness about funding, interests and uncertainty builds integrity.
-- Warmth and listening matter as much as expertise.
-- Making science understandable is part of earning trust.
+- People rate scientists' competence highest and their openness to others' views lowest: show that you listen and how input is used.
+- Show concretely who benefits and how (never invent the link): perceived benefit to "people like me" tracks trust more closely than science literacy does.

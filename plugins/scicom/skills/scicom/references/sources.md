@@ -77,7 +77,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Reel Life Science (2019). *Filming tips*.
 
 **Audience data**
-- Reuters Institute (2026). *Digital News Report 2026*.
+- Egan, Robertson, Ross Arguedas, Newman, Nielsen, Mukherjee & Fletcher (2026). *Digital News Report 2026*. Reuters Institute: https://doi.org/10.60625/risj-4vgf-s811 (CC BY 4.0)
 - European Commission (2025). *Special Eurobarometer 557: European citizens' knowledge and attitudes towards science and technology*: https://doi.org/10.2777/6040908
 - Rathenau Instituut (2018). *Trust in Science in the Netherlands*; (2025). *Vertrouwen in de wetenschap*.
 
@@ -124,7 +124,9 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Bik, H. M. & Goldstein, M. C. (2013). *PLOS Biology*: https://doi.org/10.1371/journal.pbio.1001535
 - Zawacki, E. E. et al. (2022). *Geoscience Communication*: https://doi.org/10.5194/gc-5-363-2022
 - Chen, S. & Brewer, P. R. (2025). *International Journal of Communication* 19: 1207–1227.
-- Quelle, D. et al. (2025–2026). arXiv:2505.24801
+- Quelle, D. et al. (2026). arXiv:2505.24801, preprint v2; data to December 2024
+- Habibi, S. A. & Salim, L. (2021). *PLOS ONE* 16(3): e0248507: https://doi.org/10.1371/journal.pone.0248507 (small case study)
+- MacKenzie, L. E. (2019). Science podcasts: analysis of global production and output from 2004 to 2018. *Royal Society Open Science* 6: 180932 `[CHECK]`
 
 **Writing, story and framing**
 - Somerville, R. C. J. & Hassol, S. J. (2011). *Physics Today*: https://doi.org/10.1063/PT.3.1296

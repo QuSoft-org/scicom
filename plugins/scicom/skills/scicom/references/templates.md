@@ -77,6 +77,8 @@ What's next, plus limitations
 Links: paper, team page, related news · Image with caption, credit and alt text
 ```
 
+Write it as the verifiable source readers and AI users check: finding and caveats first, named researchers, date, link or DOI.
+
 ## News tip (for selected journalists)
 
 ```

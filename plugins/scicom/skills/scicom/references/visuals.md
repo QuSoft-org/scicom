@@ -28,7 +28,7 @@
 
 ## Rights and consent
 
-Use the house style's credit format, for example "Photo: Name / Institution". Check licences for stock and openly licensed images, and get consent from identifiable people (parents for minors). Journal figures may belong to the publisher: check the licence. Have the researcher check commissioned artwork for accuracy. See `ethics-integrity-ai.md`.
+Use the house style's credit format, for example "Photo: Name / Institution". Check licences for stock and openly licensed images, and get consent from identifiable people (parents for minors). Journal figures may belong to the publisher: check the licence. Have the researcher check commissioned artwork for accuracy. See `ethics-integrity-ai.md`. Where policy allows, release your own explainer graphics, slides and videos under CC BY, and deposit slides and posters on Zenodo with a DOI.
 
 ## Alt text
 
