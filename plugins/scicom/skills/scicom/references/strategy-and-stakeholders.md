@@ -4,7 +4,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
 
 ## The strategy chain (after Besley & Dudo)
 
-1. **Organisational goal.** Examples: recruit international PhD candidates, secure follow-up funding, inform a policy debate, build trust with neighbours, attract industry partners, become visible in the field.
+1. **Organisational goal.** Examples: recruit international PhD candidates, secure follow-up funding, inform a policy debate, build trust with neighbours, attract industry partners, become visible in the field. If the stated goal is to win acceptance for a decision already taken, or to move people beyond what the evidence supports, say so and propose an honest goal (inform, hear concerns, explain the trade-offs).
 2. **Behavioural goal: what should a specific group do?**
    - Examples: "physics master's students apply to our PhD programme"; "ministry officials use our evidence when drafting the strategy"; "local residents come to the open day and ask questions".
    - Broader aims count too: seeing science as legitimate, accepting new findings, supporting research funding.

@@ -45,7 +45,7 @@ Hiding the markers never permits guessing. Close every gap by leaving the fact o
 
    Load the reference files for the format now (routing table below). Then the news test, calibration rules and templates shape what you look for.
 
-   If you can tell what the main finding and the goal are, draft straight away. Put `[CHECK: …]` placeholders where facts are missing, and ask your questions after the draft: at most three questions, though `[CHECK]` markers are not limited. Ask first, giving a short outline instead of a draft, when you cannot tell the main finding or goal, or when more than about half of a deliverable would be placeholders (judge each deliverable separately).
+   If you can tell what the main finding and the goal are, draft straight away. Put `[CHECK: …]` placeholders where facts are missing, and ask your questions after the draft: at most three questions, though `[CHECK]` markers are not limited. Ask first, giving a short outline instead of a draft, when you cannot tell the main finding or goal, or when more than about half of a deliverable would be placeholders (judge each deliverable, or each part of one, separately).
 
 2. **Get the science right.** Before writing, build a short fact sheet from the source material:
    - the finding in one plain sentence;
@@ -56,7 +56,7 @@ Hiding the markers never permits guessing. Close every gap by leaving the fact o
    - stage and realistic next steps. Never invent timelines to applications;
    - people (names, roles, affiliations), partners, funders and grant numbers, DOI or link, a free version and open data if any; whether AI was used in the research.
 
-   Take facts from the source or the user. You may add well-established background knowledge for context, marked `[CHECK]` so the researcher can verify it. Never add findings, numbers or names of your own. For quotes, follow the quote rule under "Working safely with AI-drafted text". Where something is unknown, first try to resolve it:
+   Take facts from the source or the user. If the source is itself a summary (AI-drafted, a proposal or promotional text), treat its claims as unverified and check them against the paper or with the researcher. You may add well-established background knowledge for context, marked `[CHECK]` so the researcher can verify it. Never add findings, numbers or names of your own. For quotes, follow the quote rule under "Working safely with AI-drafted text". Where something is unknown, first try to resolve it:
    - from the source itself: papers usually give authors, affiliations, funders, journal and numbers;
    - from the house-style file;
    - if you have tools for it, from a reliable lookup such as the DOI record or the journal's page.

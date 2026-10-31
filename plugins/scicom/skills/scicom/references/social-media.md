@@ -58,6 +58,7 @@ Show a range of researchers on camera as a matter of representation, not as an e
 - **No "happy to share" or "proud to announce".**
 - **Check the announcement date first:** has the funder announced the results publicly? Many funders set a date before which recipients may not post.
 - **Name the funder and programme correctly,** tag them, and follow their visibility rules for logos.
+- **Declare competing interests** in the post itself: a spin-off, a licence, a board role.
 - **End with a useful action,** such as a vacancy or a link to the news item.
 
 ## One paper, many posts

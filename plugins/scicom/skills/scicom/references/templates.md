@@ -219,6 +219,17 @@ The question: …  What we did: …  What we found: …  Why it matters / what's
 News hook → argument (one sentence) → evidence 1–3 → strongest counter-argument and answer → call to action → byline and disclosure
 ```
 
+## Event invitation
+
+```
+Title: [format, honestly named: information evening / lecture / dialogue] on [topic]
+Why now, and what we know you are asking: […]
+At this event you can: [hear…; ask…, in small groups; tell us…]
+What can still change / what cannot: […]  ·  What happens with your input: [report back by date]
+Who: [speakers and roles; who commissioned and funded the work; independent chair if any]
+When, where, language, access, cost, registration: […]  ·  Can't come? [send questions to…]
+```
+
 ## Letter to neighbours
 
 ```
