@@ -33,7 +33,8 @@ If scicom is not installed, still apply its core rules:
 
 **Using any analogy:**
 - Say what it illustrates, and where it breaks down. If the breakdown is interesting, use it as the hook.
-- Treat analogies you generate as drafts for a physicist to check.
+- Treat analogies you generate as drafts for a physicist to check (if the user is the researcher, ask them to confirm).
+- If the user wants an analogy this table flags, the choice is theirs: use it with its breakdown stated, and offer the better framing.
 - Draw fresh analogies from waves, resonance, balancing, social coordination, games or puzzles.
 - Avoid computer metaphors that assume what you are trying to explain.
 

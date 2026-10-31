@@ -46,9 +46,10 @@
 - **Hazard versus risk:** separate what could cause harm from how likely and how serious the harm is. Explain in one sentence why the risk is as large or small as it is, aimed at the likely misconception, and who monitors it.
 - **Threat plus response:** pair every threat with a response that works and a step people can take. A threat alone gets played down. Say what remains fine: a limited warning is often heard as "avoid it altogether".
 - **Perceived risk:** risks feel worse when involuntary, uncontrollable, unfair (some bear it, others benefit), catastrophic, unfamiliar or poorly understood, or managed by people the audience distrusts. Say which apply and how each is handled; don't dismiss the concern.
-- **Scope:** say whom and what conditions the numbers apply to, and what each percentage is out of (per person, per run, per year).
+- **Scope:** say whom and what conditions the numbers apply to, and what each percentage is out of (per person, per run, per year). For "% of the limit", say which quantity (field strength, power density, dose) and which limit.
 - **Rankings and indices:** report the band ("in the top 100"), not the exact rank; say who built the index and what goes into it. Don't make news of small rank changes: if asked anyway, write a short website item, not a release.
 - **Translate statistics:** statistical significance is not importance; correlation is not causation; one study is not a consensus.
+- **Small counts** (10 incidents versus 4): give the counts, not only the percentage change, and say that chance and changes in reporting can't be excluded.
 - **Very large or very small numbers** (common in physics and computer science):
   - use comparisons of scale, and check them;
   - state the conditions behind speed-up claims ("a million times faster than…what, on which task?").

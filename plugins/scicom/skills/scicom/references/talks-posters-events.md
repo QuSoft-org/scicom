@@ -10,7 +10,7 @@
   - No dense bullet lists.
   - Build complex diagrams over several slides; explain the axes before the result; put backup slides after the conclusion; credit contributors on the slide that shows their work.
   - Accessible: sans-serif, large type, bold for emphasis (no italics or all caps), high contrast, colour-blind-safe palettes, no decorative animation.
-- **Timing:** start from roughly one slide per minute. Rehearse aloud with a timer, then for friendly colleagues, and leave time for questions. Bring a PDF backup, and a still for every video.
+- **Timing:** start from roughly one slide per minute, and roughly 130–150 spoken words a minute (practice): a 3MT script is about 350–400 words. Rehearse aloud with a timer, then for friendly colleagues, and leave time for questions. Bring a PDF backup, and a still for every video.
 - **Engage:** ask a question, show an object, give a demonstration, tell a story.
 - **Questions and answers:** repeat the question, answer briefly, and admit what you don't know. Then bridge back to the message. If a questioner turns disruptive, offer to continue afterwards. If someone is angry or grieving, listen and acknowledge before explaining.
 - **Online:**

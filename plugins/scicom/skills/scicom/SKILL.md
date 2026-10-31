@@ -45,7 +45,7 @@ Hiding the markers never permits guessing. Close every gap by leaving the fact o
 
    Load the reference files for the format now (routing table below). Then the news test, calibration rules and templates shape what you look for.
 
-   If you can tell what the main finding and the goal are, draft straight away. Put `[CHECK: …]` placeholders where facts are missing, and ask your questions after the draft: at most three questions, though `[CHECK]` markers are not limited. Ask first, giving a short outline instead of a draft, when you cannot tell the main finding or goal, or when more than about half of the draft would be placeholders.
+   If you can tell what the main finding and the goal are, draft straight away. Put `[CHECK: …]` placeholders where facts are missing, and ask your questions after the draft: at most three questions, though `[CHECK]` markers are not limited. Ask first, giving a short outline instead of a draft, when you cannot tell the main finding or goal, or when more than about half of a deliverable would be placeholders (judge each deliverable separately).
 
 2. **Get the science right.** Before writing, build a short fact sheet from the source material:
    - the finding in one plain sentence;
@@ -137,7 +137,7 @@ For every format, also use its template in `references/templates.md`. Where ther
 | Social media posts, threads, carousels, short video, platform choice, moderation | `references/social-media.md` |
 | Video scripts, filming, podcasts | `references/video-audio.md` (radio and TV interviews: `press-and-media.md`) |
 | Talks, pitches, 3-minute thesis, posters, public events, school visits | `references/talks-posters-events.md` |
-| Op-eds, blogs, explainers, features, newsletters, lay summaries, web pages, bios, impact stories | `references/long-form-and-web.md` |
+| Op-eds, blogs, explainers, features, newsletters, lay summaries, web pages, bios, impact stories, letters to neighbours, internal news | `references/long-form-and-web.md` |
 | Policy briefs, briefings, consultations, choosing a role in policy debates | `references/policy.md` |
 | Figures, images, infographics, visual abstracts, alt text | `references/visuals.md` |
 | Uncertainty, risk and numbers, hype, misinformation, trust | `references/uncertainty-risk-misinfo.md` |

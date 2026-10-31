@@ -217,6 +217,25 @@ The question: …  What we did: …  What we found: …  Why it matters / what's
 News hook → argument (one sentence) → evidence 1–3 → strongest counter-argument and answer → call to action → byline and disclosure
 ```
 
+## Letter to neighbours
+
+```
+Subject: [facility]: what it does, what to expect, how to reach us
+Your concern, in your words: […] Thank you for raising it.
+What it is and does: […]
+How it affects you: [noise, safety, traffic: measured values against the limit, which quantity]
+What is not yet decided or measured: […]
+Contact and offer to meet: [name, role, phone, email; date]
+When we will write again: […]
+[Name, role]
+```
+
+## Talk or slide outline
+
+```
+Slide | headline (one full sentence: the point) | visual | what you say (two or three points)
+```
+
 ## Holding statement (crisis)
 
 ```

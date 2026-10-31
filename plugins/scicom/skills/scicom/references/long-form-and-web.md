@@ -19,6 +19,14 @@
 
 Reply within a day or two, in under about 150 words. Name the article and date, make one point, and give your role.
 
+## Letters to neighbours and residents
+
+Acknowledge the concern in their words before any reassurance. Then: what the facility or work is and does; how it affects them, with measurements against the applicable limits; what is still undecided; a named contact and an offer to meet; when you will write again. Never call a substance or risk "harmless". Signed by someone with authority, in the local language (template in `templates.md`).
+
+## Internal news (staff)
+
+Staff hear news before the outside world. Lead with what changes for them and what they should do (a link, a reporting route). Never name or identify injured or disciplined colleagues.
+
 ## Blogs and explainers
 
 - **Title:** a question ("Why do quantum computers have to be so cold?"), answered in the first paragraph.
