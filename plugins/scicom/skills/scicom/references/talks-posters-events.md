@@ -43,12 +43,12 @@
 
 ## Public events
 
-Formats: science cafés, festivals, open days, science slams, public lectures, museum collaborations, citizen-science events.
+Formats: science cafés, festivals, open days, science slams, public lectures, museum collaborations, citizen-science events, art–science projects, science comedy and music.
 
 - **Interaction over lecturing:** hands-on demonstrations, objects, questions, polls.
 - **Connect** to people's interests and daily lives, and invite questions from the start.
-- **Know who comes:** café and lecture audiences already like science. Set goals to match, and partner with schools or community groups to reach beyond them.
-- **To hear views,** use small-group formats (World Café, citizen panels), not open-mic Q&A. Agree up front what participants' input will influence, and report back afterwards. Don't claim representativeness, and never use dialogue to win acceptance for a decision already taken.
+- **Know who comes:** café and lecture audiences already like science. Set goals to match, and partner with schools or community groups to reach beyond them. If a group stays away, check whether venue, time, language, cost or presenters say "not for us", and plan with its own organisations.
+- **To hear views,** use small-group formats (World Café, citizen panels), not open-mic Q&A. Agree up front what participants' input will influence, and report back afterwards. Don't claim representativeness, and never use dialogue to win acceptance for a decision already taken. If nothing is open to change, call it an information evening; report disagreements and minority views too.
 - **Role models:** visible and diverse. Let PhD candidates and technicians present too.
 - **Practicalities:**
   - accessibility: venue, captions, quiet spaces;

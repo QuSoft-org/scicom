@@ -18,8 +18,10 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
   - the news agency ANP 70%;
   - AD 69%, de Volkskrant 67%, Het Financieele Dagblad 66%, NRC 65%, Trouw 64%.
 - **Informed and trusting:**
-  - Dutch respondents are among the best informed in the EU about science and technology (Special Eurobarometer 557, 2025).
-  - Trust in science is high, about 7.5 out of 10, but more polarised than in 2021 (Rathenau Instituut 2025).
+  - Dutch respondents feel among the best informed in the EU and score near the top on the quiz; only 23% find science too complicated (EU 53%) (Special Eurobarometer 557, 2025).
+  - For science, Dutch people turn to newspapers (online or print) first, ahead of TV (the EU's lowest): national and regional papers matter most for science news.
+  - Most Dutch want scientists in political debate to bring evidence, but reject "scientists know best": present scientists as informing decisions, not making them.
+  - Trust in science is high, about 7.5 out of 10, but more spread out: the share scoring 5 or lower rose to about 15% (Rathenau Instituut 2025).
 - **Generative AI in Dutch newsrooms:** media groups are experimenting with it. For the NRC case of AI-fabricated quotes, see `ethics-integrity-ai.md`.
 
 ## Organisations worth knowing

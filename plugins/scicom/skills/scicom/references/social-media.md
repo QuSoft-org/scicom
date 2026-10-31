@@ -54,7 +54,7 @@ Show a range of researchers on camera as a matter of representation, not as an e
 
 ## Grant, award and milestone posts
 
-- **Lead with what the money or role makes possible,** and why it matters. Then who, how much and from whom.
+- **Lead with what the money or role makes possible,** and why it matters, as aims with stage and conditions, not the promises a proposal makes to reviewers. Then who, how much and from whom.
 - **No "happy to share" or "proud to announce".**
 - **Check the announcement date first:** has the funder announced the results publicly? Many funders set a date before which recipients may not post.
 - **Name the funder and programme correctly,** tag them, and follow their visibility rules for logos.
@@ -87,10 +87,10 @@ For EU-funded work, follow the grant agreement's visibility rules: the EU emblem
 
 ## Moderation and safety
 
-- Visible researchers increasingly face hostile comments, harassment and threats, especially on contested topics. Women and early-career researchers are targeted more often (Mede 2026).
+- Visible researchers increasingly face hostile comments, harassment and threats, especially on contested topics. Women, ethnic minorities and researchers on politicised topics (climate, gender, migration, pandemics) are targeted more often; the most visible report the most attacks, and early-career and temporary staff have the least protection (Mede 2026; ALLEA 2023).
 - **Before posting on a sensitive topic:** agree who monitors and responds, prepare a short factual reply, and decide when to ignore, mute, block or report.
 - Publish house rules for comments, use keyword filters, and answer genuine questions.
-- Reposts and quote-posts count as your own statements. Answer genuine criticism of the work on the merits.
+- Reposts and quote-posts count as your own statements. Answer genuine criticism of the work on the merits, even when rude: a real error still gets a fix.
 - Don't argue with trolls. When correcting misinformation, write for the people reading along, not for the attacker (see `uncertainty-risk-misinfo.md`).
 - Keep private details (home address, private phone) off public profiles.
 - Report threats to the institution's security or HR team. In the Netherlands, also use WetenschapVeilig.

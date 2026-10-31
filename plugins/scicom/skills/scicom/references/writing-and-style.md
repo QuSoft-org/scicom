@@ -14,6 +14,7 @@
 - **Feature:** a scene or person → the nut graf (what this is about, the wider pattern, and why now) → a body alternating story and explanation → a kicker that echoes the opening or looks ahead.
 - **Explainer:** question → short answer → how we know → what is uncertain → what's next.
 - **And, but, therefore:** "[context] and [context], but [problem], therefore [what we did or found]". Use it to test any pitch, abstract or opening.
+- **Frames:** social progress; economic development and competitiveness; morality and ethics; scientific uncertainty; Pandora's box; public accountability and governance; middle way; conflict and strategy (Nisbet 2009). Pick one that fits what the audience already thinks. Opponents can turn any frame round, so pair progress or competitiveness with the technology's real readiness.
 - **"So what?" test:** ask it after each paragraph. If there is no answer for the reader, cut the paragraph or connect it.
 
 ## Audience levels and layered writing
@@ -177,4 +178,4 @@ Follow the house style first. Otherwise use the European Commission English Styl
 - No "layman"; no "simply" or "obviously".
 - Person-first language where people prefer it.
 - Don't assume a male, Western or able-bodied default.
-- Show and quote diverse researchers, and credit early-career researchers and technical staff.
+- Show and quote diverse researchers, and credit early-career researchers and technical staff; keep a simple tally of whom you quote and put forward, and offer journalists more than one expert.

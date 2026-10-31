@@ -14,7 +14,7 @@
 - Lead with what is known and agreed, then say what is uncertain.
 - Where there is a number, give the best estimate and the range where the number first appears, with a plain reading ("most likely 4 hours, between 3 and 5"), rather than vague words ("may", "possibly"). Never a bare "95% CI" for lay readers. For causal claims from correlational evidence, "may" is the right word (see the calibration table in `press-and-media.md`).
 - Name the kind of uncertainty: not yet known; natural variability; model assumptions; disagreement among experts.
-- When experts disagree, say why: different data, different methods, a question still open. Otherwise lay readers conclude the experts are incompetent. Disagree without questioning motives.
+- When experts disagree, say why: different data, different methods, a question still open. Otherwise lay readers conclude the experts are incompetent. Disagree without questioning motives. Disagreement itself costs little trust (Rathenau 2018).
 - Say what would change the conclusion, and what new data are coming. If the result is early or likely to be revised, say so now.
 - Give the one to three caveats that change what readers should conclude, ideally in the researchers' own words (attributed, or a `[QUOTE]` placeholder for approval). A pile of qualifications hides the message.
 - Uncertainty is not a reason for inaction when the risks are clear. Explain what is robust enough to act on. In policy advice, the threshold for acting is the decision-maker's (see `policy.md`).
@@ -54,13 +54,14 @@
   - use comparisons of scale, and check them;
   - state the conditions behind speed-up claims ("a million times faster than…what, on which task?").
 
-## Hype red flags (Intemann 2020)
+## Hype red flags
 
-Hype is exaggeration that misleads about how significant, certain, ready or beneficial research is, compared with what the evidence supports.
+Hype is exaggerating benefits, or the evidence for them, stated or by omission, in ways that hide risks or invite unwarranted conclusions (after Intemann 2020).
 
 **Red flags:**
 - Applications or timelines that go beyond what the authors claim.
-- Benefits shown without risks, costs or downsides.
+- Benefits shown without risks, costs or downsides, or risks named but brushed aside, or speculative risks instead of real near-term ones; listing both side by side is not enough.
+- Anecdotes or testimonials standing in for evidence, or results showing no benefit left out.
 - "First" or "breakthrough" without the context of earlier work.
 - Lab or simulation results presented as real-world performance.
 - A single study presented as settled.
@@ -73,6 +74,7 @@ Hype is exaggeration that misleads about how significant, certain, ready or bene
 - **Your own sources can be inflated.** Researchers sometimes use hype strategically: in focus groups with 24 quantum physicists at one research centre, most said they did so, mainly for funding (Soto-Sanfiel et al. 2025). Calibrate their claims too. Ask what they would tell a colleague about timelines, and show them the headline and key claim before the full draft.
 - **Name the hype** when others have overstated a result: "You may have seen headlines claiming X. Here is what the study showed." Quote the outlet's wording once, then say specifically what is accurate (which task, which conditions).
 - **Don't overcorrect into dismissiveness.** If a result is genuinely significant, say so clearly and explain why.
+- **Don't hype risks either:** a warning needs the same evidence as a promise; lead with the best-established consequence, not the most dramatic.
 
 ## Responding to misinformation
 
@@ -114,12 +116,13 @@ Put the correction right next to the myth and make it at least as prominent: in 
   - In some European and North American countries, right-leaning people trust scientists less; in most countries there is no link.
 - **EU (Special Eurobarometer 557, 2025):**
   - 83% see the overall influence of science and technology as positive.
-  - 58% want to learn more about scientific developments.
+  - 58% would like to learn more about science in places like town halls, museums and libraries.
   - 53% say science is too complicated to understand much of it.
-  - Incorrect answers to factual and conspiracy statements increased since 2021.
-- **Netherlands (Rathenau Instituut 2025):** average trust in science is high, about 7.5 out of 10, but more polarised than before.
+  - Incorrect answers to factual and conspiracy statements increased since 2021, partly because fewer said "don't know"; read trends with caution.
+- **Netherlands (Rathenau Instituut 2025):** average trust in science is high, about 7.5 out of 10, but more spread out: the share scoring 5 or lower rose to about 15%.
 
 **Implications:**
-- Openness about funding, interests and uncertainty builds integrity.
+- Openness about funding, interests and uncertainty builds integrity. Dutch lower-trust groups doubt integrity, not competence, so credentials alone won't help.
+- When AI was used in the research, say what it did and how results were checked; don't present AI as a selling point.
 - People rate scientists' competence highest and their openness to others' views lowest: show that you listen and how input is used.
 - Show concretely who benefits and how (never invent the link): perceived benefit to "people like me" tracks trust more closely than science literacy does.

@@ -67,7 +67,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Wissenschaft im Dialog (2025). *Guidelines for Good Research Communication*.
 - KNAW, NFU, NWO, TO2, VH & VSNU (2018). *Netherlands Code of Conduct for Research Integrity*: https://doi.org/10.17026/dans-2cj-nvwu
 - ALLEA (2023). *The European Code of Conduct for Research Integrity*, revised edition: https://doi.org/10.26356/ECOC
-- European Commission, ERA Forum (2025; third version May 2026). *Living guidelines on the responsible use of generative AI in research*.
+- European Commission, ERA Forum (fourth version, 15 October 2026). *Living guidelines on the responsible use of generative AI in research*.
 - Mede, N. G. (2026). *Attacked, Harassed, Intimidated: A narrative review of research and action on public backlash against scientists in the Netherlands and beyond*. Zenodo, record 20446311.
 
 **Visuals, talks and video**
@@ -79,7 +79,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 **Audience data**
 - Egan, Robertson, Ross Arguedas, Newman, Nielsen, Mukherjee & Fletcher (2026). *Digital News Report 2026*. Reuters Institute: https://doi.org/10.60625/risj-4vgf-s811 (CC BY 4.0)
 - European Commission (2025). *Special Eurobarometer 557: European citizens' knowledge and attitudes towards science and technology*: https://doi.org/10.2777/6040908
-- Rathenau Instituut (2018). *Trust in Science in the Netherlands*; (2025). *Vertrouwen in de wetenschap*.
+- Rathenau Instituut (2018). *Trust in Science in the Netherlands*; (2025). *Vertrouwen in de wetenschap: enquête 2025*: https://www.rathenau.nl/sites/default/files/2025-07/Rapport%20Vertrouwen%20in%20de%20Wetenschap_%202025_Rathenau%20Instituut.pdf
 
 ## Research papers
 
@@ -101,7 +101,8 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Dudo, A. & Besley, J. C. (2016). *PLOS ONE*: https://doi.org/10.1371/journal.pone.0148867
 - Michie, S., van Stralen, M. M. & West, R. (2011). The behaviour change wheel. *Implementation Science* 6: 42: https://doi.org/10.1186/1748-5908-6-42
 - Entradas, M. et al. (2020). *PLOS ONE*: https://doi.org/10.1371/journal.pone.0235191
-- Weingart, P. & Joubert, M. (2019). *JCOM*: https://doi.org/10.22323/2.18030401
+- Weingart, P. & Joubert, M. (2019). *JCOM*: https://doi.org/10.22323/2.18030401 (opinion essay)
+- Marcinkowski, F. & Kohring, M. (2014). The changing rationale of science communication: a challenge to scientific autonomy. *JCOM* 13(03) (opinion essay)
 
 **Uncertainty, trust and misinformation**
 - van der Bles, A. M. et al. (2019). *Royal Society Open Science*: https://doi.org/10.1098/rsos.181870
@@ -133,7 +134,8 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Rakedzon, T. et al. (2017). *PLOS ONE*: https://doi.org/10.1371/journal.pone.0181742
 - Gopen, G. D. & Swan, J. A. (1990). The science of scientific writing. *American Scientist* 78(6).
 - Dahlstrom, M. F. (2014). *PNAS*: https://doi.org/10.1073/pnas.1320645111
-- Joubert, M., Davis, L. & Metcalfe, J. (2019). *JCOM*: https://doi.org/10.22323/2.18050501
+- Joubert, M., Davis, L. & Metcalfe, J. (2019). *JCOM*: https://doi.org/10.22323/2.18050501 (editorial)
+- National Academies of Sciences, Engineering, and Medicine (2017). *Communicating Science Effectively: A Research Agenda*. National Academies Press.
 - Nisbet, M. C. (2009). *Environment*: https://doi.org/10.3200/ENVT.51.2.12-23
 - Taylor, C. & Dewsbury, B. M. (2018). *Journal of Microbiology & Biology Education*: https://doi.org/10.1128/jmbe.v19i1.1538
 

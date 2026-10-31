@@ -23,9 +23,9 @@ Use this file for communication plans (for a paper, project, grant, event or new
 | Risks and benefits | the trade-offs are clear and fair | a specific benefit (for whom, when, how sure); who bears the risks; with any threat, a fix that works |
 | Norms | people like them do this | a real share of a group they identify with; never stress how common the unwanted behaviour is |
 | Self-efficacy | they can do it | the step, how long it takes, someone similar doing it; never overstate how easy it is |
-| Emotions and frames | the honest feeling and a fitting interpretation | the researcher's own feeling, in the first person; enjoyment and humour are fine; no engineered fear or shame. Name the frame (social progress, economic opportunity, ethics, public accountability) and why it fits their values |
+| Emotions and frames | the honest feeling and a fitting interpretation | the researcher's own feeling, in the first person; enjoyment and humour are fine; no engineered fear or shame. Name the frame (see `writing-and-style.md`) and why it fits their values |
 
-4. **Tactics:** message, messenger, tone, channel, timing and format.
+4. **Tactics:** message, messenger, tone, channel, timing and format. One-way communication suits sharing findings; when people must weigh a decision, plan two-way engagement, early and repeated (NASEM 2017).
 5. **Evaluation:** did the tactic shift the objective, and is that objective actually linked to the behaviour?
 
 **Worksheet questions for each objective** (paraphrased from Besley & Dudo's appendix):
