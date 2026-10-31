@@ -4,7 +4,7 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 
 ## Audiences and media in the Netherlands
 
-- **Language.** National and regional Dutch media mostly work in Dutch. An English-only release limits Dutch coverage, so offer a Dutch version or a Dutch-speaking spokesperson. International and EU audiences need English.
+- **Language.** National and regional Dutch media mostly work in Dutch. An English-only release limits Dutch coverage, so offer a Dutch version (written by the user or a translator; this skill writes English) or a Dutch-speaking spokesperson. International and EU audiences need English.
 - **News habits** (Reuters Institute Digital News Report 2026):
   - TV news still reaches more people each week than online news video, which is unusual internationally.
   - Interest in news has fallen, and about a third avoid it at times: lead with relevance to daily life.

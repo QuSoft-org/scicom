@@ -17,7 +17,7 @@
   - repeat the key point;
   - read it aloud and time it.
 - **Two-column script:** what we see on the left (shots, graphics, on-screen text), what we hear on the right (voice, sound, music). Template in `templates.md`.
-- **Researchers on camera or in podcasts:** give them talking points and questions, not a verbatim script. Over-scripted delivery seems less authentic. Keep the full script for voice-over.
+- **Researchers on camera or in podcasts:** give them talking points and questions, not a verbatim script. Over-scripted delivery seems less authentic. If they ask for a script, give beats with sample lines to say in their own words. Keep the full script for voice-over.
 - **Show, don't tell:** lab footage, hands at work, before and after, simple animation for what cannot be seen.
 - **Always add captions.** Much social video is watched without sound. Keep on-screen text short.
 - **End card:** names, affiliations, funder, link.
@@ -33,7 +33,7 @@
 - **Takes:** several short takes beat one long one. Film extra footage too: equipment, people working, close-ups.
 - **Permissions:**
   - consent from everyone who can be identified;
-  - check lab safety rules;
+  - check lab safety rules. For hazardous demonstrations (fire, chemicals, high voltage, batteries), film only under the lab's safety supervision, show the protection used, and say "don't try this at home" plus what viewers should do instead;
   - check for confidential material in shot (whiteboards, screens);
   - licensed music only.
 

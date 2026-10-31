@@ -10,7 +10,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
    - Broader aims count too: seeing science as legitimate, accepting new findings, supporting research funding.
    - Include what you are willing to change yourself: listening, adapting plans or research questions.
    - First ask what blocks the behaviour: capability, opportunity or motivation. If it is opportunity (time, access, cost, process), better text won't fix it: suggest changing the process.
-3. **Communication objectives:** the beliefs, feelings and frames that make that behaviour more likely. Pick one to three where the audience has a real gap. For trust, name the missing dimension.
+3. **Communication objectives:** the beliefs, feelings and frames that make that behaviour more likely. Pick one to three where the audience has a real gap. For trust, name the missing dimension. "Increase trust in science" is not an objective on its own: say whose trust, which dimension, and what it should lead to (trust data in `uncertainty-risk-misinfo.md`).
 
 | Objective | The audience believes or feels… | What to put in the text |
 |---|---|---|

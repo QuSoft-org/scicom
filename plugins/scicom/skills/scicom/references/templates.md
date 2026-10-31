@@ -165,7 +165,7 @@ Practical: location, connection, clothing, press office contact:
 1. Hook   2. Problem   3. What we did   4. Finding   5. Why it matters   6. Credits / where to read more
 ```
 
-**Short-video script (30–60 seconds):**
+**Short-video script (talking explainer about 60 seconds; a demonstration 30 seconds or less):**
 
 ```
 0–2 s hook | 2–15 s problem | 15–40 s finding with visual | 40–55 s why it matters | end: name, affiliation, link

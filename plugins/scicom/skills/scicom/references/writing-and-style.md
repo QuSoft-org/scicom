@@ -150,6 +150,7 @@ Follow the house style first. Otherwise use the European Commission English Styl
   - one to nine in words, 10 and above in figures; when both occur together, use figures ("9 to 11");
   - always figures with units, decimals and percentages, and for all numbers on the web and social media;
   - don't start a sentence with a figure: spell it out or rephrase;
+  - "three times faster" in running text; "3×" only in charts, tables and on-screen text;
   - thousands: 15 000 with a hard space in documents, or 15,000 in web and promotional text, as the house style says;
   - 2.5 million; a decimal point, not a comma.
 - **Percentages and money:**

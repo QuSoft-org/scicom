@@ -4,9 +4,9 @@
 
 - Social and video platforms are now the most common way people reach online news: 54%, against 51% for news websites and apps (average of 48 markets, Reuters Institute Digital News Report 2026).
 - 77% watch online news video every week. 10% use AI chatbots for news, 16% of under-35s.
-- **Netherlands:** TV news still reaches more people each week than online news video (57% against about 50%). Top platforms for news: Facebook 27%, WhatsApp 24%, Instagram 20%, YouTube 20%, TikTok 9%, LinkedIn 7% (DNR 2026). Posts for Dutch public or local audiences need a Dutch version; flag it.
+- **Netherlands:** TV news still reaches more people each week than online news video (57% against about 50%). Top platforms for news: Facebook 27%, WhatsApp 24%, Instagram 20%, YouTube 20%, TikTok 9%, LinkedIn 7% (DNR 2026). Posts for Dutch public or local audiences need a Dutch version; flag it, but don't draft it (this skill writes English; the user or a translator writes the Dutch).
 - Few people click through from social media (17%) or AI chatbots (4%), so the post must carry the finding.
-- By end-2024 about one in five academics on X had also opened a Bluesky account (about 15% in physics and engineering); most kept X (Quelle et al. 2026, preprint). Check where your field's peers and target journalists post. Researchers moving to Bluesky should follow their existing contacts on day one.
+- By end-2024 about one in five academics on X had also opened a Bluesky account (about 15% in physics and engineering); most kept X (Quelle et al. 2026, preprint). Check where your field's peers and target journalists post. Keep posting on X only if they still engage there; don't open new accounts on a declining platform. Researchers moving to Bluesky should follow their existing contacts on day one.
 - Platforms change fast. Treat these numbers as a starting point.
 
 ## Rules for every post
@@ -37,7 +37,7 @@
 | YouTube | viewers who come on purpose (search, subscriptions), all ages; teachers, students | explainers, lectures, lab tours; searchable titles, chapters, thumbnails | 3–20 minutes; landscape; transcript |
 | Facebook, WhatsApp channels | local community, parents, older audiences | events, local relevance, community news | short and visual |
 
-Show a range of researchers on camera as a matter of representation, not as an engagement tactic: on large English-language science TikTok accounts, men dominated and got more engagement (Chen & Brewer 2025). Support under-represented researchers who make video.
+Show a range of researchers on camera as a matter of representation, not as an engagement tactic: on large English-language science TikTok accounts, men dominated and got more engagement (Chen & Brewer 2025). That is a correlation and says nothing about your own channel. Support under-represented researchers who make video.
 
 ## Content beyond papers
 
