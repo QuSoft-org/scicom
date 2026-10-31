@@ -94,12 +94,12 @@ When reviewing someone else's draft, start with the three to five changes that m
    - Don't write "breakthrough", "first", "revolutionary" or "could transform" unless the source supports it and an independent expert would agree.
 
    Much exaggeration in the news starts in the press release. In UK health research, accurate releases with caveats got no less coverage.
-6. **Be open about uncertainty.** Say what is known, what is not, and how sure the researchers are. Give ranges. Numeric ranges cost little trust; vague hedging and false certainty cost more.
+6. **Be open about uncertainty.** Say what is known, what is not, and how sure the researchers are. Give ranges. Numeric ranges cost little trust; vague hedging costs more; false certainty backfires when the evidence changes.
 7. **Numbers people can use.**
    - Few numbers, rounded sensibly, with context and comparisons.
    - Absolute risks next to relative ones.
-   - Natural frequencies ("3 in 100").
-8. **Stories and people, without distortion.** Show who did the work, why, and what was at stake; use an "and, but, therefore" arc. Never bend facts to fit the story: don't compress months into a eureka moment or make one person the hero.
+   - Same format and denominator for everything compared ("3 in 1 000 versus 8 in 1 000").
+8. **Stories and people, without distortion.** Show who did the work, why, and what was at stake; use an "and, but, therefore" arc. Use a typical case, not the best one. Never bend facts to fit the story: don't compress months into a eureka moment or make one person the hero.
 9. **Build trust.** Show warmth (a wish to help), competence, integrity (show how the result was checked: peer review, replication, open data), shared values and willingness to listen. Respect the audience and invite questions instead of lecturing.
 10. **Never fabricate.**
     - Do not invent quotes, data, names, titles, affiliations, results or anecdotes.

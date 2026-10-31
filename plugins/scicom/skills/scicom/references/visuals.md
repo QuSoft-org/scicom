@@ -3,21 +3,23 @@
 ## Figures for non-specialists (Rougier et al. 2014; Crameri et al. 2020)
 
 - **One message per figure,** stated in the title: "Errors drop as the chip gets colder" rather than "Error rate versus temperature".
-- **Simplify:** remove gridlines and extra panels, label lines directly instead of using a legend, and highlight the key comparison.
+- **Simplify:** remove gridlines and extra panels, label lines directly instead of using a legend, and highlight the key comparison: grey for context, one colour for the point. Remake a paper figure for each medium rather than reusing it.
 - **Text:** large and readable, with units in plain words.
 - **Colour:**
   - use perceptually uniform, colour-blind-safe colour maps such as viridis, cividis or batlow;
-  - avoid rainbow and jet maps;
+  - sequential maps for low to high, diverging only around a meaningful centre;
+  - avoid rainbow and jet maps, including "improved" ones such as turbo;
+  - never crop the colour bar or scale when reusing a figure;
   - don't rely on red–green contrast;
   - check the figure in greyscale.
-- **Uncertainty:** show ranges or distributions (interval or dot plots) rather than bars with error bars, and explain them in the caption.
-- **Axes:** never truncate or stretch an axis to change how big a difference looks. Bar charts start at zero.
+- **Uncertainty:** show ranges or distributions (interval or dot plots) rather than bars with error bars, mark the best estimate, and explain them in the caption.
+- **Axes:** never truncate or stretch an axis to change how big a difference looks. Bar charts start at zero. No pie or 3-D charts for comparing quantities; scale symbols by area; give schematic curves a sketched look.
 - **Captions** say what to notice, not just what is plotted, and explain conventions such as false colour and significance stars.
 
-## Photos and images (after the Climate Visuals principles)
+## Photos and images (Climate Visuals 2016; practice)
 
-- **Real people over stock:** researchers at work, real labs, real equipment. For recruitment, show researchers working together.
-- **New visuals over clichés:** glowing blue spheres, streams of binary code, light bulbs, test tubes for fields that don't use them.
+- **Authentic over staged:** real people doing real work, real labs, real equipment; no posed photo-ops (ribbon-cuttings, officials at equipment). For recruitment, show researchers working together.
+- **Fresh images over clichés** (glowing blue spheres, streams of binary code, light bulbs, test tubes for fields that don't use them). Use a familiar image only to signal the topic quickly to an audience that cares little.
 - **Show what is being done,** not only the problem.
 - **Show the diversity that really exists,** in people and roles, including technicians and early-career researchers. Never stage it.
 - **Check the details:** people use equipment correctly and wear the right protective gear. Label technical images (detector displays, microscopy) in plain language: outlets run them unchanged.
@@ -36,7 +38,7 @@ Use the house style's credit format, for example "Photo: Name / Institution". Ch
 
 ## Visual abstracts (after Ibrahim)
 
-- **Content:** one key finding; two or three outcomes with numbers; simple icons; title, journal and authors.
+- **Content:** one key finding; two or three outcomes as short comparative phrases with numbers and units; the study design, on the image or in the post; simple icons you have rights to; title, journal and authors.
 - **Design** for a phone screen. Slide software is enough; keep the design restrained.
 - **Check every number** against the paper.
 
@@ -48,4 +50,4 @@ Use the house style's credit format, for example "Photo: Name / Institution". Ch
 
 ## AI-generated images
 
-Use them only for illustration, and label them clearly. Never use them to depict data, experiments, real people or real places. Check the house style and the outlet's policy first.
+Use them only for illustration, and label them clearly: short and specific (ten words or fewer), next to the image; in video, on screen and spoken. Never use them to depict data, experiments, real people or real places. Check the house style and the outlet's policy first.

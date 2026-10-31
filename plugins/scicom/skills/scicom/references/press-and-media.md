@@ -87,7 +87,7 @@ In your delivery notes (not for distribution), add a **source map**: each number
 
 ## Approval and embargoes
 
-- **The researcher** checks facts, claims and quotes. If anything makes them uncomfortable, fix it (Shipman).
+- **The researcher** checks facts, claims and quotes. The researcher decides on facts and claims, the communicator on structure and wording: discuss any discomfort about wording, and fix every factual concern.
 - **Early warning:** researchers tell the press office at the minor-revisions stage, or when a conference abstract is accepted.
 - **Partners and co-authors:** agree who leads, the timing, the quotes and who pitches which journalist. Partner press offices may want their own version; share drafts early.
 - **Funders:** inform them, and use the required acknowledgement text and logos.
@@ -177,16 +177,16 @@ A template is in `templates.md`.
 
 ## Crisis communication for an institution
 
-Principles from the CDC's crisis and emergency risk communication guidance: be first, be right, be credible, express empathy, promote action, show respect.
+Principles from the CDC's crisis and emergency risk communication (CERC) guidance: be first, be right, be credible, express empathy, promote action, show respect. The steps below combine CERC and practice.
 
-**Prepare beforehand:** draft statements for known risk areas, such as contested research, animal work, dual-use, data breaches and lab incidents.
+**Prepare beforehand:** draft statements for known risk areas, such as contested research, animal work, dual-use, data breaches and lab incidents. Agree a sign-off route that works within hours (one scientist for facts, one manager); name and train the spokesperson. When the statement goes out, give reception and partner press offices a short Q&A.
 
 1. **Gather facts** and form a small team: communications, management, legal, HR, and the researcher if relevant. If legal advice conflicts with openness, flag it to management.
-2. **Holding statement within hours:** what we know, what is not yet known (labelled as such), what we are doing, when we will update. Date-stamp each update. Show empathy if people are affected.
+2. **Holding statement within hours:** what we know, what is not yet known (labelled as such), what we are doing, when we will update. Date-stamp each update. Say who is at risk and what the risk is, in plain words, and what people can do. Show empathy if people are affected.
 3. **Disclose at once,** not in instalments. Own the institution's faults in the active voice ("we made a mistake"), apologise, and say what will change. Never deny something true.
-4. **One spokesperson**, briefed; for serious harm, the head of the institution. Inform staff before or at the same time as the outside world.
+4. **One spokesperson**, briefed; for serious harm, the head of the institution. Inform staff before or at the same time as the outside world. No paternalistic tone; no public disagreements between spokespeople.
 5. **No speculation.** Don't blame individuals or third parties before the facts are in. Correct rumours with facts.
-6. **Update on a regular rhythm** and document decisions.
+6. **Update on a regular rhythm** and document decisions. If coverage keeps missing a key point, repeat it plainly in every update.
 7. **Review afterwards** and write down the lessons.
 
-Typical university crises: lab incidents, research misconduct, controversial research, data breaches, threats to researchers, protests.
+Typical university crises: lab incidents, research misconduct, controversial research, data breaches, threats to researchers, protests. Many are issues you can see coming (a misconduct outcome): plan the timing.

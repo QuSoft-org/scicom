@@ -45,7 +45,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Lewandowsky, S. & Cook, J. (2020). *The Conspiracy Theory Handbook*.
 - Harjani, T., Roozenbeek, J. et al. (2022). *A Practical Guide to Prebunking Misinformation*. Cambridge, BBC Media Action and Jigsaw.
 - CDC (2018). *Crisis and Emergency Risk Communication (CERC): Introduction*.
-- COALESCE (2025). *D2.2 Strategies to address critical challenges to effective science–society relations, including misinformation and trust*.
+- COALESCE (2025). *D2.2 Strategies to address critical challenges to effective science–society relations, including misinformation and trust*. Also our source for the studies it reports (Hoes et al. 2024 and others), which we did not read.
 
 **Strategy and evaluation**
 - UK Government Communication Service (2020). *Guide to campaign planning: OASIS*; (2024). *GCS Evaluation Cycle*.
@@ -71,7 +71,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Mede, N. G. (2026). *Attacked, Harassed, Intimidated: A narrative review of research and action on public backlash against scientists in the Netherlands and beyond*. Zenodo, record 20446311.
 
 **Visuals, talks and video**
-- Climate Outreach (2016). *Climate Visuals: seven principles for visual climate change communication*.
+- Corner, A., Webster, R. & Teriete, C. (2016). *Climate Visuals: seven principles for visual climate change communication*. Climate Outreach.
 - Ibrahim, A. *Creating a Visual Abstract* (primer).
 - University of Queensland (2020). *Three Minute Thesis handbook*.
 - Reel Life Science (2019). *Filming tips*.
@@ -139,13 +139,13 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - Canfield, K. N. et al. (2020). *Frontiers in Communication*: https://doi.org/10.3389/fcomm.2020.00002
 - Humm, C. et al. (2020). *Media and Communication*: https://doi.org/10.17645/mac.v8i1.2480
 - Schäfer, M. S. et al. (2018). *Public Understanding of Science*: https://doi.org/10.1177/0963662517752886
-- Meinsma, A. L. et al. (2023). *Quantum Science and Technology*: https://doi.org/10.1088/2058-9565/acc968
 
 **Hype and quantum communication** (also used by the `scicom-quantum` add-on)
+- Meinsma, A. L. et al. (2023). Is everything quantum 'spooky and weird'? An exploration of popular communication about quantum science and technology in TEDx talks. *Quantum Science and Technology* 8: 035004: https://doi.org/10.1088/2058-9565/acc968
 - Soto-Sanfiel, M. T., Chong, C.-W. & Latorre, J. I. (2025). *Humanities and Social Sciences Communications*: https://doi.org/10.1057/s41599-025-05200-4
 - Wang, M. & Xu, D. (2025). *Online Media and Global Communication*: https://doi.org/10.1515/omgc-2025-0009
-- Meinsma, A. L., Rothe, T., Reijnierse, W. G., Smeets, I. & Cramer, J. (2025). *Science Communication*: https://doi.org/10.1177/10755470251318300
-- Meinsma, A. L., Albers, C. J., Vermaas, P. E., Smeets, I. & Cramer, J. (2026). *EPJ Quantum Technology*: https://doi.org/10.1140/epjqt/s40507-026-00549-0
+- Meinsma, A. L., Rothe, T., Reijnierse, W. G., Smeets, I. & Cramer, J. (2025). Quantum in the media: a content analysis of Dutch newspapers. *Science Communication* 48(1), 2026: https://doi.org/10.1177/10755470251318300
+- Meinsma, A. L., Albers, C. J., Vermaas, P. E., Smeets, I. & Cramer, J. (2026a). The effect of frames on engagement with quantum technology. *EPJ Quantum Technology*: https://doi.org/10.1140/epjqt/s40507-026-00549-0
 - Meinsma, A. L. (2026). *In a State of Superposition*. PhD thesis, Leiden University: https://hdl.handle.net/1887/4288270
-- Meinsma, A. L., Reijnierse, W. G. & Cramer, J. (2026). Like a coin spinning in the air. *Metaphor and the Social World*: https://doi.org/10.1075/msw.25018.mei
+- Meinsma, A. L., Reijnierse, W. G. & Cramer, J. (2026b). Like a coin spinning in the air: the effect of (non-)metaphorical explanations on comprehension and attitudes towards quantum technology. *Metaphor and the Social World* 16(2): https://doi.org/10.1075/msw.25018.mei
 - MIT Initiative on the Digital Economy (2025). *Quantum Index Report 2025*: arXiv:2506.04259

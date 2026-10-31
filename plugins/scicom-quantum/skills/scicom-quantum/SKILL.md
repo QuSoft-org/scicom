@@ -25,30 +25,31 @@ If scicom is not installed, still apply its core rules:
 
 | Concept | Common analogy | Problem | Better framing |
 |---|---|---|---|
-| Superposition | "0 and 1 at the same time" | Suggests two definite values at once | A qubit's state combines possibilities with weights (amplitudes). It is not secretly both, and measuring it gives one outcome |
+| Superposition | "0 and 1 at the same time"; a spinning coin | Suggests two definite values at once; a coin shows chance, not superposition | A qubit's state combines possibilities with weights (amplitudes). It is not secretly both, and measuring it gives one outcome |
 | Quantum speed-up | "Tries all answers at once" | Suggests brute-force parallelism; ignores interference | Algorithms choreograph possibilities so that wrong answers cancel and right ones reinforce. Speed-ups exist only for specific problems |
-| Entanglement | "Spooky action at a distance", "instant communication" | Suggests faster-than-light signalling | Entangled systems share correlations no classical model explains, but no information travels between them |
+| Entanglement | "Spooky action at a distance", "instant communication"; twins, dancers, compass needles | Suggests faster-than-light signalling; physicists rated these analogies low | Entangled systems share correlations no classical model explains, but no information travels between them |
 | Quantum error correction | "Like classical error correction, but harder" | Misses the ban on copying and the limits on measuring | It must protect information it may not look at directly; it measures only checks (syndromes) on groups of qubits |
 | Measurement | "Opening the box to look" | Suggests passive observation | Measurement is an interaction that forces a definite outcome, more like a question that changes the answer |
 
 **Using any analogy:**
 - Say what it illustrates, and where it breaks down. If the breakdown is interesting, use it as the hook.
+- Treat analogies you generate as drafts for a physicist to check.
 - Draw fresh analogies from waves, resonance, balancing, social coordination, games or puzzles.
 - Avoid computer metaphors that assume what you are trying to explain.
 
 ## Mystique
 
 - **What the research shows:**
-  - "Spooky", "weird" and "nobody understands quantum mechanics" are common: about a quarter of English TEDx talks on quantum used such framing (Meinsma et al. 2023).
-  - In 385 Dutch newspaper articles, quantum technology was often presented as both beneficial and enigmatic, usually explained, and rarely discussed in terms of risks (Meinsma et al. 2025).
-  - In an experiment with 637 Dutch adults, enigmatic framing did not affect engagement, while explaining the physics raised general interest (Meinsma et al. 2026).
-- **What follows:** mystique neither helps nor harms engagement, but it explains nothing, so never use it instead of an explanation.
-- **Balanced frames:** in the same experiment, presenting both a benefit and a risk lowered how much people *felt* they knew. That is no reason to drop risks; accuracy matters more than the feeling of knowing.
-- **Metaphors:** in an experiment with 1,167 Dutch adults reading a news article about a quantum computer, explanations of superposition or entanglement raised actual understanding, but lowered how well readers *felt* they understood the article. Metaphorical explanations offered no benefit over plain ones (Meinsma, Reijnierse & Cramer 2026). So explain directly, use analogies mainly to head off misconceptions, and don't worry if readers feel the topic is harder than they thought.
+  - About a quarter (23%) of 501 English TEDx talks on quantum (2009–2021) framed it as spooky or weird (Meinsma et al. 2023).
+  - In 385 Dutch newspaper articles (2009–2021), benefit (33%) and enigma (24%) were common themes, and risk rare (6%). About half the articles that named a technology explained the physics (Meinsma et al. 2025).
+  - In an experiment with 637 Dutch adults (representative, preregistered), calling quantum "enigmatic" (one word, shown once) made no measurable difference to engagement; explaining the physics raised self-reported interest (Meinsma et al. 2026a).
+- **What follows:** mystique explains nothing, so never use it instead of an explanation. "Spooky" often comes from researchers' own quotes: suggest a plain alternative, but don't rewrite the quote. Avoid wording pseudoscience borrows ("everything is connected").
+- **Balanced frames:** in the same experiment, presenting both a benefit and a risk lowered how much people *felt* they knew. That is no reason to drop risks (our view, and the authors' ethical one). A concrete benefit also raised people's sense that they could engage.
+- **Metaphors:** in an experiment with 1,167 Dutch adults reading a news article about a quantum computer, explanations of superposition or entanglement raised actual understanding, but lowered how well readers *felt* they understood the article. Metaphorical explanations offered no benefit over plain ones. Effects were small, and real understanding stayed low (Meinsma, Reijnierse & Cramer 2026b). The authors conclude that you should explain if you want real understanding, and that metaphors add nothing. Using analogies to head off misconceptions is our advice. In a short item, aim for one idea correctly grasped, and link for depth.
 
 ## Look beyond quantum computing
 
-Coverage concentrates on quantum computers (Meinsma et al. 2023). Quantum sensing, quantum networks and post-quantum cryptography may reach daily life sooner. Ask whether computing is really the most relevant angle.
+Coverage concentrates on quantum computers: in TEDx talks (Meinsma et al. 2023) and in Dutch newspapers, where computing featured in 40% of articles and sensing in two (Meinsma et al. 2025). The authors expect sensing to reach daily life sooner; networks and post-quantum cryptography may too. Ask whether computing is really the most relevant angle.
 
 ## Subfield framings
 
@@ -69,15 +70,16 @@ Coverage concentrates on quantum computers (Meinsma et al. 2023). Quantum sensin
 - **Speed-up:** for which problem? Theoretical (asymptotic) or measured, and including overheads?
 - **Timelines** ("useful quantum computers by…", "Q-day"): only if the researchers give and justify them. Otherwise give ranges, with sources.
 - **"First":** compared with recent competing work?
-- **Limits paragraph:** every quantum news item has at least one paragraph on limitations, risks or uncertainty.
+- **Limits paragraph:** every quantum news item has at least one paragraph on limitations, risks or uncertainty, and a central limitation is not only at the bottom. No mystique in the headline or lede.
 
 ## The quantum hype ecosystem
 
-- **Researchers:** quantum physicists acknowledge using hype strategically, for example to secure funding (Soto-Sanfiel et al. 2025). Calibrate your own researchers' claims too.
+- **Researchers:** in focus groups with 24 quantum physicists at one research centre, most said they used hype strategically, mainly for funding (Soto-Sanfiel et al. 2025). Calibrate your own researchers' claims too.
 - **Companies:** corporate interest has grown fast (MIT Quantum Index Report 2025), and commercial framing leaks into research news.
 - **Media:**
-  - Of 192 online US national news stories from 2022–2023, about 16% were exaggerated. More than three-quarters never mentioned risks, and close to 70% never mentioned uncertainty. Writers with a science background gave more substantive detail (Wang & Xu 2025).
+  - Of 192 online US national news stories from 2022–2023, about 16% were exaggerated. More than three-quarters never mentioned risks, and close to 70% never mentioned uncertainty. Exaggeration sat mostly in headlines and ledes. Writers with a science background gave more substantive detail but did not exaggerate less (Wang & Xu 2025).
   - In Dutch newspapers, risks and economic or social-progress themes were less common than benefit and enigma (Meinsma et al. 2025).
+  - Dutch quantum coverage is concentrated in a few national newspapers and a small group of science reporters (2009–2021). Check who covers it now.
 - **Your advantage is credibility:** a calm, precise voice when others are breathless. Don't overcorrect: if a result is genuinely significant, say so.
 
 ## Writing in Dutch (only if asked)
@@ -86,14 +88,14 @@ Use established Dutch terms in running text: verstrengeling (entanglement), supe
 
 ## Sources
 
-All findings above were checked against the published abstracts in October 2026.
+All findings above were checked against the published full texts in October 2026.
 
 - MIT Initiative on the Digital Economy (2025). *Quantum Index Report 2025*. arXiv:2506.04259
 - Meinsma, A. L. (2026). *In a State of Superposition: Exploring (In)Effective Public Communication About Quantum Technology*. PhD thesis, Leiden University: https://hdl.handle.net/1887/4288270
-- Meinsma, A. L., Reijnierse, W. G. & Cramer, J. (2026). Like a coin spinning in the air: the effect of (non-)metaphorical explanations on comprehension and attitudes towards quantum technology. *Metaphor and the Social World*: https://doi.org/10.1075/msw.25018.mei
-- Meinsma, A. L. et al. (2023). *Quantum Science and Technology*: https://doi.org/10.1088/2058-9565/acc968
-- Meinsma, A. L., Rothe, T., Reijnierse, W. G., Smeets, I. & Cramer, J. (2025). Quantum in the media: a content analysis of Dutch newspapers. *Science Communication*: https://doi.org/10.1177/10755470251318300
-- Meinsma, A. L., Albers, C. J., Vermaas, P. E., Smeets, I. & Cramer, J. (2026). The effect of frames on engagement with quantum technology. *EPJ Quantum Technology*: https://doi.org/10.1140/epjqt/s40507-026-00549-0
+- Meinsma, A. L., Reijnierse, W. G. & Cramer, J. (2026b). Like a coin spinning in the air: the effect of (non-)metaphorical explanations on comprehension and attitudes towards quantum technology. *Metaphor and the Social World* 16(2): https://doi.org/10.1075/msw.25018.mei
+- Meinsma, A. L. et al. (2023). Is everything quantum 'spooky and weird'? An exploration of popular communication about quantum science and technology in TEDx talks. *Quantum Science and Technology* 8: 035004: https://doi.org/10.1088/2058-9565/acc968
+- Meinsma, A. L., Rothe, T., Reijnierse, W. G., Smeets, I. & Cramer, J. (2025). Quantum in the media: a content analysis of Dutch newspapers. *Science Communication* 48(1), 2026: https://doi.org/10.1177/10755470251318300
+- Meinsma, A. L., Albers, C. J., Vermaas, P. E., Smeets, I. & Cramer, J. (2026a). The effect of frames on engagement with quantum technology. *EPJ Quantum Technology*: https://doi.org/10.1140/epjqt/s40507-026-00549-0
 - Soto-Sanfiel, M. T., Chong, C.-W. & Latorre, J. I. (2025). *Humanities and Social Sciences Communications*: https://doi.org/10.1057/s41599-025-05200-4
 - Wang, M. & Xu, D. (2025). *Online Media and Global Communication*: https://doi.org/10.1515/omgc-2025-0009
 - QuSoft's earlier quantum-scicomm skill: the analogy table and subfield framings.

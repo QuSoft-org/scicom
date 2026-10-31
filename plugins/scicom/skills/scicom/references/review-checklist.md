@@ -31,13 +31,13 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] Hope is kept apart from findings.
 
 ## 5. Uncertainty and limitations
-- [ ] Main limitations and conditions are mentioned in plain words.
+- [ ] The one to three limitations and conditions that change the conclusion are stated in plain words.
 - [ ] Uncertainty shown concretely (ranges, confidence, what remains unknown) rather than through vague hedging.
 - [ ] If there is debate or contrary evidence, it is acknowledged, with the reason experts disagree.
 
 ## 6. Numbers and risk
 - [ ] Few numbers, each with context.
-- [ ] Absolute risk next to relative risk; the same denominators; natural frequencies where useful.
+- [ ] Absolute next to relative; one format and one denominator for everything compared; benefits and harms in the same format.
 
 ## 7. Credit and fairness
 - [ ] Co-authors, early-career researchers, technical staff, partners and funders are credited, with any required funding acknowledgement.
@@ -71,6 +71,6 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 ## Final tests
 
 - Would the researcher sign off on every sentence?
-- Would a sceptical science journalist trust it? Funding and interests match the paper's declarations; the journal is not predatory.
+- Would a sceptical science journalist trust it? How big is the gain, for whom, at what cost? Funding and interests match the paper's declarations; the journal is not predatory.
 - Would a 15-year-old get the gist?
 - Would it still be accurate if someone read only the headline and first sentence?

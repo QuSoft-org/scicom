@@ -96,7 +96,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
   - timeline (embargo, launch, follow-up);
   - roles: who writes, approves and speaks;
   - risks: sensitivities, possible misreadings;
-  - a pretest: show key materials to two or three people from the audience. What is the main point, what will you remember, what will you do?
+  - a pretest: show key materials to two or three people from the audience. What is the main point, what will you remember, what will you do? Ask them to explain it in their own words, and what felt pushy or missing; include people without a degree.
   - indicators.
 - **Communication for a new institute or group** (practitioner steps, The Online Scientist):
   1. Take stock of existing channels.
@@ -128,7 +128,7 @@ Use this file for communication plans (for a paper, project, grant, event or new
   - impact: contribution to the organisational goal.
 - **Objectives and indicators:** each objective has a baseline, a target and a date, and aims at an outcome, not an output: "applications from 40 to 60 by the 2027 deadline", not "10 posts". Use communication objectives, not the research objectives restated. Choose one to three indicators per objective before launch, and combine numbers with quotes and observations.
   - Outputs: reach and accuracy of coverage, not just volume.
-  - Outtakes: engagement, understanding, sentiment.
+  - Outtakes: engagement, understanding, sentiment. Stated intentions and self-rated understanding are weak evidence: quiz key facts, and ask for specific intentions ("apply by 1 March").
   - Outcomes: behaviour, such as applications, enquiries, partnerships, citations in policy documents. For policy work, also log requests for meetings or advice, consultation invitations, Kamervragen and unprompted approaches, with dates. Use often shows only later.
 - **No advertising-value equivalents.**
 - **Events:** a three-question survey (what did you learn, how did it feel, would you come back?), observation, and follow-up. Check delivery first: did the Q&A actually happen?
