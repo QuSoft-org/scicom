@@ -99,4 +99,4 @@ Open an issue in this repository.
 
 ## Licence
 
-No licence has been chosen yet; all rights are reserved by QuSoft.
+© 2026 QuSoft. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (see `LICENSE`): you may use, share and adapt the skill for non-commercial purposes, provided you credit QuSoft and indicate changes. Commercial use requires written permission from QuSoft. The works cited in the skill remain the property of their authors and publishers; the licence covers only QuSoft's own text.
