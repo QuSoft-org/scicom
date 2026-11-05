@@ -11,9 +11,11 @@
   4. A concrete call to action or recommendation.
 - **Length and style:** 600–800 words, depending on the outlet. Plain language, one or two numbers, one personal or concrete example. First person where it fits.
 - **Byline:** name, role, institution. Disclose relevant interests and funding.
-- **Pitching:** offer to one outlet at a time (most want exclusivity), with a short summary. Follow up once; if a timely piece gets no answer in a few days, tell the outlet you are moving on, then pitch the next. Publish untaken pieces on your own channels. Have drafts ready before the hook arrives, and paste the text into the email body.
+- **Pitching:** check the paper's rules for contributors (some Dutch papers refuse AI-written opinion pieces); offer to one outlet at a time (most want exclusivity), with a short summary. Follow up once; if a timely piece gets no answer in a few days, tell the outlet you are moving on, then pitch the next. Publish untaken pieces on your own channels. Have drafts ready before the hook arrives, and paste the text into the email body.
 - **Press office:** tell them early, and check before using the institution's name.
 - **Criticising a named person or organisation:** give them a chance to respond, and check with the press office or legal team.
+
+- **The outlet has the final say:** push back on changes to scientific content, accept style edits, and check the edited version for new errors.
 
 ## Letters to the editor
 

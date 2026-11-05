@@ -40,12 +40,13 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] Absolute next to relative; one format and one denominator for everything compared; benefits and harms in the same format.
 
 ## 7. Credit and fairness
-- [ ] Co-authors, early-career researchers, technical staff, partners and funders are credited, with any required funding acknowledgement.
+- [ ] Co-authors, early-career researchers, technical staff, partners and funders are credited, with any required funding acknowledgement (communicators).
 - [ ] Partner institutions are named correctly and consulted where needed.
 - [ ] Where useful, an independent perspective is included or suggested.
 
 ## 8. Inclusion and accessibility
 - [ ] Inclusive language; diverse representation in images and quotes where possible.
+- [ ] Ethnicity, nationality, religion or sexual orientation mentioned only when needed to understand the story.
 - [ ] Alt text for every image, captions for video, readable colour contrast, link text that makes sense out of context.
 
 ## 9. Legal and ethical
@@ -55,7 +56,7 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] Confidential or personal data removed.
 - [ ] Competing interests declared; anyone criticised by name had a chance to respond.
 - [ ] AI use disclosed if required.
-- [ ] Quotes approved by the people quoted; drafted quotes clearly marked as drafts.
+- [ ] Quotes approved by the people quoted; drafted quotes clearly marked as drafts (communicators; journalists: see the block below).
 
 ## 10. Format fit
 - [ ] Length and structure match the format (see the format file).
@@ -68,9 +69,17 @@ Adapted from the CDC Clear Communication Index, the QUEST quality indicators and
 - [ ] It invites questions or a response, where the format allows.
 - [ ] It neither overstates nor understates: a genuinely significant result is called significant.
 
+## Journalist role (instead of approvals and credits)
+- [ ] "Says who?" answered for every claim ("experts say": how many? "raises hopes": whose?); at least one independent voice.
+- [ ] The release checked against the paper.
+- [ ] Comment sought from anyone criticised; no copy approval given or promised.
+- [ ] Funding and conflicts reported as context.
+- [ ] Quotes checked against recordings or notes.
+- [ ] Headline, captions and social text don't overclaim together; hype words and emotional cue words ("shocking", "alarming") only in attributed outside quotes, never in the headline.
+
 ## Final tests
 
-- Would the researcher sign off on every sentence?
+- Would the researcher sign off on every sentence? (Communicators; journalists: would every sentence survive the source's fact check, and would the institution behind the release like this story more than it should?)
 - Would a sceptical science journalist trust it? How big is the gain, for whom, at what cost? Funding and interests match the paper's declarations; the journal is not predatory.
 - Would a 15-year-old get the gist?
 - Would it still be accurate if someone read only the headline and first sentence?

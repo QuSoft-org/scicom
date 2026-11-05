@@ -15,6 +15,16 @@ A house style file makes every later draft use the organisation's own names, ton
 
 ## Guiding questions
 
+**Journalists:** ask Round 0 instead of Rounds 1 and 3, and skip questions 13, 14 and 16. Freelancers keep one house-style file per outlet folder.
+
+### Round 0: role (journalists only)
+
+A. Which code does the outlet follow (the Raad voor de Journalistiek *Leidraad* for Dutch outlets, or its own)?
+B. Its policy on previews and quote checks with sources.
+C. Its rules on anonymous sources and right-of-reply deadlines.
+D. Its corrections policy.
+E. Its AI policy: what AI may be used for (research, summaries, transcription, translation, headline options, drafting copy, images), and the disclosure format.
+
 ### Round 1: identity
 
 1. What is the organisation's official name in English, its short name, and how should it be named on second mention?
@@ -96,6 +106,10 @@ Last updated: <date>, by <name>
 - Accessibility:
 - Sensitive topics and escalation:
 - AI-use disclosure:
+
+## Role
+- role: communicator   # communicator, researcher or journalist
+- (journalists) code; preview and quote-check policy; anonymity and right of reply; corrections; AI policy and disclosure:
 
 ## Automation
 - mode: interactive   # or automated

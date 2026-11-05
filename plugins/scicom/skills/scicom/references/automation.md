@@ -62,7 +62,7 @@ With `report=json`, end instead with one fenced JSON block:
 
 ## Advice for whoever sets up the automation
 
-- **Where humanless publishing is safe:** low-risk formats built only from published, public sources, such as a post announcing a published paper or a newsletter digest.
+- **Where humanless publishing is safe:** low-risk formats built only from published, public sources, such as a post announcing a published paper or a newsletter digest. AI text on a public-interest topic published with no human editorial review must carry an AI disclosure (EU AI Act Art. 50, as Dutch media read it, Media Campus NL 2026). For journalists, automated output is always a draft for an editor.
 - **Where to keep a person in the loop:** press releases, quotes, health claims, policy briefs, and anything under embargo.
 - **Fix the settings in the house-style file,** so every run behaves the same.
 - **Keep the review report even when it isn't shown** (`report=json` is easy to log). It is the audit trail of what was left out and why.

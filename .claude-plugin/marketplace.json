@@ -8,7 +8,7 @@
     {
       "name": "scicom",
       "source": "./plugins/scicom",
-      "description": "Plan, write and review science communication for universities and research institutes: press releases, news items, social media, talks, policy briefs, communication plans and more."
+      "description": "Plan, write and review science communication for universities and research institutes: press releases, news items, social media, talks, policy briefs, communication plans and more. Also for science journalists: assessing studies and releases, news stories, interviews and fact-checks."
     },
     {
       "name": "scicom-quantum",

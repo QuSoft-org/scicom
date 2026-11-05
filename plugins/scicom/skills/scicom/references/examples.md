@@ -87,3 +87,24 @@ All examples are **fictional**: invented studies, people and institutions, made 
 - The options are stated with their trade-offs and uncertainty.
 - It makes no hidden recommendation.
 - The numbers are ranges, and they are marked for checking against the model.
+
+## 5. A journalist turns a hyped release into an independent news story (role: journalist)
+
+**Input (fictional):** a university release headlined "Breakthrough quantum sensor will revolutionise medical imaging", about a paper in a peer-reviewed journal. The paper reports a sensor that detected magnetic fields 20 times weaker than a reference sensor, in one lab, at minus 269 °C, on one device. A start-up co-founded by the last author holds a licence.
+
+**Red flags found:**
+- The release says "will revolutionise medical imaging"; the paper makes no medical claim.
+- One device, the best of four built [CHECK in the methods]; lab conditions only.
+- The comparator is an older sensor type, not the best current one.
+- The last author's start-up is in the competing-interests section, not in the release.
+
+**Experts:** two outside researchers found through the paper's references and recent papers on the same question, each with a link to their institutional page; one works on the competing sensor type. Both asked "who else should I call, and who disagrees?".
+
+**Reply request:** none needed (no allegation); the start-up link goes in as context.
+
+**Opening:**
+> A prototype quantum sensor detected magnetic fields 20 times weaker than an older type of sensor in laboratory tests, researchers at [fictional university] report in [journal]. The result was shown on one device cooled to near absolute zero, and outside experts say it is too early to talk about medical scanners.
+
+**Filing note:** keep "prototype", "one device", "laboratory tests" and the start-up line; strongest headline: "Prototype quantum sensor picks up very weak magnetic fields in lab tests".
+
+**Why it works:** the release is a lead, not a source; the claim is tied to its stage; the comparator and the interest are reported; the experts are verifiable and weighted.

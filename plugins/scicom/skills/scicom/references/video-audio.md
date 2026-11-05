@@ -33,9 +33,10 @@
 - **Takes:** several short takes beat one long one. Film extra footage too: equipment, people working, close-ups.
 - **Permissions:**
   - consent from everyone who can be identified;
-  - check lab safety rules. For hazardous demonstrations (fire, chemicals, high voltage, batteries), film only under the lab's safety supervision, show the protection used, and say "don't try this at home" plus what viewers should do instead;
+  - check lab safety rules; never stage or enhance a test so it looks more dramatic than the real result, and label reconstructions. For hazardous demonstrations (fire, chemicals, high voltage, batteries), film only under the lab's safety supervision, show the protection used, and say "don't try this at home" plus what viewers should do instead;
   - check for confidential material in shot (whiteboards, screens);
-  - licensed music only.
+  - licensed music only;
+  - an AI avatar or cloned voice of a real researcher needs the researcher's consent and a label while it is shown.
 
 ## Short vertical video (TikTok, Reels, Shorts)
 

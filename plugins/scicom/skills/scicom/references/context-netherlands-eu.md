@@ -38,6 +38,9 @@ Load this file only when the work concerns Dutch or EU audiences, media, funders
 | SciComNL | network of Dutch science communication professionals |
 | WetenschapVeilig | platform where researchers facing threats or harassment get support through their institution |
 | Loket Kennisveiligheid | national advice desk on knowledge security |
+| Raad voor de Journalistiek | press council: its *Leidraad* sets Dutch journalistic standards (rebuttal, previews, quotes); handles complaints |
+| NVJ | journalists' union: ten-point code; *Modelrichtlijn AI* (2026), alongside the Media Campus NL AI-transparency guideline |
+| PersVeilig | support for journalists facing threats or harassment |
 | Netherlands Code of Conduct for Research Integrity (2018) | the integrity standard for Dutch research, including honest communication |
 
 ## Dutch policy channels

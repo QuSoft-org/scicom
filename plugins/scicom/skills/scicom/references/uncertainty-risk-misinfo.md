@@ -43,13 +43,14 @@
 - **Percentages:** "percentage points" for differences between percentages; "15 times", not "1,400%"; the median when outliers skew the mean.
 - **Comparisons:** use familiar ones, but don't trivialise.
 - **Visuals:** icon arrays with the numbers on them (baseline and extra cases in two colours); bars to compare options; lines for change over time.
-- **Hazard versus risk:** separate what could cause harm from how likely and how serious the harm is. Explain in one sentence why the risk is as large or small as it is, aimed at the likely misconception, and who monitors it.
+- **Hazard versus risk:** separate what could cause harm from how likely and how serious the harm is. For "no evidence of harm", say whether anyone looked: not studied, or studied and nothing found. Explain in one sentence why the risk is as large or small as it is, aimed at the likely misconception, and who monitors it.
 - **Threat plus response:** pair every threat with a response that works and a step people can take. A threat alone gets played down. Say what remains fine: a limited warning is often heard as "avoid it altogether".
 - **Perceived risk:** risks feel worse when involuntary, uncontrollable, unfair (some bear it, others benefit), catastrophic, unfamiliar or poorly understood, or managed by people the audience distrusts. Say which apply and how each is handled; don't dismiss the concern.
 - **Scope:** say whom and what conditions the numbers apply to, and what each percentage is out of (per person, per run, per year). For "% of the limit", say which quantity (field strength, power density, dose) and which limit.
 - **Rankings and indices:** report the band ("in the top 100"), not the exact rank; say who built the index and what goes into it. Don't make news of small rank changes: if asked anyway, write a short website item, not a release.
-- **Translate statistics:** statistical significance is not importance; correlation is not causation; one study is not a consensus.
-- **Small counts** (10 incidents versus 4): give the counts, not only the percentage change, and say that chance and changes in reporting can't be excluded.
+- **Translate statistics:** statistical significance is not importance; correlation is not causation; one study is not a consensus; compared with what (the control group's rate)?; an odds ratio is not a risk; beware regression to the mean (the worst-off "improve most"); with huge samples, trivial differences become significant.
+- **Small counts** (10 incidents versus 4): give the counts, not only the percentage change, and say that chance and changes in reporting can't be excluded. For a relative risk from an observational study, give observed against expected cases and the study size: tripling a tiny risk still leaves a tiny risk.
+- **Rates and framing:** a total is not a rate; compare like with like; a hotspot may reflect where cases are recorded; one change can be "2%" or "half of what remains", so ask for all the figures. No harm seen in N subjects says little about harms rarer than about 1 in N/3. Population findings hold on average: "people who… lived longer on average", not "you will".
 - **Very large or very small numbers** (common in physics and computer science):
   - use comparisons of scale, and check them;
   - state the conditions behind speed-up claims ("a million times faster than…what, on which task?").

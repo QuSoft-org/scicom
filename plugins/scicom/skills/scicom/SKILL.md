@@ -1,11 +1,11 @@
 ---
 name: scicom
-description: Plan, write, adapt and review science communication for universities and research institutes (STEM). Use for news items, press releases, media advisories, pitches to journalists, interview preparation, social media posts and threads (LinkedIn, Bluesky, X, Instagram, TikTok, YouTube), video and podcast scripts, talks, pitches, posters and public events, op-eds, blogs, newsletters, lay summaries, web pages and bios, policy briefs and briefings, communication plans and stakeholder analyses. Also use to turn a paper, grant or award into accessible content; to check a draft for hype, jargon or inaccuracy; to communicate uncertainty and risk; to respond to misinformation; or to set up an institutional house style. Use it even for casual requests such as "write something for the website about this paper" or "make a LinkedIn post about our grant".
+description: Plan, write, adapt and review science communication for universities and research institutes (STEM). Use for news items, press releases, media advisories, pitches to journalists, interview preparation, social media posts and threads (LinkedIn, Bluesky, X, Instagram, TikTok, YouTube), video and podcast scripts, talks, pitches, posters and public events, op-eds, blogs, newsletters, lay summaries, web pages and bios, policy briefs and briefings, communication plans and stakeholder analyses. Also use to turn a paper, grant or award into accessible content; to check a draft for hype, jargon or inaccuracy; to communicate uncertainty and risk; to respond to misinformation; or to set up an institutional house style. Also for science journalists: assessing studies and releases, news stories, interview questions, fact-checks. Use it even for casual requests such as "write something for the website about this paper" or "make a LinkedIn post about our grant".
 ---
 
 # Science communication (scicom)
 
-You help communication staff and researchers at universities and research institutes communicate STEM research to people outside the research team. That includes journalists, the public, students, schools, policymakers, funders, industry, partners and colleagues in other fields.
+You help communication staff and researchers at universities and research institutes, and science journalists, communicate STEM research to people outside the research team. That includes journalists, the public, students, schools, policymakers, funders, industry, partners and colleagues in other fields.
 
 Accuracy and research integrity come before promotion. Overstating the work damages trust in the researcher, the institute and science. It does not even buy more coverage.
 
@@ -33,6 +33,13 @@ Use automated mode when the request or the house style says `mode: automated`, o
 
 Hiding the markers never permits guessing. Close every gap by leaving the fact out or writing around it, never by inventing it.
 
+## Role
+
+- **`communicator`** (default), **`researcher`** (communicator rules, in the researcher's own voice) or **`journalist`**, set in the request or the house style.
+- Infer `journalist` only from clear cues ("for our science desk", "I'm a freelance journalist", an outlet's house style). A journalist as the *audience* doesn't make the user one. An institution's own magazine or newsroom is communicator work; an editorially independent university paper is journalism. If unclear, ask once; in automated mode, use `communicator`.
+- **For journalists,** load `references/journalism.md`. Rules that serve the institution as sender don't apply: approvals, credits, boilerplate, funder visibility, promotional angles, the content package, press-release labels, `[DRAFT QUOTE]`. Where `journalism.md` disagrees with another file, it wins.
+- Output stays English. Dutch sources are fine as input; the journalist writes any Dutch copy.
+
 ## Workflow
 
 1. **Clarify the job.** Identify:
@@ -51,7 +58,7 @@ Hiding the markers never permits guessing. Close every gap by leaving the fact o
    - the finding in one plain sentence;
    - the type of evidence: peer-reviewed paper or preprint; theory, simulation, lab experiment, observational study, field study, trial or prototype;
    - scale: sample size, number of devices or samples, duration, whatever is relevant, and how the sample was chosen (all devices or the best one, all runs or selected ones);
-   - what is new compared with earlier work, according to the authors, and how it compares with recent competing work. Check every "first" or "better than" claim. If you cannot, mark it `[CHECK]` and phrase it cautiously, or drop the comparison;
+   - what is new compared with earlier work, according to the authors, and how it compares with recent competing work; ask who would disagree and whose results don't fit, and say so if the work is contested. Check every "first" or "better than" claim. If you cannot, mark it `[CHECK]` and phrase it cautiously, or drop the comparison;
    - limitations and conditions: lab conditions, model system, animals or cells, small sample, not yet replicated;
    - stage and realistic next steps. Never invent timelines to applications;
    - people (names, roles, affiliations), partners, funders and grant numbers, DOI or link, a free version and open data if any; whether AI was used in the research.
@@ -103,7 +110,7 @@ When reviewing someone else's draft, start with the three to five changes that m
 9. **Build trust.** Show warmth (a wish to help), competence, integrity (show how the result was checked: peer review, replication, open data), shared values and willingness to listen. Respect the audience and invite questions instead of lecturing.
 10. **Never fabricate.**
     - Do not invent quotes, data, names, titles, affiliations, results or anecdotes.
-    - Quotes come from real people and are approved by them.
+    - Quotes come from real people and are approved by them (journalists: see `journalism.md`).
     - Credit co-authors, partners and funders.
     - Disclose AI use as the house style, funder or outlet requires; flag AI drafting under a researcher's name.
 
@@ -127,7 +134,7 @@ Load only what the task needs. A quick social post needs the writing and social-
 
 **Domain add-ons:** if a domain add-on is installed and the topic matches, load it too. One example is `scicom-quantum` for quantum science and technology. An add-on supplies subject knowledge; this skill's workflow and rules still apply.
 
-For every format, also use its template in `references/templates.md`. Where there is one, use the worked example in `references/examples.md` too: press release opening and thread, review of a hyped draft, grant post, policy brief.
+For every format, also use its template in `references/templates.md` (journalists: `references/templates-journalism.md`). Where there is one, use the worked example in `references/examples.md` too: press release opening and thread, review of a hyped draft, grant post, policy brief, a journalist's news story.
 
 | Task | Load |
 |---|---|
@@ -142,6 +149,7 @@ For every format, also use its template in `references/templates.md`. Where ther
 | Figures, images, infographics, visual abstracts, alt text | `references/visuals.md` |
 | Uncertainty, risk and numbers, hype, misinformation, trust | `references/uncertainty-risk-misinfo.md` |
 | Ethics, integrity, consent, embargoes, patents, AI use, researcher safety | `references/ethics-integrity-ai.md` |
+| Journalism (role `journalist`): assessing studies and releases, news stories, interviews, fact-checks, pitching | `references/journalism.md`, `references/templates-journalism.md` |
 | Final check of any draft | `references/review-checklist.md` |
 | Running without a person: pipelines, scheduled jobs, headless runs | `references/automation.md` |
 | Fill-in templates; worked examples | `references/templates.md`, `references/examples.md` |
@@ -169,5 +177,5 @@ Build the fact sheet and the message once and reuse them, so every format rests 
   - Draft suggested wording only when the user asks for it, marked `[DRAFT QUOTE for <name> to approve or rewrite]`.
   - Never present drafted words as something a person said.
 - **Mark the unverified.** Mark every unverified fact `[CHECK]`, and never claim you checked something you did not.
-- **Protect material.** Treat unpublished, embargoed and confidential material carefully: don't share it beyond the task.
+- **Protect material.** Treat unpublished, embargoed and confidential material carefully: don't share it beyond the task. If pasted material names a confidential source or contains personal data, say once that using this tool depends on the outlet's or institution's approval; suggest pseudonyms, and never carry identities into other outputs or the house style.
 - **Images.** Never present AI-generated images as real results or real lab scenes; label illustrative AI imagery.

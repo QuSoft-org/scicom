@@ -83,15 +83,16 @@ In your delivery notes (not for distribution), add a **source map**: each number
 - Never suggest a treatment or cure from studies in cells, animals or early human trials. Name the stage in the headline or lede.
 - Avoid false hope for patients and families: say what it does not mean yet, and how far off any treatment is, if the researchers say so.
 - Use the press-release labels, and consider asking a patient organisation or independent clinician for context.
-- Never give medical advice. Where relevant, point readers to their doctor.
+- Never give medical advice. Where relevant, point readers to their doctor. If a finding concerns a medicine or device people already use, put the absolute numbers and "don't stop without talking to your doctor" near the top, not only in spoken remarks.
 
 ## Approval and embargoes
 
 - **The researcher** checks facts, claims and quotes. The researcher decides on facts and claims, the communicator on structure and wording: discuss any discomfort about wording, and fix every factual concern.
+- **Several reviewers:** agree the outline (message, angle, main claim, headline) before drafting; merge comments yourself; keep accuracy fixes, and resist edits that add hype or jargon. Interview researchers and draft the lay text yourself rather than asking them to write it. Push back on publicity for unreviewed work or a project in trouble: tie it to a publication or a clearly labelled stage.
 - **Early warning:** researchers tell the press office at the minor-revisions stage, or when a conference abstract is accepted.
 - **Partners and co-authors:** agree who leads, the timing, the quotes and who pitches which journalist. Partner press offices may want their own version; share drafts early.
 - **Funders:** inform them, and use the required acknowledgement text and logos.
-- **Journal embargoes:** follow the journal's policy, including time and time zone. Never share embargoed results publicly before it lifts. Send embargoed material only to journalists who accept the embargo, or via EurekAlert! or AlphaGalileo, and give them access to the paper.
+- **Journal embargoes:** follow the journal's policy, including time and time zone. Never share embargoed results publicly before it lifts. Send embargoed material only to journalists who accept the embargo, or via EurekAlert! or AlphaGalileo, and give them access to the paper. If the embargo breaks, lift it for the whole list at once and tell them.
 - **Already public:** a preprint on arXiv cannot be embargoed. Say so, and embargo only the release and any new material. Before interviews, tell the researcher that anything in the preprint can be reported now.
 - **Preprints** are common in physics, mathematics and computer science. Say when a result is a preprint, and check the target journal's policy before publicising a submitted paper.
 - **Patents:** check with the technology transfer office before any public disclosure.
@@ -110,6 +111,7 @@ In your delivery notes (not for distribution), add a **source map**: each number
   - avoid holidays, and avoid clashing with your own other big news;
   - make sure the researcher is reachable when the embargo lifts;
   - promote conference papers about a week before the meeting;
+  - prepare backgrounders, diagrams and an expert list for predictable events in your field (launches, anniversaries, recurring hazards);
   - when your topic breaks in the news, offer expertise within about a day, with a few short points, the context (compared with last time? a trend? causes?) and how sure the estimate is;
   - a paper that came out weeks ago gets a news item, not a release, unless it can be tied to a policy moment (a vote, a consultation deadline) with an angle the researcher agrees to.
 - **Sending:** paste the release into the email body; subject line = headline; recipients in BCC.
@@ -150,7 +152,7 @@ A template is in `templates.md`.
 - Practise aloud, with a fluent speaker if the interview is not in their first language. Answers of two or three sentences (20–30 seconds) that make sense on their own, because the question may be cut. For recorded radio and TV, prepare 5–10-second soundbites that contain the question.
 
 **During:**
-- Everything is on the record, including before and after the recording, and email or chat replies. Avoid "off the record".
+- Everything is on the record, including before and after the recording, and email or chat replies, and calls may be recorded without notice. Avoid "off the record".
 - Start with the conclusion, then explain.
 - Answer the question, then bridge back to the message.
 - Stay within your expertise. "I don't know" is fine; "no comment" is not. Explain why you cannot answer.
@@ -165,12 +167,12 @@ A template is in `templates.md`.
 - Remotely: light in front of you, a headset microphone, a neutral background, the camera at eye level.
 
 **After:**
-- Always ask to check your own quotes. Ask to read the rest for factual accuracy only: "May I read the piece to check for factual errors?" (in Dutch: "Mag ik het stuk lezen om te controleren op feitelijke onjuistheden?"). Agree this when the interview is set up. Correct facts; don't ask to change the angle, tone or wording. If the outlet won't share text, email the key points, numbers and spellings, and ask them to read the sentence describing the finding back to you.
+- Always ask to check your own quotes; this is a courtesy, not a right, and gives no veto. In the Netherlands, expect quotes to be used in the expected context, and to be asked again if the piece changes. Ask to read the rest for factual accuracy only: "May I read the piece to check for factual errors?" (in Dutch: "Mag ik het stuk lezen om te controleren op feitelijke onjuistheden?"). Agree this when the interview is set up. Correct facts; don't ask to change the angle, tone or wording. If the outlet won't share text, email the key points, numbers and spellings, and ask them to read the sentence describing the finding back to you.
 - Thank them, share the coverage, log it, and flag errors.
 
 ## Corrections and hostile coverage
 
-- **Factual error:** if it would mislead readers, contact the journalist politely: the article and date, the error, the correct fact and a source. Go to the editor only if needed. Separate errors from interpretations you dislike. Ask for the fix the format allows: a correction note online, updated audio plus a note, a note in the next issue.
+- **Factual error:** if it would mislead readers, contact the journalist politely: the article and date, the error, the correct fact and a source. Go to the editor only if needed. Separate errors from interpretations you dislike. Ask for the fix the format allows: a correction note online, updated audio plus a note, a note in the next issue. A missing key caveat is valid ground too; ask for an update note, not removal. For Dutch outlets the last resort is a complaint to the Raad voor de Journalistiek.
 - **Your own errors:** correct your news items visibly, with a dated note; never edit silently. If a paper you promoted is corrected or retracted, add a dated note to the original item.
 - **Critical story:** journalists send the main points and a deadline. Reply in time, even with a holding line, or the story will say you did not respond. Ask for the claims in writing.
 - **Misleading coverage elsewhere:** post a short, factual clarification on your own channels. Don't amplify fringe pieces.

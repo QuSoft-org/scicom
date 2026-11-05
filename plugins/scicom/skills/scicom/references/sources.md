@@ -81,6 +81,22 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - European Commission (2025). *Special Eurobarometer 557: European citizens' knowledge and attitudes towards science and technology*: https://doi.org/10.2777/6040908
 - Rathenau Instituut (2018). *Trust in Science in the Netherlands*; (2025). *Vertrouwen in de wetenschap: enquête 2025*: https://www.rathenau.nl/sites/default/files/2025-07/Rapport%20Vertrouwen%20in%20de%20Wetenschap_%202025_Rathenau%20Instituut.pdf
 
+## Journalism (for the journalist role)
+
+- Kovach, B. & Rosenstiel, T. (2021). *The Elements of Journalism*, 4th edition. Crown.
+- Blum, D. & Knudson, M. (eds) (1997). *A Field Guide for Science Writers*. Oxford University Press (first edition; National Association of Science Writers).
+- Knight Science Journalism Program at MIT (2020). *Science Editing Handbook*; (2018). *The State of Fact-Checking in Science Journalism*.
+- Raad voor de Journalistiek (2026). *Leidraad* (September 2026 update): https://rvdj.nl
+- NVJ. *NVJ Code*; (2026). *Modelrichtlijn AI in de journalistiek*: https://nvj.nl
+- International Federation of Journalists (2019). *Global Charter of Ethics for Journalists*.
+- Reporters Without Borders and partners (2023). *Paris Charter on AI and Journalism*.
+- Media Campus NL (2026). *AI-transparantie bij nieuws en entertainment*.
+- Science Media Centre (UK): best-practice guidelines for science and health reporting; journalist FAQs (2024); preprint guidelines (2019). Science Media Centre NZ: desk guides (2014, 2026).
+- World Federation of Science Journalists. Online course in science journalism.
+- SciDev.Net. Practical guides for journalists.
+- Schwitzer, G. (2008). *PLoS Medicine* 5: e95: https://doi.org/10.1371/journal.pmed.0050095
+- Newsroom AI policies (AP, Reuters, the Guardian, the BBC; 2023–2026) were read only through press releases and trade press and are used only for the shared pattern.
+
 ## Research papers
 
 **Press releases, news and hype**

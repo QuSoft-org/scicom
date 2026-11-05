@@ -22,8 +22,8 @@
 - **Fresh images over clichés** (glowing blue spheres, streams of binary code, light bulbs, test tubes for fields that don't use them). Use a familiar image only to signal the topic quickly to an audience that cares little.
 - **Show what is being done,** not only the problem.
 - **Show the diversity that really exists,** in people and roles, including technicians and early-career researchers. Never stage it.
-- **Check the details:** people use equipment correctly and wear the right protective gear. Label technical images (detector displays, microscopy) in plain language: outlets run them unchanged.
-- **Match image and message:** the picture must be accurate for the story. Don't illustrate a physics story with a medical lab.
+- **Check the details:** people use equipment correctly and wear the right protective gear; ask what the photo could be read as showing (unsafe handling, missing gear). Label technical images (detector displays, microscopy) in plain language: outlets run them unchanged.
+- **Match image and message:** the picture must be accurate for the story. Don't illustrate a physics story with a medical lab. Say when an image shows a different subject or context (a file or archive photo); disclose visible edits.
 - **Captions** say who, what and where, plus credit and licence.
 
 ## Rights and consent
@@ -45,7 +45,7 @@ Use the house style's credit format, for example "Photo: Name / Institution". Ch
 ## Infographics, animations and scrollytelling
 
 - **Write the script before designing:** headline, three to five steps, one takeaway.
-- **One idea per panel,** consistent icons, and a source line.
+- **One idea per panel,** consistent icons, and a source line. Charts travel without their article: put the source, the stage word and the main caveat inside the image.
 - Readable in about two minutes; test it on one non-expert.
 
 ## AI-generated images

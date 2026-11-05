@@ -6,7 +6,8 @@
 2. **Outline:** what does the reader need first, second, third?
 3. **Draft quickly;** polish later.
 4. **Cut.** Aim to remove a fifth; every paragraph must earn its place.
-5. **Read aloud.** Rewrite wherever you stumble.
+5. **Read aloud.** Rewrite wherever you stumble. Then re-read from the top as a reader who knows only what the text has said so far, and look for words that can be read the wrong way. Don't let a quote carry an explanation you couldn't write yourself.
+6. **Misreading test:** what is the most wrong story a reporter on deadline could write from the headline and lede alone? Cut images and allusions that fail it; where a loaded reading is likely ("teleportation"), add one "this does not mean…" line.
 
 ## Structures
 
@@ -83,18 +84,23 @@ Pick the one that matches what the work actually contributes. Don't force drama 
 | anomaly | abnormal event | difference from the long-term average |
 | enhance | improve | increase, intensify |
 | scheme | a devious plot | systematic plan |
+| chaos | total disorder | sensitive dependence on starting conditions |
+| plasma | blood plasma | ionised gas |
 
 ## Metaphors and analogies
 
 - **Precise first, then vivid,** never the other way round. A direct, concrete explanation often does more than a metaphor.
-- **Use analogies mainly as guardrails** against misconceptions. Choose something the audience knows, and say where the comparison breaks down ("unlike real coins…"). If the breakdown is interesting, it can be the hook.
+- **Use analogies mainly as guardrails** against misconceptions. Choose something the audience knows, run it past the researcher, check that it matches the right quantity (peak power or energy; per pulse or per second), and say where the comparison breaks down ("unlike real coins…"). If the breakdown is interesting, it can be the hook.
 - **One analogy per idea;** don't mix them.
 - **Don't use mystique instead of explanation:** "spooky", "weird", "magic", "mind-bending". In a representative Dutch experiment on quantum technology, calling it "enigmatic" had no measurable effect on engagement, while explaining the physics raised self-reported interest (Meinsma et al. 2026a).
 - **Feeling less sure is fine.** A good explanation can leave readers feeling less sure while understanding more. Aim for understanding, not for readers feeling clever. In a Dutch experiment on quantum news (1,167 adults), explanations raised actual understanding but lowered how well readers felt they understood the article, and metaphorical explanations did no better than plain ones (Meinsma, Reijnierse & Cramer 2026b).
 - **Explain what a thing does before giving its name:** readers take everyday-sounding terms ("superposition", "entanglement") in their everyday sense.
 - **Metaphors carry values.** Check that yours do not reinforce stereotypes.
+- **Writing about AI:** don't give systems human traits, and check developers' claims before repeating them.
 
 ## Headlines and titles
+
+For a story with a lot to explain, the lede can be followed by the real order of events, told as a mystery being solved, instead of the inverted pyramid.
 
 - Say what was found or what happens. Include a verb and be specific.
 - News headlines: about 12 words at most. Web titles: about 60 characters, keywords first.
@@ -174,6 +180,7 @@ Follow the house style first. Otherwise use the European Commission English Styl
 ## Inclusive language and representation
 
 - Gender-neutral terms: chair, staff, they; human-made, not man-made.
+- Don't name diseases or pathogens after places, peoples or groups.
 - Respectful terms: older people, not "the elderly"; people with a condition, not "suffering from" it.
 - No "layman"; no "simply" or "obviously".
 - Person-first language where people prefer it.

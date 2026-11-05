@@ -6,7 +6,7 @@ Based on the *Guidelines for Good Research Communication* (Wissenschaft im Dialo
 
 - **Honesty and accuracy:** present results as they are, with their limitations, without exaggeration.
 - **Transparency:** name sources, funders, partners and relevant interests. Declare more than money: patent and spin-off stakes, board roles, earlier public positions. Interests don't disqualify you; hiding them does. Check declared interests against the institution's public register of ancillary activities (nevenwerkzaamheden). Be clear about what kind of text it is: institutional communication is not independent journalism.
-- **Separate** facts, interpretation and opinion, and mark speculation as speculation.
+- **Separate** facts, claims, interpretation and opinion (a researcher's "first" is a claim to attribute), and mark speculation as speculation.
 - **Respect audiences:** be understandable and don't manipulate.
 - **Independence:** communication goals must not shape results or how they are presented.
 - **Correct errors** promptly and visibly.
