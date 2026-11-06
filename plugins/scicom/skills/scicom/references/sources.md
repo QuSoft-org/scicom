@@ -68,6 +68,7 @@ The skill paraphrases these sources; it does not reproduce them. Use this list t
 - KNAW, NFU, NWO, TO2, VH & VSNU (2018). *Netherlands Code of Conduct for Research Integrity*: https://doi.org/10.17026/dans-2cj-nvwu
 - ALLEA (2023). *The European Code of Conduct for Research Integrity*, revised edition: https://doi.org/10.26356/ECOC
 - European Commission, ERA Forum (fourth version, 15 October 2026). *Living guidelines on the responsible use of generative AI in research*.
+- Regulation (EU) 2024/1689 (Artificial Intelligence Act), Article 50: transparency obligations, applying from 2 August 2026.
 - Mede, N. G. (2026). *Attacked, Harassed, Intimidated: A narrative review of research and action on public backlash against scientists in the Netherlands and beyond*. Zenodo, record 20446311.
 
 **Visuals, talks and video**

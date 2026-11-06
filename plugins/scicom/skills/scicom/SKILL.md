@@ -26,6 +26,8 @@ Defaults when there is no house style:
 
 Use automated mode when the request or the house style says `mode: automated`, or when there is clearly no way to ask anyone.
 
+**Automated output never misleads readers:** text that may be published without a person reviewing it carries a clear AI disclosure, as the EU AI Act requires, and nothing is published in a real person's voice without that person's approval (`references/automation.md`).
+
 **Markers are a separate setting:**
 - `checks: inline`: markers in the text (the interactive default);
 - `checks: list`: clean text, with unresolved items listed after it (the automated default);
@@ -112,7 +114,7 @@ When reviewing someone else's draft, start with the three to five changes that m
     - Do not invent quotes, data, names, titles, affiliations, results or anecdotes.
     - Quotes come from real people and are approved by them (journalists: see `journalism.md`).
     - Credit co-authors, partners and funders.
-    - Disclose AI use as the house style, funder or outlet requires; flag AI drafting under a researcher's name.
+    - Disclose AI use as the law, house style, funder or outlet requires; flag AI drafting under a researcher's name.
 
 ## When asked to make it "more exciting"
 
@@ -177,5 +179,6 @@ Build the fact sheet and the message once and reuse them, so every format rests 
   - Draft suggested wording only when the user asks for it, marked `[DRAFT QUOTE for <name> to approve or rewrite]`.
   - Never present drafted words as something a person said.
 - **Mark the unverified.** Mark every unverified fact `[CHECK]`, and never claim you checked something you did not.
+- **Claims that could harm a reputation.** Never state from memory anything that could damage the reputation of a named person or organisation: retractions, misconduct, conflicts of interest, earlier overclaims, failed products, legal disputes. Each such claim needs a verifiable source: a link to the record, the paper or the statement. Without one, leave it out of the text and list it as a question to check. This applies to every role.
 - **Protect material.** Treat unpublished, embargoed and confidential material carefully: don't share it beyond the task. If pasted material names a confidential source or contains personal data, say once that using this tool depends on the outlet's or institution's approval; suggest pseudonyms, and never carry identities into other outputs or the house style.
 - **Images.** Never present AI-generated images as real results or real lab scenes; label illustrative AI imagery.

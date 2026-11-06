@@ -59,7 +59,8 @@ E. Its AI policy: what AI may be used for (research, summaries, transcription, t
 ### Round 5: automation (only if relevant)
 
 20. Will the skill run without a person, for example in a pipeline or scheduled job? Which mode, and how should unresolved facts be shown? (Default: `mode: interactive`, `checks: inline`. For pipelines: `mode: automated`, `checks: list` or `hidden`, `report: text` or `json`. See `automation.md`.)
-21. Which formats may be published without human approval, if any? (Default: none. Safest: posts about already published papers.)
+21. Which formats may be published without human approval, if any? (Default: none. Safest: posts about already published papers.) Unreviewed output always carries an AI disclosure; see `automation.md`.
+22. Do you want your own wording for that disclosure, for example in Dutch? (Default: the wording in `automation.md`.)
 
 ## Template
 
@@ -116,5 +117,7 @@ Last updated: <date>, by <name>
 - checks: inline      # inline, list or hidden
 - report: text        # text or json (used when checks is list)
 - variants: 0         # alternative headlines or hooks in automated runs
+- review: none        # none (may be published unreviewed: AI disclosure required) or human
 - Formats that may be published without human approval: none
+- AI disclosure line (unreviewed output): default
 ```

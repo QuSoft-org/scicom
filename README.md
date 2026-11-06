@@ -28,11 +28,7 @@ The skill infers `journalist` only from clear cues ("for our science desk", "I'm
 
 ## Install
 
-This repository is private. Before installing you need two things:
-- access to `QuSoft-org/scicom` on GitHub (ask a QuSoft-org owner);
-- to be signed in to GitHub on your computer. The simplest way is to install GitHub's tool (`brew install gh`), then run `gh auth login` and `gh auth setup-git`.
-
-Then, in Claude Code, type:
+In Claude Code, type:
 
 ```
 /plugin marketplace add QuSoft-org/scicom
@@ -76,6 +72,8 @@ You can also call the skill directly with `/scicom:scicom`.
 
 In pipelines, scheduled jobs or headless runs, the skill can run in automated mode. It then never asks questions. It closes gaps by leaving unverified facts out (never by guessing), and adds a review report with a status (`ready`, `needs_review` or `needs_input`), or nothing at all.
 
+Automated output never misleads readers: text that may be published without a person reviewing it carries a clear AI disclosure, as the EU AI Act requires, and nothing is published in a real person's voice without that person's approval.
+
 Turn it on in the request, for example `scicom: mode=automated, checks=hidden`, or in the house-style file. Details are in `references/automation.md`.
 
 ## House style
@@ -99,4 +97,4 @@ Open an issue in this repository.
 
 ## Licence
 
-© 2026 QuSoft. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (see `LICENSE`): you may use, share and adapt the skill for non-commercial purposes, provided you credit QuSoft and indicate changes. Commercial use requires written permission from QuSoft. The works cited in the skill remain the property of their authors and publishers; the licence covers only QuSoft's own text.
+Made by Aldo Brinkman and published through QuSoft's GitHub organisation. © 2026 Aldo Brinkman. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE`): you may use, share and adapt the skill for any purpose, including commercially, provided you credit Aldo Brinkman, link to the licence and indicate changes. Texts you write with the skill are yours and need no credit. The works cited in the skill remain the property of their authors and publishers; the licence covers only the skill's own text.

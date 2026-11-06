@@ -152,7 +152,7 @@ A template is in `templates.md`.
 - Practise aloud, with a fluent speaker if the interview is not in their first language. Answers of two or three sentences (20–30 seconds) that make sense on their own, because the question may be cut. For recorded radio and TV, prepare 5–10-second soundbites that contain the question.
 
 **During:**
-- Everything is on the record, including before and after the recording, and email or chat replies, and calls may be recorded without notice. Avoid "off the record".
+- Everything is on the record, including before and after the recording, and email or chat replies. In the Netherlands, anyone taking part in a call may record it without telling the others; elsewhere the rules differ, so check local law. Either way, assume you are being recorded. Avoid "off the record".
 - Start with the conclusion, then explain.
 - Answer the question, then bridge back to the message.
 - Stay within your expertise. "I don't know" is fine; "no comment" is not. Explain why you cannot answer.

@@ -1,13 +1,13 @@
 {
   "name": "scicom-quantum",
   "description": "Quantum add-on for the scicom skill: analogies that mislead and better framings, subfield framings, quantum claim checks and the quantum hype ecosystem.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": {
-    "name": "QuSoft"
+    "name": "Aldo Brinkman"
   },
   "homepage": "https://github.com/QuSoft-org/scicom",
   "repository": "https://github.com/QuSoft-org/scicom",
-  "license": "CC-BY-NC-4.0",
+  "license": "CC-BY-4.0",
   "keywords": [
     "science communication",
     "quantum computing",

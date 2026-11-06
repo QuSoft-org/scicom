@@ -99,4 +99,3 @@ All findings above were checked against the published full texts in October 2026
 - Meinsma, A. L., Albers, C. J., Vermaas, P. E., Smeets, I. & Cramer, J. (2026a). The effect of frames on engagement with quantum technology. *EPJ Quantum Technology*: https://doi.org/10.1140/epjqt/s40507-026-00549-0
 - Soto-Sanfiel, M. T., Chong, C.-W. & Latorre, J. I. (2025). *Humanities and Social Sciences Communications*: https://doi.org/10.1057/s41599-025-05200-4
 - Wang, M. & Xu, D. (2025). *Online Media and Global Communication*: https://doi.org/10.1515/omgc-2025-0009
-- QuSoft's earlier quantum-scicomm skill: the analogy table and subfield framings.
